@@ -1,0 +1,15 @@
+# folders
+
+#vcf files
+WGS_blood/00_CNV_SNV_data/1.1_snp/QIHUI/
+
+# output of something
+WGS_blood/00_CNV_SNV_data/1.1_snp/HaploX/
+
+
+WGS_blood/04_blood_typing/scripts/preprocess_files/
+
+WGS_blood/04_blood_typing/supporting_files/annotated_vcf/
+WGS_blood/04_blood_typing/supporting_files/Genome_refseq/
+WGS_blood/docker_QIHUI/
+
