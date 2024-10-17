@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+DO	DO:1+ or Do(a+)	DO*01  or DO*A	ART4	SNP	c.793G>A	p.Asp265Asn	2	common	ISBT			PMID: 11552072 NM021071 AF290204 n.a.
+DO	DO:2 or Do(b+)	DO*02  or DO*B	ART4	SNP	c.793G>G	p.Asp265Asp	2	common	ISBT			PMID: 11552072 NM021071 AF290204 rs11276
+DO	DO:–4 or Hy–	DO*02. –04	ART4	SNP	c.323G>T;c.793A>G	p.Gly108Val;p.Asn265Asp	2	rare	ISBT			PMID: 11896313 AH011615 AH011616 rs28362797 rs11276
+DO	DO:–5 or Jo(a–)	DO*01.–05	ART4	SNP	c.350C>T	p.Thr117Ile	2	rare	ISBT			PMID: 11896313 AH011617 rs28362798
+DO	DO:–6 or DOYA–	DO*01.–06	ART4	SNP	c.547T>G	p.Tyr183Asp	2	rare	ISBT			PMID: 20088839 n.a. n.a.
+DO	DO:–7 or DOMR–	DO*02.–07	ART4	SNP	c.431C>A;c.432C>A;c.793A>G	p.Ala144Glu;p.Ala144Glu;p.Asn265Asp	2	rare	ISBT			PMID: 20412531 GU724770 rs1355202105 rs1210078970 rs11276
+DO	DO:–8 or DOLG–	DO*01.–08	ART4	SNP	c.674T>A	p.Leu225Gln	2	rare	ISBT			(1), Abstract n.a. rs532592412
+DO	DO:–9 or DOLC–	DO*01.–09	ART4	SNP	c.566C>T	p.Thr189Met	2	rare	ISBT			(2), Abstract n.a. rs28362800
+DO	DO:–10 or DODE–	DO*01.–10	ART4	SNP	c.405C>A	p.Asp135Glu	2	rare	ISBT			(3), Abstract n.a. rs28362799
+DO	DO:–3 or Gy(a–)	DO*01N.01	ART4	SNP	c.442C>T	p.Gln148Ter	2	rare	ISBT			PMID: 11552072 AH011373 rs56340844
+DO	DO:–3 or Gy(a–)	DO*01N.02	ART4	CNV	c.343_350del[ART4:c.343_350del]	p.Met115Hisfs*18	2	rare	ISBT			PMID: 11552072 AH011373 rs587777832
+DO	DO:–3 or Gy(a–)	DO*01N.03	ART4	CNV	c.219delT[ART4:c.219del]	p.Val73Valfs*5	2	rare	ISBT			(4), Abstract n.a. n.a.
+DO	DO:–4 or Gy(a–)	DO*01N.04	ART4	CNV	c.730dupG(published as c.728_729insG)[ART4:c.728_729insG]	p.Glu244Glyfs*8	2	rare	ISBT			PMID: 33190238 MN082686 rs769684528
+DO	DO:–5 or Gy(a–)	DO*01N.05	ART4	SNP,CNV	c.93G>A;c.370delT[ART4:c.370del]	p.Leu31Leu;p.Leu124Cysfs*5	2	rare	ISBT			PMID: 33206405 MT747635 rs4106889023 rs2137544113
+DO	DO:–6 or Gy(a–)	DO*01N.06	ART4	CNV	c.201delA[ART4:c.201del]	p.Gly68Alafs*10	2	rare	ISBT			(5), Abstract n.a. n.a.
+DO	DO:–3 or Gy(a–)	DO*02N.01	ART4	SNP	c.145-2A>G;c.793A>G	Aberrant splicing	2,Intron 1	rare	ISBT			PMID: 11724986 AY029516 rs587777831 rs11276
+DO	DO:–3 or Gy(a–)	DO*02N.02	ART4	SNP	c.144+2T>C;c.793A>G	Aberrant splicing	2,Intron 1	rare	ISBT			PMID: 12028057 AH011372 rs587777833 rs11276
+DO	DO:–3 or Gy(a–)	DO*02N.03	ART4	SNP	c.185T>C;c.793A>G	p.Phe62Ser;p.Asn265Asp	2	rare	ISBT			PMID: 17655578 EF178609 rs150640567 rs11276
+DO	DO:–3 or Gy(a–)	DO*02N.04	ART4	SNP	c.268C>T;c.793A>G	p.Gln90Ter;p.Asn265Asp	2	rare	ISBT			PMID: 25865759 LC011479 rs759901596 rs11276
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

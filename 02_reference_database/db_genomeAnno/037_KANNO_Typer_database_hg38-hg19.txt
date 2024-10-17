@@ -1,0 +1,3 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+KANNO	KANNO:1 or KANNO1+	KANNO*01	PRNP	SNP	c.655G>G	p.Glu219Glu	1	universal	ISBT	-	-
+KANNO	KANNO:-1 or KANNO1-	KANNO*01.-01	PRNP	SNP	c.655G>A	p.Glu219Lys	2	rare	ISBT	g.4699875G>A	g.4680521G>A

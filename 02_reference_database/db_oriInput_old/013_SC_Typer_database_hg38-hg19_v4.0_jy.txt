@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+SC	SC:1 or Sc1+	SC*01	ERMAP	SNP	c.169G>G	p.Gly57Gly	4	universal	ISBT	g.42830851G>G		PMID: 27612015 KX265235 
+SC	SC:2 or Sc2+	SC*02	ERMAP	SNP	c.169G>A	p.Gly57Arg	4	rare	ISBT	g.42830851G>A		PMID: 12393480 AY644424 rs56025238
+SC	SC:4 or Rd+	SC*01.04	ERMAP	SNP	c.178C>G	p.Pro60Ala	4	rare	ISBT	g.42830860C>G		PMID: 12393480 AJ505044 rs56136737
+SC	SC:–5 or STAR–	SC*01.–05	ERMAP	SNP	c.139G>A	p.Glu47Lys	4	rare	ISBT			PMID: 15660834 AY644424.1 rs56047316
+SC	SC:–6 or SCER–	SC*01.–06	ERMAP	SNP	c.242G>A	p.Arg81Gln	4	rare	ISBT			PMID: 16371048 not available rs368064875
+SC	SC:–7 or SCAN–	SC*01.–07	ERMAP	SNP	c.103G>A	p.Gly35Ser	4	rare	ISBT			PMID: 16371048 not available rs146429994
+SC	SC:–8 or SCAR–	SC*01.–08	ERMAP	SNP	c.424C>G	p.Gln142Glu	4	rare	ISBT			PMID: 33098316 MK933825 pending
+SC	SC:–9 or SCAC–	SC*01.–09	ERMAP	SNP	c.217C>T;c.219C>T	p.Arg73Cys	4	rare	ISBT			(1), Abstract MW427218 pending
+SC	SC:–3 or SC:–1–2–3	SC*01N.01	ERMAP	CNV	c.307_308delGA[ERMAP:c.307_308del]	p.Asp103Cysfs*12	4	rare	ISBT	g.42830985_42830986del		PMID: 12393480 AJ505028 rs387906265
+SC	SC:–3 or SC:–1–2–3	SC*01N.02	ERMAP	SNP	c.994C>T	p.Arg332Ter	12	rare	ISBT			PMID: 16371048 JF828030.1 rs1056261813
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

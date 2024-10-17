@@ -1,0 +1,599 @@
+Blood_system	Phenotype 	Allele name 	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position
+RH	D RH:1 	RHD*01	RHD	SNP	c.48G>G	p.Trp16Trp	1	common	ISBT		
+RH	Normal D antigen;DUC-3	RHD*01.01	RHD	SNP	c.48G>C	p.Trp16Cys	1	-	ISBT		
+RH	DII 	RHD*02 RHD*DII	RHD	SNP	c.1061C>A	p.Ala354Asp	7	-	ISBT		
+RH	DIIIa RH:54 (DAK+)	RHD*03.01 RHD*DIIIa	RHD	SNP	c.186G>T;c.410C>T;c.455A>C; c.602C>G; c.667T>G; c.819G>A	p.Leu62Phe; p.Ala137Val; p.Asn152Thr; p.Thr201Arg; p.Phe223Val; silent 	2,3,4,5,6	-	ISBT		
+RH	DIIIb Caucasian RH:54 (DAK+) RH:-12 (G-) 	RHD*03.02 RHD*DIIIb	RHD	SNP	c.150T>C; c.178A>C; c.201G>A; c.203G>A; c.307T>C	silent; p.Ile60Leu; silent; p.Ser68Asn; p.Ser103Pro 	2	-	ISBT		
+RH	DIIIc 	RHD*03.03 RHD*DIIIc	RHD	SNP	c.361T>A; c.380T>C; c.383A>G; c.455A>C	p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr 	3	-	ISBT		
+RH	DIII type 4 	RHD*03.04 RHD*DIII.04	RHD	SNP	c.186G>T; c.410C>T; c.455A>C	p.Leu62Phe;p.Ala137Val;p.Asn152Thr	2,3	-	ISBT		
+RH	Not tested 	RHD*03.04.02 RHD*DIII.04.02	RHD	SNP	c.186G>T; c.307T>C; c.410C>T; c.455A>C	p.Leu62Phe; p.Ser103Pro; p.Ala137Val; p.Asn152Thr 	2,3	-	ISBT		
+RH	DIII type 6 	RHD*03.06 RHD*DIII.06	RHD	SNP	c.410C>T; c.455A>C; c.602C>G; c.667T>G; c.819G>A	p.Ala137Val; p.Asn152Thr; p.Thr201Arg; p.Phe223Val; silent 	3,4,5,6	-	ISBT		
+RH	DIII type 7 (likely the historically defined DIIIb)	RHD*03.07 RHD*DIII.07	RHD	SNP	c.150T>C; c.178A>C; c.201G>A; c.203G>A; c.307T>C; c.410C>T; c.455A>C;c.602C>G;c.667T>G	silent; p.Ile60Leu; silent; p.Ser68Asn; p.Ser103Pro; p.Ala137Val; p.Asn152Thr; p.Thr201Arg; p.Phe223Val 	2,3,4,5	-	ISBT		
+RH	DIII type 8 	RHD*03.08 RHD*DIII.08	RHD	SNP	c.410C>T; c.455A>C	p.Ala137Val; p.Asn152Thr 	3	-	ISBT		
+RH	DIII type 9 	RHD*03.09 RHD*DIII.09	RHD	SNP	c.186G>T;c.410C>T;c.455A>C;c.667T>G	p.Leu62Phe; p.Ala137Val; p.Asn152Thr; p.Phe223Val 	2,3,4,5	-	ISBT		
+RH	DIVa RH30+ (Goa+) 	RHD*04.01 RHD*DIVa	RHD	SNP	c.186G>T; c.410C>T; c.455A>C; c.1048G>C	p.Leu62Phe; p.Ala137Val; p.Asn152Thr; p.Asp350His 	2,3,7	-	ISBT		
+RH	DIVa type 2 obsolete	-	RHD	SNP	c.186G>T; c.455A>C; c.1048G>C	p.Leu62Phe; p.Asn152Thr; p.Asp350His	2,3,7	-	ISBT		
+RH	DIVa-like or DIVa type 3 	RHD*04.01.02	RHD	SNP	c.186G>T; c.410C>T; c.455A>C; c.667T>G; c.1048G>C	p.Leu62Phe; p.Ala137Val; p.Asn152Thr; p.Phe223Val; p.Asp350His 	2,3,7	-	ISBT		
+RH	DIV type 3 	RHD*04.03 RHD*DIV.3	RHD	SNP	c.916G>A; c.932A>G; c.941G>T; c.968C>A; c.974G>T; c.979A>G; c.985G>C; c.986G>A; c.989A>C; c.992A>T; c.1025T>C; c.1048G>C; c.1053C>T; c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A; c.1063G>T; c.1170T>C; c.1193A>T	p.Val306Ile; p.Tyr311Cys; p.Gly314Val; p.Pro323His; p.Ser325Ile; p.Ile327Val; p.Gly329His; p.Gly329His; p.Tyr330Ser; p.Asn331Ile; p.Ile343Thr;p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn; silent; silent; p.Glu398Val	6,7,8,9	-	ISBT		
+RH	DIV type 4 	RHD*04.04 RHD*DIV.4	RHD	SNP	c.1048G>C;c.1053C>T; c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A	p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn 	7	-	ISBT		
+RH	DIV type 5 	RHD*04.05 RHD*DIV.5	RHD	SNP	c.941G>T; c.968C>A; c.974G>T; c.979A>G; c.985G>C; c.986G>A; c.989A>C; c.992A>T; c.1025T>C; c.1048G>C; c.1053C>T; c.1057G>T c.1059A>G; c.1060G>A; c.1061C>A; c.1063G>T; c.1170T>C; c.1193A>T	p.Gly314Val; p.Pro323His; p.Ser325Ile; p.Ile327Val; p.Gly329His; p.Gly329His; p.Tyr330Ser; p.Asn331Ile; p. Ile342Thr; p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn; silent; silent; p.Glu398Val 	7,8,9	-	ISBT		
+RH	DIVb 	RHD*04.06 RHD*DIVb	RHD	SNP	c.1048G>C; c.1053C>T; c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A; c.1170T>C; c.1193A>T	p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn; silent; p.Glu398Val 	7,8,9	-	ISBT		
+RH	DV type 1 	RHD*05.01 RHD*DV.1	RHD	SNP	c.667T>G; c.697G>C	p.Phe223Val; p.Glu233Gln 	5	-	ISBT		
+RH	DV type 2 	RHD*05.02 RHD*DV.2	RHD	SNP	c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T	p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met 	5	-	ISBT		
+RH	DV type 3 	RHD*05.03 RHD*DV.3	RHD	SNP	c.667T>G; c.676G>C; c.697G>C; c.712G>A	p.Phe223Val; p.Ala226Pro; p.Glu233Gln; p.Val238Met 	5	-	ISBT		
+RH	DV Type 4 RH:23 (Dw+) 	RHD*05.04 RHD*DV.4	RHD	SNP	c.697G>C	p.Glu233Gln 	5	-	ISBT		
+RH	DV type 5 RH:-23 (Dw-) 	RHD*05.05 RHD*DV.5	RHD	SNP	c.697G>A	p.Glu233Lys 	5	-	ISBT		
+RH	DV type 6 	RHD*05.06 RHD*DV.6	RHD	SNP	c.667T>G; c.697G>C; c.712G>A	p.Phe223Val; p.Glu233Gln; p.Val238Met 	5	-	ISBT		
+RH	DV type 7 	RHD*05.07 RHD*DV.7	RHD	SNP	c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A	p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; p.Gly263Arg; silent; p.Gly263Arg 	5	-	ISBT		
+RH	DV type 8 	RHD*05.08 RHD*DV.8	RHD	SNP	c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T	p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent 	5	-	ISBT		
+RH	DV type 9 	RHD*05.09 RHD*DV.9	RHD	SNP	c.697G>C; c.712G>A	p.Glu233Gln; p.Val238Met 	5	-	ISBT		
+RH	DV type 10 	RHD*05.10 RHD*DV.10	RHD	SNP	c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G	p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys 	5,6	-	ISBT		
+RH	DVI type 1 RH:-52 (BARC-) 	RHD*06.01 RHD*DVI.1	RHD	SNP	c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G; c.667T>G; c.676G>C; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T	p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg; p.Phe223Val; p.Ala226Pro; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met 	4,5	-	ISBT		
+RH	DVI type 2 RH:52 (BARC+)	RHD*06.02 RHD*DVI.2	RHD	SNP	c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G; c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G	p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg; p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys	4,5,6	-	ISBT		
+RH	DVI type 3 RH:52 BARC+ 	RHD*06.03.01 RHD*DVI.3	RHD	SNP	c.361T>A; c.380T>C; c.383A>G; c.455A>C; c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G; c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G	p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr; p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg; p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val254Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys 	3,4,5,6	-	ISBT		
+RH	DVI type 3.2 BARC not tested 	RHD*06.03.02 RHD*DVI.03.02	RHD	SNP	c.361T>A; c.380T>C; c.383A>G; c.455A>C; c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G; c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G; c.1195G>A	p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr; p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg; p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val254Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys; p.Ala399Thr 	3,4,5,6,9	-	ISBT		
+RH	DVI type 4 RH:52 (BARC+) 	RHD*06.04 RHD*DVI.4	RHD	SNP	c.361T>A; c.380T>C; c.383A>G; c.455A>C; c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G; c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T	p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr; p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg; p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent ; p.Gly263Arg; p.Lys267Met 	3,4,5	-	ISBT		
+RH	DVII RH:40 (Tar+) 	RHD*07.01 RHD*DVII.1	RHD	SNP	c.329T>C	p.Leu110Pro 	2	-	ISBT		
+RH	DVII type 2 	RHD*07.02 RHD*DVII.2	RHD	SNP	c.307T>C; c.329T>C	p.Ser103Pro; p.Leu110Pro 	2	-	ISBT		
+RH	DFV	RHD*08.01 RHD*DFV	RHD	SNP	c.667T>G	p.Phe223Val 	5	-	ISBT		
+RH	DAR(T203A)	RHD*09.01 RHD*DAR	RHD	SNP	c.602C>G; c.607A>G; c.667T>G; c.744C>T; c.957G>A; c.1025T>C	p.Thr201Arg; p.Thr203Ala; p.Phe223Val; silent; silent; p.Ile342Thr 	4	-	ISBT		
+RH	DAR1(weak D 4.2)	RHD*09.01.00 RHD*DAR1.00	RHD	SNP	c.602C>G; c.667T>G; c.1025T>C	p.Thr201Arg; p.Phe223Val; p.Ile342Thr 	4,5,7	-	ISBT		
+RH	DAR1.1(weak D 4.2.1)	RHD*09.01.01 RHD*DAR1.01	RHD	SNP	c.602C>G; c.667T>G; c.957G>A; c.1025T>C	p.Thr201Arg; p.Phe223Val; silent; p.Ile342Thr 	4,5,7	-	ISBT		
+RH	DAR1.2(weak D 4.2.2)	RHD*09.01.02 RHD*DAR1.02	RHD	SNP	c.602C>G; c.667T>G; c.744C>T; c.957G>A; c.1025T>C	p.Thr201Arg; p.Phe223Val; silent;silent; p.Ile342Thr 	4,5,7	-	ISBT		
+RH	DAR1.3(weak D 4.2.3)	RHD*09.01.03 RHD*DAR1.03	RHD	SNP	c.602C>G; c.667T>G; c.744C>T; c.1025T>C	p.Thr201Arg; p.Phe223Val; silent; p.Ile342Thr 	4,5,7	-	ISBT		
+RH	DAR2(DARE)	RHD*09.02.00 RHD*DAR2.00	RHD	SNP	c.602C>G; c.667T>G; c.697G>C; c.957G>A; c.1025T>C	p.Thr201Arg; p.Phe223Val; p.Glu233Gln; silent; p.Ile342Thr 	4,5,7	-	ISBT		
+RH	DAR2.1	RHD*09.02.01 RHD*DAR2.01	RHD	SNP	c.602C>G; c.667T>G; c.697G>C; c.744C>T; c.957G>A; c.1025T>C	p.Thr201Arg; p.Phe223Val; p.Glu233Gln; silent; silent; p.Ile342Thr 	4,5,7	-	ISBT		
+RH	DAR3(weak partial D 4.0.1)	RHD*09.03 RHD*DAR3	RHD	SNP	c.602C>G; c.667T>G	p.Thr201Arg; p.Phe223Val 	4,5	-	ISBT		
+RH	DAR3.1(weak partial D 4.0)	RHD*09.03.01 RHD*DAR3.01	RHD	SNP	c.602C>G; c.667T>G; c.819G>A	p.Thr201Arg; p.Phe223Val; silent 	4,5,6	-	ISBT		
+RH	DAR4(weak D 4.1)	RHD*09.04 RHD*DAR4	RHD	SNP	c.48G>C; c.602C>G; c.667T>G; c.819G>A	p.Trp16Cys; p.Thr201Arg; p.Phe223Val; silent 	1,4,5,6	-	ISBT		
+RH	DAR5(weak D 4.3 or Del)	RHD*09.05 RHD*DAR5	RHD	SNP	c.602C>G; c.667T>G; c.819G>A; c.872C>G	p.Thr201Arg; p.Phe223Val; silent; p.Pro291Arg 	4,5,6	-	ISBT		
+RH	DAR6 Or DAR(CE2:V50V-S68N)	RHD*09.06 RHD*DAR6 Or RHD*09.06 RHD*DAR(CE2 :V50V-S68N)	RHD	SNP	c.150T>C; c.178A>C; c.201G>A; c.203G>A; c.602C>G; c.667T>G; c.1025T>C	silent; p.Ile60Leu; silent; p.Ser68Asn; p.Thr201Arg; p.Phe223Val; p.Ile342Thr 	2, 4, 5, 7	-	ISBT		
+RH	DAU0	RHD*10.00 RHD*DAU0	RHD	SNP	c.1136C>T	p.Thr379Met 	8	-	ISBT		
+RH	DAU0.01	RHD*10.00.01 RHD*DAU0.01	RHD	SNP	c.1136C>T; c.579G>A	p.Thr379Met;silent 	8,4	-	ISBT		
+RH	DAU0.02	RHD*10.00.02 RHD*DAU0.02	RHD	SNP	c.1136C>T; c.150T>C	p.Thr370Met;silent(common) 	8,2	-	ISBT		
+RH	DAU1	RHD*10.01 RHD*DAU1	RHD	SNP	c.689G>T; c.1136C>T	p.Ser230Ile; p.Thr379Met 	5,8	-	ISBT		
+RH	DAU2	RHD*10.02 RHD*DAU2	RHD	SNP	c.209G>A; c.998G>A; c.1136C>T	p.Arg70Gln; p.Ser333Asn; p.Thr379Met 	2,7,8	-	ISBT		
+RH	DAU3	RHD*10.03 RHD*DAU3	RHD	SNP	c.835G>A; c.1136C>T	p.Val279Met; p.Thr379Met 	6, 8	-	ISBT		
+RH	DAU4	RHD*10.04 RHD*DAU4	RHD	SNP	c.697G>A; c.1136C>T	p.Glu233Lys; p.Thr379Met 	5, 8	-	ISBT		
+RH	DAU5	RHD*10.05 RHD*DAU5	RHD	SNP	c.667T>G; c.697G>C; c.1136C>T	p.Phe223Val; p.Glu233Gln; p.Thr379Met 	5, 8	-	ISBT		
+RH	DAU5.1	RHD*10.05.01 RHD*DAU5.01	RHD	SNP	c.667T>G; c.697G>C; c.1122C>T; c.1136C>T	p.Phe223Val; p.Glu233Gln; silent; p.Thr379Met 	5, 8	-	ISBT		
+RH	DAU6	RHD*10.06 RHD*DAU6	RHD	SNP	c.998G>A; c.1136C>T	p.Ser333Asn; p.Thr379Met 	7, 8	-	ISBT		
+RH	DAU7	RHD*10.07 RHD*DAU7	RHD	SNP	c.835G>A; c.998G>A; c.1136C>T;	p.Val279Met; p.Ser333Asn; p.Thr379Met 	6,7,8	-	ISBT		
+RH	DAU8	RHD*10.08 RHD*DAU8	RHD	SNP	c.340C>T; c.579G>A; c.1136C>T	p.Arg114Trp; silent; p.Thr379Met 	3,4,8	-	ISBT		
+RH	DAU9	RHD*10.09 RHD*DAU9	RHD	SNP	c.535T>C; c.1136C>T	p.Phe179Leu; p.Thr379Met 	4,8	-	ISBT		
+RH	DAU10	RHD*10.10 RHD*DAU10	RHD	SNP	c.579G>A; c.739G>C; c.1136C>T	silent; p.Val247Leu; p.Thr379Met 	4,5,8	-	ISBT		
+RH	DAU11	RHD*10.11 RHD*DAU11	RHD	SNP	c.254C>T; c.835G>A; c.1136C>T	p.Ala85Val; p.Val279Met; p.Thr379Met 	2,6,8	-	ISBT		
+RH	DAU12	RHD*10.12 RHD*DAU12	RHD	SNP	c.542T>C; c.1136C>T	p.Leu181Pro; p.Thr379Met 	4, 8	-	ISBT		
+RH	DAU13	RHD*10.13 RHD*DAU13	RHD	SNP	c.48G>C;c.1136C>T	p.Trp16Cys; p.Thr379Met 	1, 8	-	ISBT		
+RH	DAU14	RHD*10.14 RHD*DAU14	RHD	SNP	c.201G>A; c.203G>A; c.1136C>T	silent; p.Ser68Asn; p.Thr379Met 	2, 8	-	ISBT		
+RH	RHD(M1V,T379M) Or DAU15	RHD*10.15 RHD*DAU15 Or RHD10.15	RHD	SNP	c.1A>G; c.1136C>T	p.Met1Val; p.Thr379Met 	1, 8	-	ISBT		
+RH	weak partial 11 or Del	RHD*11 RHD*weak partial 11	RHD	SNP	c.885G>T	p.Met295Ile 	6	-	ISBT		
+RH	DOL1 RH:54(DAK+)	RHD*12.01 RHD*DOL1	RHD	SNP	c.509T>C; c.667T>G	p.Met170Th; p.Phe223Val 	4,5	-	ISBT		
+RH	DOL2 RH:54(DAK+)	RHD*12.02 RHD*DOL2	RHD	SNP	c.509T>C; c.667T>G; c.1132C>G	p.Met170Thr; p.Phe223Val; p.Leu378Val 	4,5,8	-	ISBT		
+RH	DOL3	RHD*12.03 RHD*DOL3	RHD	SNP	c.410C>T; c.509T>C; c.667T>G	p.Ala137Val; p.Met170Thr; p.Phe223Val 	3,4,5	-	ISBT		
+RH	DOL4	RHD*12.04 RHD*DOL4	RHD	SNP	c.410C>T;c.455A>C;c.509T>C;c.667T>G	p.Ala137Val; p.Asn152Thr; p.Met170Thr; p.Phe223Val 	3,4,5	-	ISBT		
+RH	DBS1	RHD*13.01 RHD*DBS1	RHD	SNP	c.667T>G; c.676G>C; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T	p.Phe223Val; p.Ala226Pro; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met 	5	-	ISBT		
+RH	DBS2	RHD*13.02 RHD*DBS2	RHD	SNP	c.667T>G; c.676G>C; c.697G>C	p.Phe223Val; p.Ala226Pro; p.Glu233Gln 	5	-	ISBT		
+RH	DBT1	RHD*14.01 RHD*DBT1	RHD	SNP	c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G; c.941G>T; c.968C>A; c.974G>T; c.979A>G; c.985G>C; c.986G>A; c.989A>C; c.992A>T; c.1025T>C; c.1048G>C; c.1053C>T; c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A	p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val254Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys; p.Gly314Val; p.Pro323His; p.Ser325Ile; p. Ile327Val; p.Gly329His; p.Gly329His; p. Tyr330Ser; p.Asn331Ile; p.Ile342Thr; p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn 	5,6,7	-	ISBT		
+RH	DBT2	RHD*14.02 RHD*DBT2	RHD	SNP	c.667T>G; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G; c.941G>T; c.968C>A; c.974G>T; c.979A>G; c.985G>C; c.986G>A; c.989A>C; c.992A>T; c.1025T>C; c.1048G>C; c.1053C>T; c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A; c.1170T>C; c.1193 A>T	p.Phe223Val; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys; p.Gly314Val; p.Pro323His; p.Ser325Ile; p.Ile327Val; p.Gly329His; p.Gly329His; p.Tyr330Ser; p.Asn331Ile; p.Ile342Thr; p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn; silent; p.Glu398Val 	5,6,7,8,9	-	ISBT		
+RH	Weak partial Type 15	RHD*15 RHD*weak partial 15	RHD	SNP	c.845G>A	p.Gly282Asp 	6	-	ISBT		
+RH	DCS1	RHD*16.01 RHD*DCS1	RHD	SNP	c.667T>G; c.676G>C	p.Phe223Val; p.Ala226Pro 	5	-	ISBT		
+RH	DCS2	RHD*16.02 RHD*DCS2	RHD	SNP	c.676G>C	p.Ala226Pro 	5	-	ISBT		
+RH	DCS-3	RHD*16.02 RHD*DCS3	RHD	SNP	c.667T>G; c.676G>C; c.697G>C	p.Phe223Val; p.Ala226Pro; p.Glu233Gln 	5	-	ISBT		
+RH	DFR1	RHD*17.01 RHD*DFR1	RHD	SNP	c.505A>C; c.509T>G; c.514A>T	p.Met169Leu; p.Met170Arg; p.Ile172Phe 	4	-	ISBT		
+RH	DFR2	RHD*17.02 RHD*DFR2	RHD	SNP	c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G	p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg 	4	-	ISBT		
+RH	DFR3	RHD*17.03 RHD*DFR3	RHD	SNP	c.505A>C; c.509T>G; c.514A>T; c.539G>C	p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Gly180Ala 	4	-	ISBT		
+RH	DFR4	RHD*17.04 RHD*DFR4	RHD	SNP	c.505A>C; c.509T>G	p.Met169Leu; p.Met170Arg 	4	-	ISBT		
+RH	DFR5 	RHD*17.05 RHD*DFR5	RHD	SNP	c.361T>A; c.380T>C; c.383A>G; c.455A>C; c.505A>C; c.509T>G; c.514A>T; c.544T>A; c.577G>A; c.594A>T; c.602C>G	p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr; p.Met169Leu; p.Met170Arg; p.Ile172Phe; p.Ser182Thr; p.Glu193Lys; p.Lys198Asn; p.Thr201Arg 	3,4	-	ISBT		
+RH	DFW 	RHD*18 RHD*DFW	RHD	SNP	c.497A>C	p.His166Pro 	4	-	ISBT		
+RH	DHMi 	RHD*19 RHD*DHMi	RHD	SNP	c.848C>T	p.Thr283Ile 	6	-	ISBT		
+RH	DHO 	RHD*20 RHD*DHO	RHD	SNP	c.704A>C	p.Lys235Thr 	5	-	ISBT		
+RH	Weak partial Type 21 	RHD*21 RHD*weak partial D 21	RHD	SNP	c.938C>T	p.Pro313Leu 	6	-	ISBT		
+RH	DHR 	RHD*22 RHD*DHR	RHD	SNP	c.686G>A	p.Arg229Lys 	5	-	ISBT		
+RH	DMH 	RHD*23 RHD*DMH	RHD	SNP	c.161T>C	p.Leu54Pro 	2	-	ISBT		
+RH	DNAK 	RHD*24 RHD*DNAK	RHD	SNP	c.1070G>A	p.Gly357Asp 	7	-	ISBT		
+RH	DNB 	RHD*25 RHD*DNB	RHD	SNP	c.1063G>A	p.Gly355Ser 	7	-	ISBT		
+RH	DNU 	RHD*26 RHD*DNU	RHD	SNP	c.1057G>A	p.Gly353Arg 	7	-	ISBT		
+RH	DDE 	RHD*27 RHD*DDE	RHD	SNP	c.120T>A	p.Asp40Glu 	1	-	ISBT		
+RH	DFL 	RHD*28 RHD*DFL	RHD	SNP	c.494A>G	p.Tyr165Cys 	4	-	ISBT		
+RH	DYU (DQC) 	RHD*29 RHD*DYU	RHD	SNP	c.700A>T	p.Arg234Trp 	5	-	ISBT		
+RH	DTO 	RHD*30 RHD*DTO	RHD	SNP	c.667T>G; c.674C>T	p.Phe223Val; p.Ser225Phe 	5	-	ISBT		
+RH	DVL1 	RHD*31 RHD*DVL1	RHD	CNV	c.684_686delGAG[RHD:c.684_686del]	p.Arg229del 	5	-	ISBT		
+RH	DVL2 	RHD*32 RHD*DVL2	RHD	CNV	c.705_707delGAA[RHD:c.705_707del]	p.Lys235del 	5	-	ISBT		
+RH	DWI (DWLLE) 	RHD*33 RHD*DWI	RHD	SNP	c.1073T>C	p.Met358Thr 	7	-	ISBT		
+RH	DIM (DIleM) 	RHD*34 RHD*DIM	RHD	SNP	c.854G>A	p.Cys285Tyr 	6	-	ISBT		
+RH	DMA 	RHD*35 RHD*DMA	RHD	SNP	c.621G>C	p.Leu207Phe 	4	-	ISBT		
+RH	DLO 	RHD*36 RHD*DLO	RHD	SNP	c.851C>T	p.Ser284Leu 	6	-	ISBT		
+RH	DUC2 	RHD*37 RHD*DUC2	RHD	SNP	c.733G>C	p.Val245Leu 	5	-	ISBT		
+RH	DNT 	RHD*38 RHD*DNT	RHD	SNP	c.455A>C	p.Asn152Thr 	3	-	ISBT		
+RH	RHD(S103P) RH:-12 (G-) 	RHD*39	RHD	SNP	c.307T>C	p.Ser103Pro 	2	-	ISBT		
+RH	D-SPM 	RHD*40 RHD*D-SPM	RHD	SNP	c.186G>T; c.410C>T; c.455A>C; c.509T>C; c.667T>G	p.Leu62Phe; p.Ala137Val; p.Asn152Thr; p.Met170Thr; p.Phe223Val 	2,3,4,5	-	ISBT		
+RH	DBU 	RHD*41 RHD*DBU	RHD	SNP	c.667T>G; c.676G>C; c.697G>C; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G; c.941G>T; c.968C>A; c.974G>T; c.979A>G; c.985G>C; c.986G>A; c.989A>C; c.992A>T; c.1025T>C c.1048G>C c.1053C>T c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A	p.Phe223Val; p.Ala226Pro; p.Glu233Gln; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys; p.Gly314Val; p.Pro323His; p.Ser325Ile; p.Ile327Val; p.Gly329His; p.Gly329His; p.Tyr330Ser; p.Asn331Ile; p.Ile342Thr; p.Asp350His; silent; p.Gly353Trp; p.gly353Trp; p.Ala354Asn; p.Ala354Asn 	5,6,7	-	ISBT		
+RH	DCC 	RHD*42 RHD*DCC	RHD	SNP	c.677C>A	p.Ala226Asp 	5	-	ISBT		
+RH	DDN 	RHD*43 RHD*DDN	RHD	SNP	c.490G>A	p.Asp164Asn 	4	-	ISBT		
+RH	DHQ 	RHD*44 RHD*DHQ	RHD	SNP	c.513C>A	p.His171Gln 	4	-	ISBT		
+RH	DKK 	RHD*45 RHD*DKK	RHD	SNP	c.150T>C; c.178A>C; c.201G>A; c.203G>A; c.307T>C; c.361T>A; c.380T>C; c.383A>G; c.455A>C	silent; p.Ile60Leu; silent; p.Ser68Asn; p.Ser103Pro; p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr 	2,3	-	ISBT		
+RH	DLX 	RHD*46 RHD*DLX	RHD	SNP	c.667T>G; c.712G>A; c.733G>C; c.744C>T; c.787G>A; c.800A>T; c.916G>A; c.932A>G	p.Phe223Val; p.Val238Met; p.Val245Leu; silent; p.Gly263Arg; p.Lys267Met; p.Val306Ile; p.Tyr311Cys 	5,6	-	ISBT		
+RH	DMI 	RHD*47 RHD* DMI	RHD	SNP	c.510G>A	p.Met170Ile 	4	-	ISBT		
+RH	DMI-1.1 	RHD*47.01 RHD*DMI-1.1	RHD	SNP	c.510G>T	p.Met170Ile 	4	-	ISBT		
+RH	DNS 	RHD*48 RHD*DNS	RHD	SNP	c.485A>G	p.Asn162Ser 	3	-	ISBT		
+RH	DWN 	RHD*49 RHD*DWN	RHD	SNP	c.1053C>T; c.1057G>G; c.1059A>G; c.1060G>A; c.1061C>A	silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn 	7	-	ISBT		
+RH	RHD(A354T) 	RHD*50	RHD	SNP	c.1060G>A	p.Ala354Thr 	7	-	ISBT		
+RH	RHD(del44L) 	RHD*51	RHD	CNV	c.130_132delCTC[RHD:c.130_132del]	p.Leu44del 	1	-	ISBT		
+RH	RHD(F223S) 	RHD*52	RHD	SNP	c.668T>C	p.Phe223Ser 	5	-	ISBT		
+RH	RHD(IVS2-2delA) 	RHD*53	RHD	CNV	c.336-2delA[RHD:c.336-2del]	Splice site change 	Intron 2	-	ISBT		
+RH	RHD(IVS4-2A>C) 	RHD*54	RHD	SNP	c.635-2A>C	Splice site change 	Intron 4	-	ISBT		
+RH	RHD(L81P) 	RHD*55	RHD	SNP	c.242T>C	p.Leu81Pro 	2	-	ISBT		
+RH	DBA 	RHD*56 RHD*DBA	RHD	SNP	c.680T>C	p.Leu227Pro 	5	-	ISBT		
+RH	weak partial type 57 	RHD*57 RHD*weak partial 57	RHD	SNP	c.640C>T	p.Leu214Phe 	5	-	ISBT		
+RH	RHD*D-CE(7)-D 	RHD*58	RHD	SNP	c.941G>T; c.968C>A; c.974G>T; c.979A>G; c.985G>C; c.986G>A; c.989A>C; c.992A>T; c.1025T>C; c.1048G>C; c.1053C>T; c.1057G>T; c.1059A>G; c.1060G>A; c.1061C>A	p.Gly314Val; p.Pro323His; p.Ser325Ile; p.Ile327Val; p.Gly329His; p.Gly329His; p.Tyr330Ser; p.Asn331Ile; p.Ile342Thr; p.Asp350His; silent; p.Gly353Trp; p.Gly353Trp; p.Ala354Asn; p.Ala354Asn 	7	-	ISBT		
+RH	RHD(F175L) 	RHD*59	RHD	SNP	c.525C>T	p.Phe175Leu 	4	-	ISBT		
+RH	weak Partial D 	RHD*60	RHD	SNP	c.178A>C; c.689G>T	p.Ile60Leu; p.Ser230Ile 	2,5	-	ISBT		
+RH	weak Partial D 	RHD*61	RHD	SNP	c.492C>A	p.Asp164Glu 	4	-	ISBT		
+RH	DNT(V270G) 	RHD*62	RHD	SNP	c.455A>C; c.809T>G	p.Asn152Thr; p.Val270Gly 	3,6	-	ISBT		
+RH	Type 1 	RHD*01W.1 RHD*weak D type 1	RHD	SNP	c.809T>G	p.Val270Gly 	6	-	ISBT		
+RH	Type 1.1 	RHD*01W.1.1 RHD*weak D type 1.1	RHD	SNP	c.52C>G; c.809T>G	p.Leu18Val; p.Val270Gly 	1,6	-	ISBT		
+RH	Type1.2 	RHD*01W.1.2 RHD*weak D type 1.2	RHD	SNP	c.712G>A; c.809T>G	p.Val238Met; p.Val270Gly 	5,6	-	ISBT		
+RH	Type 2 	RHD*01W.2 RHD*weak D type 2	RHD	SNP	c.1154G>C	p.Gly385Ala 	9	-	ISBT		
+RH	Type 2.1 	RHD*01W.2.1 RHD*weak D type 2.1	RHD	SNP	c.301T>A; c.1154G>C	p.Phe101Ile; p.Gly385Ala 	2,9	-	ISBT		
+RH	Type2.2 	RHD*01W.2.2 RHD*weak D type 2.2	RHD	SNP	c.916G>A; c.932A>G; c.1154G>C	p.Val306Ile; p.Tyr311Cys; p.Gly385Ala 	6,9	-	ISBT		
+RH	Type 3 	RHD*01W.3 RHD*weak D type 3	RHD	SNP	c.8C>G	p.Ser3Cys 	1	-	ISBT		
+RH	Type3.1 	RHD*01W.3.1 RHD*weak D type 3.1	RHD	SNP	c.8C>G; c.178A>C	p.Ser3Cys; p.Ile60Leu 	1,2	-	ISBT		
+RH	Type 5 	RHD*01W.5 RHD*weak D type 5	RHD	SNP	c.446C>A	p.Ala149Asp 	3	-	ISBT		
+RH	Type 6 	RHD*01W.6 RHD*weak D type 6	RHD	SNP	c.29G>A	p.Arg10Gln 	1	-	ISBT		
+RH	Type 7 	RHD*01W.7 RHD*weak D type 7	RHD	SNP	c.1016G>A	p.Gly339Glu 	7	-	ISBT		
+RH	Type 8 	RHD*01W.8 RHD*weak D type 8	RHD	SNP	c.919G>A	p.Gly307Arg 	6	-	ISBT		
+RH	Type 9 	RHD*01W.9 RHD*weak D type 9	RHD	SNP	c.880G>C	p.Ala294Pro 	6	-	ISBT		
+RH	Type 10 	RHD*01W.10 RHD*weak D type 10	RHD	SNP	c.1177T>C	p.Trp393Arg 	9	-	ISBT		
+RH	Type 10.1 	RHD*01W.10.1 RHD*weak D type 10.1	RHD	SNP	c.1145T>C; c.1177T>C	p.Leu382Pro; p.Trp393Arg 	8,9	-	ISBT		
+RH	Type 10.2 	RHD*01W.10.2 RHD*weak D type 10.2	RHD	SNP	c.1177T>C; c.1199A>C	p.Trp393Arg; p.Lys400Thr 	9	-	ISBT		
+RH	Type 11 weak partial or Del phenotype	See partial RHD*11	RHD	SNP	c.885G>T	p.Met295Ile	6	-	ISBT		
+RH	Type 12 	RHD*01W.12 RHD*weak D type 12	RHD	SNP	c.830G>A	p.Gly277Glu	6	-	ISBT		
+RH	Type 13 	RHD*01W.13 RHD*weak D type 13	RHD	SNP	c.826G>C	p.Ala276Pro	6	-	ISBT		
+RH	Type 14 	RHD*01W.14 RHD*weak D type 14	RHD	SNP	c.544T>A; c.594A>T; c.602C>G	p.Ser182Thr; p.Lys198Asn; p.Thr201Arg 	4	-	ISBT		
+RH	Type 16 	RHD*01W.16 RHD*weak D type 16	RHD	SNP	c.658T>C	p.Trp220Arg 	5	-	ISBT		
+RH	Type 17 	RHD*01W.17 RHD*weak D type 17	RHD	SNP	c.340C>T	p.Arg114Trp 	3	-	ISBT		
+RH	Type 18 	RHD*01W.18 RHD*weak D type 18	RHD	SNP	c.19C>T	p.Arg7Trp 	1	-	ISBT		
+RH	Type 19 	RHD*01W.19 RHD*weak D type 19	RHD	SNP	c.611T>C	p.Ile204Thr 	4	-	ISBT		
+RH	Type 20 	RHD*01W.20 RHD*weak D type 20	RHD	SNP	c.1250T>C	p.Phe417Ser 	10	-	ISBT		
+RH	Type 22 	RHD*01W.22 RHD*weak D type 22	RHD	SNP	c.1224G>C	p.Trp408Cys 	9	-	ISBT		
+RH	Type 23 	RHD*01W.23 RHD*weak D type 23	RHD	SNP	c.634G>T	p.Gly212Cys 	4	-	ISBT		
+RH	Type 24 	RHD*01W.24 RHD*weak D type 24	RHD	SNP	c.1013T>C	p.Leu338Pro 	7	-	ISBT		
+RH	Type 25 	RHD*01W.25 RHD*weak D type 25	RHD	SNP	c.341G>A	p.Arg114Gln 	3	-	ISBT		
+RH	Type 26 	RHD*01W.26 RHD*weak D type 26	RHD	SNP	c.26T>A	p.Val9Asp 	1	-	ISBT		
+RH	Type 27 	RHD*01W.27 RHD*weak D type 27	RHD	SNP	c.661C>T	p.Pro221Ser 	5	-	ISBT		
+RH	Type 28 	RHD*01W.28 RHD*weak D type 28	RHD	SNP	c.1152A>C	p.Thr384Thr 	8	-	ISBT		
+RH	Type 29 	RHD*01W.29 RHD*weak D type 29	RHD	SNP	c.178A>C; c.201G>A; c.203G>A; c.594A>T; c.667T>G; c.744C>T; c.957G>A; c.1025T>C	p.Ile60Leu; silent; p.Ser68Asn; p.Lys198Asn; p.Phe223Val; silent; silent; p.Ile342Thr 	2,4,5,7	-	ISBT		
+RH	Type 30 	RHD*01W.30 RHD*weak D type 30	RHD	CNV	c.1018_1019delinsAT[RHD:c.1018_1019delinsAT]	p.Glu340Met 	7	-	ISBT		
+RH	Type 31 	RHD*01W.31 RHD*weak D type 31	RHD	SNP	c.17C>T	p.Pro6Leu 	1	-	ISBT		
+RH	Type 32 	RHD*01W.32 RHD*weak D type 32	RHD	SNP	c.1121T>A	p.Ile374Asn 	8	-	ISBT		
+RH	Type 33 	RHD*01W.33 RHD*weak D type 33	RHD	SNP	c.520G>A	p.Val174Met 	4	-	ISBT		
+RH	Type 34 	RHD*01W.34 RHD*weak D type 34	RHD	SNP	c.809T>A	p.Val270Glu 	6	-	ISBT		
+RH	Type 35 	RHD*01W.35 RHD*weak D type 35	RHD	SNP	c.260G>A	p.Gly87Asp 	2	-	ISBT		
+RH	Type 36 	RHD*01W.36 RHD*weak D type 36	RHD	SNP	c.842T>G	p.Val281Gly 	6	-	ISBT		
+RH	Type 37 	RHD*01W.37 RHD*weak D type 37	RHD	SNP	c.399G>T	p.Lys133Asn 	3	-	ISBT		
+RH	Type 38 	RHD*01W.38 RHD*weak D type 38	RHD	SNP	c.833G>A	p.Gly278Asp 	6	-	ISBT		
+RH	Type 39 	RHD*01W.39 RHD*weak D type 39	RHD	SNP	c.1015G>A	p.Gly339Arg 	7	-	ISBT		
+RH	Type 40 	RHD*01W.40 RHD*weak D type 40	RHD	SNP	c.602C>G	p.Thr201Arg 	4	-	ISBT		
+RH	Type 41 	RHD*01W.41 RHD*weak D type 41	RHD	SNP	c.1193A>T	p.Glu398Val 	9	-	ISBT		
+RH	Type41.0.1	RHD*01W.41.0.1 RHD*weak D type 41.0.1	RHD	SNP	c.1170T>C; c.1193A>T	p.Leu390Leu; p.Glu398Val 	9	-	ISBT		
+RH	Type42	RHD*01W.42 RHD*weak D type 42	RHD	SNP	c.1226A>T	p.Lys409Met 	9	-	ISBT		
+RH	Type43	RHD*01W.43 RHD*weak D type 43	RHD	SNP	c.605C>T	p.Ala202Val 	4	-	ISBT		
+RH	Type44	RHD*01W.44 RHD*weak D type 44	RHD	SNP	c.728A>G	p.Tyr243Cys 	5	-	ISBT		
+RH	Type45	RHD*01W.45 RHD*weak D type 45	RHD	SNP	c.1195G>A	p.Ala399Thr 	9	-	ISBT		
+RH	Type45.1	RHD*01W.45.1 RHD*weak D type 45.1	RHD	SNP	c.818C>T; c.1195G>A	p.Ala273Val; p.Ala399Thr 	6,9	-	ISBT		
+RH	Type45.2	RHD*01W.45.2 RHD*weak D type 45.2	RHD	SNP	c.208C>T; c.818C>T; c.1195G>A	p.Arg70Trp; p.Ala273Val; p.Ala399Thr 	2,6,9	-	ISBT		
+RH	Type46	RHD*01W.46 RHD*weak D type 46	RHD	SNP	c.1221C>A	p.Phe407Leu 	9	-	ISBT		
+RH	Type47	RHD*01W.47 RHD*weak D type 47	RHD	SNP	c.340C>G	p.Arg114Gly 	3	-	ISBT		
+RH	Type48	RHD*01W.48 RHD*weak D type 48	RHD	SNP	c.182G>T	p.Gly61Val 	2	-	ISBT		
+RH	Type49	RHD*01W.49 RHD*weak D type 49	RHD	SNP	c.770C>T	p.Ser257Phe 	5	-	ISBT		
+RH	Type50	RHD*01W.50 RHD*weak D type 50	RHD	SNP	c.727T>A	p.Tyr243Asn 	5	-	ISBT		
+RH	Type51	RHD*01W.51 RHD*weak D type 51	RHD	SNP	c.594A>T; c.602C>G	p.Lys198Asn; p.Thr201Arg 	4	-	ISBT		
+RH	Type52	RHD*01W.52 RHD*weak D	RHD	SNP	c.92T>C	p.Phe31Ser 	1	-	ISBT		
+RH	Type53	RHD*01W.53 RHD*weak D	RHD	SNP	c.740T>G	p.Val247Gly 	5	-	ISBT		
+RH	Type54	RHD*01W.54 RHD*weak D	RHD	SNP	c.365C>T	p.Ser122Leu 	3	-	ISBT		
+RH	Type55	RHD*01W.55 RHD*weak D	RHD	SNP	c.895C>G	p.Leu299Val 	6	-	ISBT		
+RH	Type56	RHD*01W.56 RHD*weak D	RHD	SNP	c.65C>A	p.Ala22Glu 	1	-	ISBT		
+RH	Type57	RHD*01W.57 RHD*weak D	RHD	SNP	c.640C>T	p.Leu214Phe 	5	-	ISBT		
+RH	Type58	RHD*01W.58 RHD*weak D	RHD	SNP	c.1006G>C	p.Gly336Arg 	7	-	ISBT		
+RH	Type59	RHD*01W.59 RHD*weak D	RHD	SNP	c.1148T>C	p.Leu383Pro 	8	-	ISBT		
+RH	Type60	RHD*01W.60 RHD*weak D	RHD	CNV	c.1219_1224delTTCTGG[RHD:c.1219_1224del]	p.Phe407_Trp408del 	9	-	ISBT		
+RH	Type61	RHD*01W.61 RHD*weak D	RHD	SNP	c.28C>T	p.Arg10Trp 	1	-	ISBT		
+RH	Type62	RHD*01W.62 RHD*weak D	RHD	SNP	c.661C>A	p.Pro221Thr 	5	-	ISBT		
+RH	Type63	RHD*01W.63 RHD*weak D	RHD	SNP	c.758T>A	p.Ile253Asn 	5	-	ISBT		
+RH	Type64	RHD*01W.64 RHD*weak D	RHD	SNP	c.881C>T	p.Ala294Val 	6	-	ISBT		
+RH	Type65	RHD*01W.65 RHD*weak D	RHD	SNP	c.68C>A	p.Ala23Asp 	1	-	ISBT		
+RH	Type 66 	RHD*01W.66 RHD*weak D type 66	RHD	SNP	c.916G>A	p.Val306Ile 	6	-	ISBT		
+RH	Type 67	RHD*01W.67 RHD*weak D type 67	RHD	SNP	c.722C>T	p.Thr241Ile 	5	-	ISBT		
+RH	Type 68	RHD*01W.68 RHD*weak D type 68	RHD	SNP	c.165C>T; c.1213C>G	silent; p.Gln405Glu 	2,9	-	ISBT		
+RH	Type 69	RHD*01W.69 RHD*weak D type 69	RHD	SNP	c.953G>A	p.Arg318Gln 	7	-	ISBT		
+RH	Type 70	RHD*01W.70 RHD*weak D type 70	RHD	SNP	c.1012C>G	p.Leu338Val 	7	-	ISBT		
+RH	Type 71	RHD*01W.71 RHD*weak D type 71	RHD	SNP	c.29G>C	p.Arg10Pro 	1	-	ISBT		
+RH	Type 72	RHD*01W.72 RHD*weak D type 72	RHD	SNP	c.1212C>A	p.Asp404Glu 	9	-	ISBT		
+RH	Type 73	RHD* 01W.73 RHD*weak D type 73	RHD	SNP	c.1241C>T	p.Ala414Val 	10	-	ISBT		
+RH	Type 74	RHD* 01W.74 RHD*weak D type 74	RHD	SNP	c.203G>C	p.Ser68Thr 	2	-	ISBT		
+RH	Type 75	RHD* 01W.75 RHD*weak D type 75	RHD	SNP	c.1194G>C	p.Glu398Asp 	9	-	ISBT		
+RH	Type 76	RHD* 01W.76 RHD*weak D type 76	RHD	SNP	c.1215A>C	p.Gln405His 	9	-	ISBT		
+RH	Type 77	RHD* 01W.77 RHD*weak D type 77	RHD	SNP	c.766T>C	p.Ser256Pro 	5	-	ISBT		
+RH	Type 78	RHD* 01W.78 RHD*weak D type 78	RHD	SNP	c.1228T>G	p.Phe410Val 	10	-	ISBT		
+RH	Type 79	RHD* 01W.79 RHD*weak D type 79	RHD	SNP	c.560T>C	p.Leu187Pro 	4	-	ISBT		
+RH	Type 80	RHD* 01W.80 RHD*weak D type 80	RHD	SNP	c.539G>A	p.Gly180Glu 	4	-	ISBT		
+RH	Type 81	RHD* 01W.81 RHD*weak D type 81	RHD	SNP	c.1199A>C	p.Lys400Thr 	9	-	ISBT		
+RH	Type 82	RHD* 01W.82 RHD*weak D type 82	RHD	SNP	c.1184C>T	p.Ala395Val 	9	-	ISBT		
+RH	Type 83	RHD* 01W.83 RHD*weak D type 83	RHD	SNP	c.1238T>G	p.Leu413Trp 	10	-	ISBT		
+RH	Type 84	RHD* 01W.84 RHD*weak D type 84	RHD	SNP	c.227G>A	p.Ser76Asn 	2	-	ISBT		
+RH	Type 85	RHD* 01W.85 RHD*weak D type 85	RHD	SNP	c.209G>A	p.Arg70Gln 	2	-	ISBT		
+RH	Type 86	RHD* 01W.86 RHD*weak D type 86	RHD	SNP	c.1034T>A	p.Val345Glu 	7	-	ISBT		
+RH	Type 87	RHD* 01W.87 RHD*weak D type 87	RHD	SNP	c.374T>A	p.Ile125Asn 	3	-	ISBT		
+RH	Type 88	RHD* 01W.88 RHD*weak D type 88	RHD	SNP	c.182G>C	p.Gly61Ala 	2	-	ISBT		
+RH	Type 89	RHD* 01W.89 RHD*weak D type 89	RHD	SNP	c.67G>C	p.Ala23Pro 	1	-	ISBT		
+RH	Type 90	RHD* 01W.90 RHD*weak D type 90	RHD	SNP	c.993C>G	p.Asn331Lys 	7	-	ISBT		
+RH	Type 91	RHD* 01W.91 RHD*weak D type 91	RHD	SNP	c.1187C>G	p.Pro396Arg 	9	-	ISBT		
+RH	Type 92	RHD* 01W.92 RHD*weak D type 92	RHD	SNP	c.1145T>C	p.Leu382Pro 	8	-	ISBT		
+RH	Type 93	RHD* 01W.93 RHD*weak D type 93	RHD	SNP	c.359C>A	p.Ala120Asp 	3	-	ISBT		
+RH	Type 94	RHD* 01W.94 RHD*weak D type 94	RHD	SNP	c.884T>C	p.Met295Thr 	6	-	ISBT		
+RH	Type 95	RHD* 01W.95 RHD*weak D type 95	RHD	SNP	c.730G>C	p.Ala244Pro 	5	-	ISBT		
+RH	Type 96	RHD* 01W.96 RHD*weak D type 96	RHD	SNP	c.731C>T	p.Ala244Val 	5	-	ISBT		
+RH	Type 97	RHD* 01W.97 RHD*weak D type 97	RHD	SNP	c.542T>C	p.Leu181Pro 	4	-	ISBT		
+RH	Type 98	RHD* 01W.98 RHD*weak D type 98	RHD	SNP	c.751A>C	p.Thr251Pro 	5	-	ISBT		
+RH	Type 99	RHD* 01W.99 RHD*weak D type 99	RHD	SNP	c.1107A>C	p.Glu369Asp 	8	-	ISBT		
+RH	Type 100	RHD* 01W.100 RHD*weak D type 100	RHD	SNP	c.787G>A	p.Glu263Arg 	5	-	ISBT		
+RH	Type 101	RHD* 01W.101 RHD*weak D type 101	RHD	SNP	c.62A>C	p.Glu21Ala 	1	-	ISBT		
+RH	Type 102	RHD* 01W.102 RHD*weak D type 102	RHD	SNP	c.73A>T	p.Ile25Phe 	1	-	ISBT		
+RH	Type 103	RHD* 01W.103 RHD*weak D type 103	RHD	SNP	c.91T>A	p.Phe31Ile 	1	-	ISBT		
+RH	Type 104	RHD* 01W.104 RHD*weak D type 104	RHD	SNP	c.157G>T	p.Asp53Tyr 	2	-	ISBT		
+RH	Type 105	RHD* 01W.105 RHD*weak D type 105	RHD	SNP	c.200C>G	p.Ser67Trp 	2	-	ISBT		
+RH	Type 106	RHD* 01W.106 RHD*weak D type 106	RHD	SNP	c.220T>G	p.Trp74Gly 	2	-	ISBT		
+RH	Type 107	RHD* 01W.107 RHD*weak D type 107	RHD	SNP	c.223A>T	p.Ser75Cys 	2	-	ISBT		
+RH	Type 108	RHD* 01W.108 RHD*weak D type 108	RHD	SNP	c.287G>A	p.Gly96Asp 	2	-	ISBT		
+RH	Type 109	RHD* 01W.109 RHD*weak D type 109	RHD	SNP	c.376T>C	p.Ser126Pro 	3	-	ISBT		
+RH	Type 110	RHD* 01W.110 RHD*weak D type 110	RHD	SNP	c.413A>G	p.Gln138Arg 	3	-	ISBT		
+RH	Type 111	RHD* 01W.111 RHD*weak D type 111	RHD	SNP	c.634G>A	p.Gly212Ser 	4	-	ISBT		
+RH	Type 112	RHD* 01W.112 RHD*weak D type 112	RHD	SNP	c.635G>A	p.Gly212Asp 	5	-	ISBT		
+RH	Type 113	RHD* 01W.113 RHD*weak D type 113	RHD	SNP	c.874T>C	p.Trp292Arg 	6	-	ISBT		
+RH	Type 114	RHD* 01W.114 RHD*weak D type 114	RHD	SNP	c.968C>T	p.Pro323Leu 	7	-	ISBT		
+RH	Type 115	RHD* 01W.115 RHD*weak D type 115	RHD	SNP	c.983T>A	p.Met328Lys 	7	-	ISBT		
+RH	Type 116	RHD* 01W.116 RHD*weak D type 116	RHD	SNP	c.346G>C	p.Ala116Pro 	3	-	ISBT		
+RH	Type 117	RHD* 01W.117 RHD*weak D type 117	RHD	SNP	c.346G>A	p.Ala116Thr 	3	-	ISBT		
+RH	Type 118	RHD* 01W.118 RHD*weak D type 118	RHD	SNP	c.347C>T	p.Ala116Val 	3	-	ISBT		
+RH	Type 119	RHD* 01W.119 RHD*weak D type 119	RHD	SNP	c.818C>T	p.Ala273Val 	6	-	ISBT		
+RH	Type 120	RHD* 01W.120 RHD*weak D type 120	RHD	SNP	c.818C>A	p.Ala273Glu 	6	-	ISBT		
+RH	Type 121	RHD* 01W.121 RHD*weak D type 121	RHD	SNP	c.176C>A	p.Ala59Asp 	2	-	ISBT		
+RH	Type 122	RHD* 01W.122 RHD*weak D type 122	RHD	SNP	c.208C>T	p.Arg70Trp 	2	-	ISBT		
+RH	Type 123	RHD* 01W.123 RHD*weak D type 123	RHD	SNP	c.379G>T	p.Val127Leu 	3	-	ISBT		
+RH	Type 124	RHD* 01W.124 RHD*weak D type 124	RHD	SNP	c.594A>T	p.Lys198Asn 	4	-	ISBT		
+RH	Type 125	RHD* 01W.125 RHD*weak D type 125	RHD	SNP	c.671A>G	p.Asn224Ser 	5	-	ISBT		
+RH	Type 126	RHD* 01W.126 RHD*weak D type 126	RHD	SNP	c.1199A>T	p.Lys400Ile 	9	-	ISBT		
+RH	Type 127	RHD* 01W.127 RHD*weak D type 127	RHD	SNP	c.1200A>T	p.Lys400Asn 	9	-	ISBT		
+RH	Type 128	RHD* 01W.128 RHD*weak D type 128	RHD	SNP	c.1207G>T	p.Asp403Tyr 	9	-	ISBT		
+RH	Type 129	RHD* 01W.129 RHD*weak D type 129	RHD	SNP	c.1208A>T	p.Asp403Val 	9	-	ISBT		
+RH	Type 130	RHD* 01W.130 RHD*weak D type 130	RHD	SNP	c.163A>C	p.Thr55Pro 	2	-	ISBT		
+RH	Type 131	RHD* 01W.131 RHD*weak D type 131	RHD	SNP	c.254C>G	p.Ala85Gly 	2	-	ISBT		
+RH	Type 132	RHD* 01W.132 RHD*weak D type 132	RHD	SNP	c.394G>A	p.Gly132Arg 	3	-	ISBT		
+RH	Type 133	RHD* 01W.133 RHD*weak D type 133	RHD	SNP	c.395G>A	p.Gly132Glu 	3	-	ISBT		
+RH	Type 134	RHD* 01W.134 RHD*weak D type 134	RHD	SNP	c.1168C>G	p.Leu390Val 	9	-	ISBT		
+RH	Type 135	RHD* 01W.135 RHD*weak D type 135	RHD	SNP	c.884T>A	p.Met295Lys 	6	-	ISBT		
+RH	Type 136	RHD* 01W.136 RHD*weak D type 136	RHD	SNP	c.41C>T	p.Pro14Leu 	1	-	ISBT		
+RH	Type 137	RHD* 01W.137 RHD*weak D type 137	RHD	SNP	c.780C>A	p.His260Gln 	5	-	ISBT		
+RH	Type 138	RHD* 01W.138 RHD*weak D type 138	RHD	SNP	c.871C>T	p.Pro291Ser 	6	-	ISBT		
+RH	Type 139	RHD* 01W.139 RHD*weak D type 139	RHD	SNP	c.1169T>C	p.Leu390Pro 	9	-	ISBT		
+RH	Type 140	RHD* 01W.140 RHD*weak D type 140	RHD	SNP	c.1229T>C	p.Phe410Ser 	10	-	ISBT		
+RH	Type 141	RHD* 01W.141 RHD*weak D type 141	RHD	SNP	c.668T>C	p.Phe223Ser 	5	-	ISBT		
+RH	Type 142	RHD* 01W.142 RHD*weak D type 142	RHD	SNP	c.67G>T	p.Ala23Ser 	1	-	ISBT		
+RH	Type 143	RHD* 01W.143 RHD*weak D type 143	RHD	SNP	c.173C>T	p.Ala58Val 	2	-	ISBT		
+RH	Type 144	RHD* 01W.144 RHD*weak D type 144	RHD	SNP	c.579G>C	p.Glu193Asp 	4	-	ISBT		
+RH	Type 145	RHD* 01W.145 RHD*weak D type 145	RHD	SNP	c.41C>G	p. Pro14Arg 	1	-	ISBT		
+RH	Del	RHD*01EL.01 RHD*DEL1	RHD	SNP	c.1227G>A	p.Lys409Lys 	9	-	ISBT		
+RH	Del	RHD*01EL.02 RHD*DEL2	RHD	SNP	c.3G>A	p.Met1Ile 	1	-	ISBT		
+RH	Del	RHD*01EL.03 RHD*DEL3	RHD	SNP	c.53T>C	p.Leu18Pro 	1	-	ISBT		
+RH	Del 	RHD*01EL.04 RHD*DEL4	RHD	CNV	c.147delA	p.Val50Leufs*5 	1	-	ISBT		
+RH	Del 	RHD*01EL.05 RHD*DEL5	RHD	SNP	c.148+1G>A	Splice site mutation 	Intron 1	-	ISBT		
+RH	Del or weak D	RHD*01EL.06 RHD*DEL6	RHD	SNP	c.251T>C	p.Leu84Pro 	2	-	ISBT		
+RH	Del or weak D	RHD*01EL.07 RHD*DEL7	RHD	SNP	c.410C>A	p.Ala137Glu 	3	-	ISBT		
+RH	Del	RHD*01EL.08 RHD*DEL8	RHD	SNP	c.486+1G>A	Splice site mutation 	Intron 3	-	ISBT		
+RH	Del or D negative	RHD*01EL.09 RHD*DEL9	RHD	SNP	c.486+2T>A	Splice site mutation 	Intron 3	-	ISBT		
+RH	Del 	RHD*01EL.10 RHD*DEL10	RHD	SNP	c.1222T>C	p.Trp408Arg	9	-	ISBT		
+RH	Del 	RHD*01EL.11 RHD*DEL11	RHD	CNV	c.1252_1253insT[RHD:c.1252_1253insT]	p.*418Leuext*7 0	10	-	ISBT		
+RH	Del 	RHD*01EL.12 RHD*DEL12	RHD	SNP	c.458T>C	p.Leu153Pro	3	-	ISBT		
+RH	Del or D negative	RHD*01EL.13 RHD*DEL13	RHD	CNV	c.785delA[RHD:c.785del]	p.Lys264Argfs* 24	5	-	ISBT		
+RH	Del 	RHD*01EL.14 RHD*DEL14	RHD	SNP	c.634+5G>T	Splice site mutation	Intron 4	-	ISBT		
+RH	Del or D negative	RHD*01EL.15 RHD*DEL15	RHD	SNP	c.922G>T	p.Gly308Ter	6	-	ISBT		
+RH	Del 	RHD*01EL.16 RHD*DEL16	RHD	SNP	c.634G>C	p.Gly212Arg	4	-	ISBT		
+RH	Del 	RHD*01EL.17 RHD*DEL17	RHD	SNP	c.1203T>A	p.Tyr401*	9	-	ISBT		
+RH	Del 	RHD*01EL.18 RHD*DEL18	RHD	CNV	c.93_94insT[RHD:c.93_94insT]	p.Thr32Tyrfs*4 	1	-	ISBT		
+RH	Del 	RHD*01EL.19 RHD*DEL19	RHD	SNP	c.635-2A>G	Splice site mutation	Intron 4	-	ISBT		
+RH	Del 	RHD*01EL.20 RHD*DEL20	RHD	SNP	c.1154-8T>A	Splice site mutation 	Intron 8	-	ISBT		
+RH	Del 	RHD*01EL.21 RHD*DEL21	RHD	SNP	c.148+5G>C	Splice sitemutation	Intron 1	-	ISBT		
+RH	Del 	RHD*01EL.22 RHD*DEL22	RHD	CNV	c.336-2delA[RHD:c.336-2del]	Splice site;mutation	Intron 2	-	ISBT		
+RH	Del Del Partial D	RHD*01EL.23 RHD*DEL23	RHD,RHCE	CNV	RHD-CE(5-7)-D[RHD:c.635_1073>RHCE:c.635_1073]	Hybrid allele	5,6,7	-	ISBT		
+RH	Del 	RHD*01EL.24 RHD*DEL24	RHD	SNP	c.838G>A	p.Ala280Thr	6	-	ISBT		
+RH	Del 	RHD*01EL.25 RHD*DEL25	RHD	SNP	c.1252T>A	p.Ter418Lysext*?	10	-	ISBT		
+RH	Del 	RHD*01EL.26 RHD*DEL26	RHD	CNV	c.1248_1249insG[RHD:c.1248_1249insG]	p.Phe417Valfs*?	10	-	ISBT		
+RH	Del 	RHD*01EL.28 RHD*DEL28	RHD	CNV	c.993delC[RHD:c.993del]	p.Phe332Serfs*27	7	-	ISBT		
+RH	Del 	RHD*01EL.29 RHD*DEL29	RHD	SNP	c.1210G>C	p.Asp404His	9	-	ISBT		
+RH	Del 	RHD*01EL.30 RHD*DEL30	RHD	CNV	c.1074-100_1153+?del[RHD:c.1074-100_1153del]	Large Deletion	8, Intron 7,8	-	ISBT		
+RH	Del 	RHD*01EL.31 RHD*DEL31	RHD	SNP	c.148+1G>T	Splice site mutation	Intron 1	-	ISBT		
+RH	Del 	RHD*01EL.32 RHD*DEL32	RHD	SNP	c.149-29G>C	Intron polymorphism	Intron 1	-	ISBT		
+RH	Del 	RHD*01EL.33 RHD*DEL33	RHD	SNP	c.336-2A>G	Splice sitemutation	Intron 2	-	ISBT		
+RH	Del 	RHD*01EL.35 RHD*DEL35	RHD	CNV	c.802-38_35del[RHD:c.802-38_802-35del]	Intron polymorphism	Intron 5	-	ISBT		
+RH	Del 	RHD*01EL.36 RHD*DEL36	RHD	SNP	c.1227G>A;c.1073+152C>A	Splice site mutation	9, Intron 7	-	ISBT		
+RH	Del 	RHD*01EL.37 RHD*DEL37	RHD	SNP	c.1154-31C>T	Intron polymorphism	Intron 8	-	ISBT		
+RH	Del 	RHD*01EL.38 RHD*DEL38	RHD	SNP	c.1010T>G	p.Leu337Arg	7	-	ISBT		
+RH	Del 	RHD*01EL.39 RHD*DEL39	RHD	SNP	c.113T>A	p.Leu38*	1	-	ISBT		
+RH	Del 	RHD*01EL.40 RHD*DEL40	RHD	SNP	c.278T>G	p.Leu93Arg	2	-	ISBT		
+RH	Del 	RHD*01EL.41 RHD*DEL41	RHD	SNP	c.872C>G	p.Pro291Arg	6	-	ISBT		
+RH	Del 	RHD*01EL.42 RHD*DEL42	RHD	SNP	c.335G>C;c.149-29G>C	p.Ser112Thr	2, Intron 1	-	ISBT		
+RH	Del 	RHD*01EL.43 RHD*DEL43	RHD	SNP	c.46T>C	p.Trp16Arg	1	-	ISBT		
+RH	Del 	RHD*01EL.44 RHD*DEL44	RHD,RHCE	CNV	RHD-CE(4-9)-D[RHD:c.487_1227>RHCE:c.487_1227]	Hybrid allele	4,5,6,7,8,9	-	ISBT		
+RH	Del 	RHD*01EL.45 RHD*DEL45	RHD	SNP	c.721A>C	p.Thr241Pro	5	-	ISBT		
+RH	Del 	RHD*01EL.46 RHD*DEL46	RHD	SNP	c.884T>C	p.Met295Thr	6	-	ISBT		
+RH	D-	RHD*01N.01	RHD	CNV	RHD deletion[RHD:c.1_1254del]	p.0	1,2,3,4,5,6,7,8,9,10	-	ISBT		
+RH	D-	RHD*08N.01 RHD*Pseudogene RHD* Ψ	RHD	SNP,CNV	37-bp insertion in intron3;c.609G>A; c.654G>C; c.667T>G; c.674C>T;c.807T>G	Intron polymorphism;silent;p.Met218Ile;p.Phe223Val;p.Ser225Phe;p.Tyr269*	4,5,6,Intron 3	-	ISBT		
+RH	D-	RHD*01N.02	RHD,RHCE	CNV	CE exons 1-9[RHD:c.1_1227>RHCE:c.1_1227]	Hybrid 	1,2,3,4,5,6,7,8,9	-	ISBT		
+RH	D-	RHD*01N.03	RHD,RHCE	CNV	CE exons 2-9[RHD:c.149_1227>RHCE:c.149_1227]	Hybrid 	2,3,4,5,6,7,8,9	-	ISBT		
+RH	D-	RHD*01N.04	RHD,RHCE	CNV	CE exons 3-9[RHD:c.336_1227>RHCE:c.336_1227]	Hybrid 	3,4,5,6,7,8,9	-	ISBT		
+RH	D-	RHD*01N.05	RHD,RHCE	CNV	CE exons 2-7[RHD:c.149_1073>RHCE:c.149_1073]	Hybrid 	2,3,4,5,6,7	-	ISBT		
+RH	D- C+ very weak	RHD*01N.06 	RHD,RHCE	SNP,CNV	CE exons 4-7[RHD:c.487_1073>RHCE:c.487_1073];c.733C>G;c.1006G>T	Hybrid; p.Leu245Val;p.Gly336Cys	4,5,6,7	-	ISBT		
+RH	D- C+	RHD*03N.01 	RHD,RHCE	SNP,CNV	c.186G>T;c.410C>T;c.455A>C;CE exons 4-7[RHD:c.487_1073>RHCE:c.487_1073];c.733C>G;c.1006G>T	p.Leu62Phe;p. Ala137Val;p. Asn152Thr;Hybrid with p.Leu245Val; p.Gly336Cys 	2,3,4,5,6,7	-	ISBT		
+RH	D- C+	RHD*01N.07 	RHD,RHCE	CNV	CE exons 4-7[RHD:c.487_1073>RHCE:c.487_1073]	Hybrid	4,5,6,7	-	ISBT		
+RH	D-	RHD*01N.08 	RHD	SNP	c.48G>A	p.Trp16Ter 	1	-	ISBT		
+RH	D-	RHD*01N.09 	RHD	SNP	c.121C>T; c.643T>C; c.646T>C; c.988T>C	p.Gln41Ter 	1,5,7	-	ISBT		
+RH	D-	RHD*01N.10 	RHD	SNP	c.270G>A	p.Trp90Ter 	2	-	ISBT		
+RH	D-	RHD*01N.11 	RHD	CNV	c.325delA[RHD:c.325del]	p.Thr109Hisfs*10 	2	-	ISBT		
+RH	D-	RHD*01N.12 	RHD	CNV	c.449delT[RHD:c.449del]	p.Leu150Ter 	3	-	ISBT		
+RH	D-	RHD*01N.13 	RHD	CNV	c.487_490delACAG[RHD:c.487_490del]	p.Asp164Thrfs*3 	4	-	ISBT		
+RH	D-	RHD*01N.14 	RHD	SNP	c.554G>A	p.Trp185Ter 	4	-	ISBT		
+RH	D-	RHD*01N.15 	RHD	SNP	c.635G>T	p.Gly212Val 	5	-	ISBT		
+RH	D-	RHD*01N.16 	RHD	CNV	c.711delC[RHD:c.711del]	p.Val238Cysfs*8 	5	-	ISBT		
+RH	D-	RHD*01N.17 	RHD	SNP,CNV	c.652delA[RHD:c.652del]; c.653T>G	p.Met218Glyfs*11 	5	-	ISBT		
+RH	D-	RHD*01N.18 	RHD	SNP	c.807T>G	p.Tyr269Ter 	6	-	ISBT		
+RH	D-	RHD*01N.19 	RHD	SNP	c.933C>A	p.Tyr311Ter 	6	-	ISBT		
+RH	D-	RHD*01N.20 	RHD	SNP	c.941G>T	p.Gly314Val 	7	-	ISBT		
+RH	D-	RHD*01N.21 	RHD	SNP	c.990C>G	p.Tyr330Ter 	7	-	ISBT		
+RH	D-	RHD*01N.22 	RHD	SNP	c.1203T>A	p.Tyr401Ter 	9	-	ISBT		
+RH	D-	RHD*01N.23 	RHD	CNV	c.343delC[RHD:c.343del]	p.Leu115Trpfs*4 	3	-	ISBT		
+RH	D-	RHD*01N.24 	RHD	SNP	c.335+1G>A	Alternative splicing 	Intron 2	-	ISBT		
+RH	D-	RHD*01N.25 	RHD	SNP	c.336-1G>A	Alternative splicing 	Intron 2	-	ISBT		
+RH	D-	RHD*01N.26 	RHD	SNP	c.1153+1G>A	Alternative splicing 	Intron 8	-	ISBT		
+RH	D-	RHD*01N.27 	RHD	CNV	c.908_909insTGGCT[RHD:c.908_909insTGGCT]; c.939+2_939+5delTAAG[RHD:c.939+2_939+5del]	p.Leu303Glyfs*3 	6, Intron 6	-	ISBT		
+RH	D-	RHD*01N.28 	RHD	CNV	c.970_972delCAC[RHD:c.970_972del]; c.976_991delTCCATCATGGGCTACA[RHD:c.976_991del]	p.His324Serfs*29 	7	-	ISBT		
+RH	D-	RHD*01N.29 	RHD	CNV	c.660delG[RHD:c.660del]	p.Trp220Cysfs*9 	5	-	ISBT		
+RH	D-	RHD*01N.30 	RHD	CNV	c.745_757del13[RHD:c.745_757del]	p.Val249Serfs*35 	5	-	ISBT		
+RH	D-	RHD*01N.31 	RHD	CNV	c.93delC[RHD:c.93del]	fs at 31 	1	-	ISBT		
+RH	D-	RHD*01N.32 	RHD	CNV	c.78delC[RHD:c.78del]	p.Leu27Serfs*12 	1	-	ISBT		
+RH	D-	RHD*01N.33 	RHD	CNV	c.712delG[RHD:c.712del]	p.Val238Cysfs*8 	5	-	ISBT		
+RH	D-	RHD*01N.34 	RHD	CNV	c.615_616delCA[RHD:c.615_616del]	p.Ser206Phefs*111 	4	-	ISBT		
+RH	D-	RHD*01N.35 	RHD	CNV	c.330_331delGT[RHD:c.330_331del]	p.Phe111Glnfs*48 	3	-	ISBT		
+RH	D-	RHD*01N.36 	RHD	CNV	c.1080_1089delCTTCCAGGTC[RHD:c.1080_1089del]	p.Phe361Serfs*12 	8	-	ISBT		
+RH	D-	RHD*01N.37 	RHD	CNV	c.297_319delCCAGTTCCCTTCTGGGAAGGTGG[RHD:c.297_319del]	p.Gln100Hisfs*52 	2	-	ISBT		
+RH	D-	RHD*01N.38 	RHD	SNP	c.939+2T>A	Alternative splicing 	Intron 6	-	ISBT		
+RH	D-	RHD*01N.39 	RHD	SNP	c.767C>G	p.Ser256Ter 	5	-	ISBT		
+RH	D-	RHD*01N.40 	RHD	SNP	c.1029C>A	p.Tyr343Ter 	7	-	ISBT		
+RH	D-	RHD*01N.41 	RHD	CNV	c.361_371delTTGTCGGTGCT[RHD:c.361_371del]	p.Leu121Aspfs*35 	3	-	ISBT		
+RH	D-	RHD*01N.42 	RHD,RHCE	CNV	CE exons1, 7-10[RHCE:c.149_939>RHD:c.802_939]	Hybrid 	1,7,8,9,10	-	ISBT		
+RH	D-	RHD*01N.43 	RHD,RHCE	CNV	CE exons 1-3[RHD:c.1_486>RHCE:c.1_486]	Hybrid 	1,2,3	-	ISBT		
+RH	D-	RHD*01N.44 	RHD	CNV	c.1228-1_1248delGTTTCCTCATTTGGCTGTTGGA[RHD:c.1228-1_1248del]	p.? 	Intron 9	-	ISBT		
+RH	D-	RHD*01N.45 	RHD	CNV	c.216_217dupCA[RHD:c.217_218dupCA]; c.1195G>A	p.Ser73Thrfs*27 	2	-	ISBT		
+RH	D-	RHD*01N.46 	RHD	CNV	c.545_548delCTGT[RHD:c.545_548del]	p.Ser182Trpfs*46 	4	-	ISBT		
+RH	D-	RHD*01N.47 	RHD	CNV	c.745_759delinsAG[RHD:c.745_759delinsAG]	p.Val249Serfs*35 	5	-	ISBT		
+RH	D-	RHD*01N.48 	RHD	CNV	c.822delG[RHD:c.822del]	p.Leu275Trpfs*13 	6	-	ISBT		
+RH	D-	RHD*01N.49 	RHD	CNV	c.915delC[RHD:c.915del]	p.Val306Serfs*53 	6	-	ISBT		
+RH	D-	RHD*01N.50 	RHD	CNV	c.93dupT[RHD:c.93_94insT]	p.Thr32Tyrfs*4 	1	-	ISBT		
+RH	D-	RHD*01N.51 	RHD	CNV	c.950delA[RHD:c.950del]	p.Asn317Thrfs*42 	7	-	ISBT		
+RH	D-	RHD*01N.52 	RHD	SNP	c.922G>T	p.Gly308Ter 	6	-	ISBT		
+RH	D-	RHD*01N.53 	RHD	SNP	c.1154G>A	p.Gly385Asp 	9	-	ISBT		
+RH	D-	RHD*01N.54 	RHD	SNP	c.801+1G>A	Alternative splicing 	Intron 5	-	ISBT		
+RH	D-	RHD*01N.55 	RHD	SNP	c.939+1G>A	Alternative splicing 	Intron 6	-	ISBT		
+RH	D-	RHD*01N.56 	RHD	SNP	c.1073+2T>C	Alternative splicing 	Intron 7	-	ISBT		
+RH	D- Del	RHD*01N.57 	RHD	SNP	c.1010T>G	p.Leu337Arg 	7	-	ISBT		
+RH	D-	RHD*01N.58 	RHD	SNP,CNV	c.802-41_802-38delCTCT[RHD:c.802-41_802-38del]; c.1157T>A	p.Leu386Ter 	9,Intron 5	-	ISBT		
+RH	D-	RHD*01N.59 	RHD	SNP	c.598C>T	p.Gln200Ter 	4	-	ISBT		
+RH	D-	RHD*01N.60 	RHD	SNP	c.1213C>T	p.Gln405Ter 	9	-	ISBT		
+RH	D-	RHD*01N.61 	RHD	SNP	c.952C>T	p.Arg318Ter 	7	-	ISBT		
+RH	D-	RHD*01N.62 	RHD	SNP	c.761C>G	p.Ser254Ter 	5	-	ISBT		
+RH	D-	RHD*01N.63 	RHD	SNP	c.933C>G	p.Tyr311Ter 	6	-	ISBT		
+RH	D-	RHD*01N.64 	RHD	SNP	c.1084C>T	p.Gln362Ter 	8	-	ISBT		
+RH	D-	RHD*01N.65 	RHD	CNV	c.124_125delAA[RHD:c.124_125del]	p.Lys42Glyfs*117 	1	-	ISBT		
+RH	D-	RHD*01N.66 	RHD	CNV	c.1174delA[RHD:c.1174del]	p.Ile392Tyrfs*25 	9	-	ISBT		
+RH	D-	RHD*01N.67 	RHD	CNV	RHD exon 1 deletion (intron breakpoints unknown)[RHD:c.1_148del]	p.0 	1	-	ISBT		
+RH	D-	RHD*01N.68 	RHD	SNP	c.335G>T	p.Ser112Ile 	2	-	ISBT		
+RH	D-	RHD*01N.69 	RHD	SNP	c.634+1G>T; c.1136C>T	Alternative splicing 	Intron 4,8	-	ISBT		
+RH	D-	RHD*01N.70 	RHD	SNP	c.1073+1G>T	Alternative splicing 	Intron 7	-	ISBT		
+RH	D-	RHD*01N.71 	RHD	SNP	c.1074-1G>A	Alternative splicing 	Intron 7	-	ISBT		
+RH	D-	RHD*01N.72 	RHD	SNP	c.361T>A; c.380T>C; c.383A>G; c.455A>C; c.602C>G; c.667T>G; c.819G>A	p.Leu121Met; p.Val127Ala; p.Asp128Gly; p.Asn152Thr; p.Thr201Arg; p.Phe223Leu; silent 	3,4,5,6	-	ISBT		
+RH	D-	RHD*01N.73 	RHD	SNP	c.443C>G	p.Thr148Arg 	3	-	ISBT		
+RH	D-	RHD*01N.74 	RHD	CNV	c.424_426delATG[RHD:c.424_426del]	p.Met142del 	3	-	ISBT		
+RH	D-	RHD*01N.75 	RHD	CNV	c.581_582insG[RHD:c.581_582insG]	p.Thr195Asnfs*4 	4	-	ISBT		
+RH	D-	RHD*01N.76 	RHD	SNP	c.1179G>A	p.Trp393Ter 	9	-	ISBT		
+RH	D-	RHD*01N.77 	RHD	SNP	c.1228-1G>A	Alternative splicing 	Intron 9	-	ISBT		
+RH	D-	RHD*01N.78 	RHD	CNV	c.659delG[RHD:c.659del]	p.Trp220Cysfs*9 	5	-	ISBT		
+RH	D-	RHD*01N.79 	RHD	SNP	c.896T>C	p.Leu299Pro 	6	-	ISBT		
+RH	D-	RHD*01N.80 	RHD	SNP	c.1007G>A	p.Gly336Asp 	7	-	ISBT		
+RH	D-	RHD*01N.81 	RHD	SNP	c.1074-2A>C	Alternative splicing 	Intron 7	-	ISBT		
+RH	D-	RHD*01N.82 	RHD	CNV	c.697delG[RHD:c.697del]	p.Glu 233Lysfs*13 	5	-	ISBT		
+RH	D-	RHD*01N.83 	RHD	CNV	c.702delG[RHD:c.702del]	p.Lys 235Argfs*11 	5	-	ISBT		
+RH	RH:4 or c RH:5 or e RH:6 or f (ce)	RHCE*01 or RHCE*ce	RHCE	SNP	c.307C>C;c.676G>G	p.Pro103Pro;p.Ala226Ala	2,5	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.01 RHCE*ce.01	RHCE	SNP	c.48G>C	p.Trp16Cys	1	-	ISBT		
+RH	RH:4 (c+ weak, partial) RH:5 (e+ weak, partial)	RHCE*01.02.01 RHCE*ce.02.01 RHCE*ceTI	RHCE	SNP	c.48G>C;c.1025C>T	p.Trp16Cys;p.Thr342Ile	1,7	-	ISBT		
+RH	-	RHCE*01.02.02 RHCE*ce.02.02	RHCE	SNP	c.48G>C;c.150C>T;c.178C>A;c.201A>G;c.203A>G;c.307C>T;c.1025C>T	p.Trp16Cys;silent;p.Leu60Ile;silent;p.Asn68Ser;p.Pro103Ser;p.Thr342Ilep	1,2,7	-	ISBT		
+RH	RH:5 (e+ partial)	RHCE*01.03 RHCE*ce.03	RHCE	SNP	c.1025C>T	p.Thr342Ile	7	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ weak, partial) RH:10,-20 (V+weak, VS-) RH:-18,-19 (Hr-, hrS-)	RHCE*01.04.01 RHCE*ce.04.01 RHCE*ceAR	RHCE	SNP	c.48G>C;c.712A>G;c.733C>G;c.787A>G;c.800T>A;c.916A>G	p.Trp16Cys;p.Met238Val;p.Leu245Val;p.Arg263Gly;p.Met267Lys;p.Ile306Val	1,5,6	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ weak, partial) RH:10,-20 (V+weak, VS-) RH:-18,-19 (Hr-, hrS-) phenotype inferred in trans to ce	RHCE*01.04.0X RHCE*ce.04.0X RHCE*ceAR.02	RHCE	SNP	c.712A>G;c.733C>G;c.787A>G;c.800T>A;c.916A>G	p.Met238Val;p.Leu245Val;p.Arg263Gly;p.Met267Lys;p.Ile306Val	5,6	-	ISBT		
+RH	RH:4 (c+ partial), inferred RH:5 (e+ partial), inferred RH:-18,-19 (Hr-, hrS-),inferred	RHCE*01.04.02 RHCE*ce.04.02	RHCE	SNP	c.48G>C;c.697C>G;c.712A>G;c.733C>G;c.787A>G;c.800T>A;c.916A>G	p.Trp16Cys;p.Gln233Glu;p.Met238Val;p.Leu245Val;p.Arg263Gly;p.Met267Lys;p.Ile306Val	1,5,6	-	ISBT		
+RH	RH:4 (c+ partial), inferred RH:5 (e+ weak, inferred partial) RH:-18,-19 (Hr-, hrS-),inferred RH:-31 (hrB-)	RHCE*01.04.03 RHCE*ce.04.03	RHCE	SNP	c.48G>C;c.455C>A;c.712A>G;c.733C>G;c.787A>G;c.800T>A;c.916A>G	p.Trp16Cys;p.Thr152Asn;p.Met238Val;p.Leu245Val;p.Arg263Gly;p.Met267Lys;p.Ile306Val	1,3,5,6	-	ISBT		
+RH	RH:4 (c+ partial)RH:5 (e+ weak, partial)RH:-18,-19 (Hr-, hrS-)	RHCE*01.05.01 RHCE*ce.05.01 RHCE*ceEK	RHCE	SNP	c.48G>C; c.712A>G; c.787A>G; c.800T>A	p.Trp16Cys;p.Met238Val;p.Arg263Gly;p.Met267Lys	1,5	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ partial) RH:-18,-19 (Hr-, hrS-)	RHCE*01.05.02 RHCE*ce.05.02	RHCE	SNP	c.712A>G; c.787A>G; c.800T>A	p.Met238Val;p.Arg263Gly;p.Met267Lys	5	-	ISBT		
+RH	RH:5 (e+ weak, partial) RH:-59 (CEAG-) RH:-31 (hrB-)	RHCE*01.06.01 RHCE*ce.06.01 RHCE*ceAG	RHCE	SNP	c.254C>G	p.Ala85Gly	2	-	ISBT		
+RH	-	RHCE*01.06.02 RHCE*ce.06.02	RHCE	SNP	c.254C>G; c.733C>G	p.Ala85Gly;p.Leu245Val	2,5	-	ISBT		
+RH	-	RHCE*01.06.03 RHCE*ce.06.03	RHCE	SNP	c.254C>G; c.733C>G; c.941T>C	p.Ala85Gly;p.Leu245Val;p.Val314Ala	2,5,7	-	ISBT		
+RH	-	RHCE*01.06.04 RHCE*ce.06.04	RHCE	SNP	c.254C>G; c.697C>G	p.Ala85Gly;p.Gln233Glu	2,5	-	ISBT		
+RH	RH:2 (C+ partial, robust C+ expression) RH:5 (e+)	RHCE*01.06.05 RHCE*ce.06.05	RHCE	SNP	c.254C>G;c.307C>T	p.Ala85Gly;p.Pro103Ser	2	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ weak, partial) RH:-19 (hrS-) RH:-31 (hrB-) RH:-61 (CEVF-)	RHCE*01.07.01 RHCE*ce.07.01 RHCE*ceMO.01	RHCE	SNP	c.48G>C;c.667G>T	p.Trp16Cys;p.Val223Phe	1,5	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ weak, partial) RH:-19 (hrS-) RH:-31 (hrB-) RH:-61 (CEVF-)	RHCE*01.07.02 RHCE*ce.07.02 RHCE*ceMO.02	RHCE	SNP	c.667G>T	p.Val223Phe	5	-	ISBT		
+RH	RH:5 (e+ partial, weak to neg) RH:-18,-19 (Hr-, hrS-) RH:49 (STEM+)	RHCE*01.08 RHCE*ce.08 RHCE*ceBI	RHCE	SNP	c.48G>C;c.712A>G;c.818C>T;c.1132C>G	p.Trp16Cys;p.Met238Val;p.Ala273Val;p.Leu378Val	1,5,6,8	-	ISBT		
+RH	RH:5 (e+ positive to negative) RH:-18 (Hr-), inferred RH:-19 (hrS-) Rh:49 (STEM+ weak)	RHCE*01.09 RHCE*ce.09 RHCE*ceSM	RHCE	SNP	c.48G>C;c.712A>G;c.818C>T	p.Trp16Cys;p.Met238Val;p.Ala273Val	1,5,6	-	ISBT		
+RH	RH:5 (e+ weak) Some monoclonal anti- D cross-react	RHCE*01.10.01 .01 RHCE*ce.10.01 .01 RHCE*ceSL .01.01	RHCE	SNP	c.48G>C;c.365C>T	p.Trp16Cys;p.Ser122Leu	1,3	-	ISBT		
+RH	RH:5 (e+ weak) Some monoclonal anti- D cross-react	RHCE*01.10.01.02 RHCE*ce.10.01.02 RHCE*ceSL.01.02	RHCE	SNP	c.48G>C;c.105C>T;c.365C>T	p.Trp16Cys;silent;p.Ser122Leu	1,2,3	-	ISBT		
+RH	RH:5 (e+ weak) Some monoclonal anti- D cross-react	RHCE*01.10.02 RHCE*ce.10.02 RHCE*ceSL.02	RHCE	SNP	c.365C>T	p.Ser122Leu	3	-	ISBT		
+RH	RH:5 (e+ weak) Some monoclonal anti- D cross-react	RHCE*01.11 RHCE*ce.11 RHCE*ceRT	RHCE	SNP	c.461G>C	p.Arg154Thr	3	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.12 RHCE*ce.12 RHCE*ceRA	RHCE	SNP	c.48G>C;c.538G>C	p.Trp16Cys;p.Gly180Arg	1,4	-	ISBT		
+RH	RH:5 (e+ very weak) RH:58 (CELO+ weak)	RHCE*01.13 RHCE*ce.13 RHCE*ceBP	RHCE	CNV	c.687_689delAAG[RHCE:c.687_689del]	p.Arg229del	5	-	ISBT		
+RH	RH:4 (c+ weak) RH:5 (e+ weak) RH:36 (Bea+)	RHCE*01.14 RHCE*ce.14 RHCE*ceBE	RHCE	SNP	c.662C>G	p.Pro221Arg	5	-	ISBT		
+RH	RH:4 (c+ weak) RH:5 (e+ weak) RH:55 (LOCR+) RH:-26	RHCE*01.15 RHCE*ce.15 RHCE*ceLOCR	RHCE	SNP	c.286G>A	p.Gly96Ser	2	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.16 RHCE*ce.16	RHCE	SNP	c.48G>C;c.1170C>T;c.1193T>A	p.Trp16Cys;silent;p.Val398Glu	1,9	-	ISBT		
+RH	Some monoclonal anti-D crossreact	RHCE*01.17 RHCE*ce.17	RHCE	SNP	c.505C>A;c.509G>T;c.514T>A	p.Leu169Met;p.Arg170Met;p.Phe172Ile	4	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.18 RHCE*ce.18	RHCE	SNP	c.939G>A	silent	6	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ partial) RH:10,20 (V+VS+) RH:31 (hrB+ very weak to neg)	RHCE*01.20.01 RHCE*ce.20.01 RHCE*ceVS.01	RHCE	SNP	c.733C>G	p.Leu245Val	5	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ partial) RH:10,20 (V+VS+) RH:-31 (hrB-)	RHCE*01.20.02 .01 RHCE*ce.20.02 .01 RHCE*ceVS.02 .01	RHCE	SNP	c.48G>C;c.733C>G	p.Trp16Cys;p.Leu245Val	1,5	-	ISBT		
+RH	-	RHCE*01.20.02.02 RHCE*ce.20.02.02 RHCE*ceVS.02.02	RHCE	SNP	c.48G>C;c.105C>T;c.733C>G	p.Trp16Cys;silent;p.Leu245Val	1,2,5	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ partial) RH:-10,20 (V-VS+) RH:-31 (hrB-)	RHCE*01.20.03 RHCE*ce.20.03 RHCE*ceVS.03 RHCE*ceS	RHCE	SNP	c.48G>C;c.733C>G;c.1006G>T	p.Trp16Cys;p.Leu245Val;p.Gly336Cys	1,5,7	-	ISBT		
+RH	RH:5 (e+ partial) RH:10,20 (V+VS+) Probable RH:-31 (hrB-)	RHCE*01.20.04.01 RHCE*ce.20.04.01 RHCE*ceVS.04.01 RHCE*ceTI type 2	RHCE	SNP	c.48G>C;c.733C>G;c.1025C>T	p.Trp16Cys;p.Leu245Val;p.Thr342Ile	1,5,7	-	ISBT		
+RH	-	RHCE*01.20.04.02 RHCE*ce.20.04.02 RHCE*ceVS.04.02	RHCE	SNP	c.48G>C;c.105C>T;c.733C>G;c.744T>C;c.1025C>T	p.Trp16Cys;silent;p.Leu245Val;silent;p.Thr342Ile	1,5,7	-	ISBT		
+RH	RH:5 (e+ partial) RH:-10,20 (V-VS+) RH:-31 (hrB-)	RHCE*01.20.05 RHCE*ce.20.05 RHCE*ceVS.05	RHCE	SNP	c.733C>G; c.1006G>T	p.Leu245Val;p.Gly336Cys	5,7	-	ISBT		
+RH	RH:4 (c+ partial) RH:5 (e+ partial, positive to negative) RH:20 (VS+) RH:-19,-31 (hrS-, hrB-) RH:43 (Crawford+) RH:-58 (CELO-) Some monoclonal anti-D cross-react	RHCE*01.20.06 RHCE*ce.20.06 RHCE*ceVS.06 RHCE*ceCF	RHCE	SNP	c.48G>C; c.697C>G; c.733C>G	p.Trp16Cys;p.Gln233Glu;p.Leu245Val	1,5	-	ISBT		
+RH	Some monoclonal anti- D cross-react	RHCE*01.20.06.02 RHCE*ce.20.06.02 RHCE*ceVS.06.02	RHCE	SNP	c.697C>G;c.733C>G	p.Gln233Glu;p.Leu245Val	5	-	ISBT		
+RH	RH:5 (e+ weak) RH:10,20 (V+VS+) Probable RH:-31 (hrB-)	RHCE*01.20.08 RHCE*ce.20.08 RHCE*ceVS.08	RHCE	SNP	c.48G>C;c.733C>G;c.748G>A	p.Trp16Cys;p.Leu245Val;p.Val250Met	1,5	-	ISBT		
+RH	RH:5 (e+ weak) RH:10,20 (V+VS+) RH:31 (hrB+ weak)	RHCE*01.20.09 RHCE*ce.20.09 RHCE*ceVS.09	RHCE	SNP	c.48G>C;c.733C>G;c.941T>C	p.Trp16Cys;p.Leu245Val;p.Val314Ala	1,5,7	-	ISBT		
+RH	Probable RH:4 (c+ partial) Probable RH:5 (e+ partial)	RHCE*01.20.10 RHCE*ce.20.10 RHCE*ceVS.10	RHCE	SNP	c.48G>C;c.712A>G;c.733C>G	p.Trp16Cys;p.Met238Val;p.Leu245Val	1,5	-	ISBT		
+RH	-	RHCE*01.20.11 RHCE*ce.20.11 RHCE*ceVS.11	RHCE	SNP,CNV	c.48G>C;exons2-3D[RHCE:c.149_486del];c.186G>T;c.410C>T;c.455A>C;c.733C>G;c.1006G>T	p.Trp16Cys;p.Leu62Phe;p.ALa137Val;p.Asn152Thr;p.Leu245Val;p.Gly336Cys	1,2,3,5,7	-	ISBT		
+RH	Some monoclonal anti- D cross-react	RHCE*01.20.12 RHCE*ce.20.12 RHCE*ceVS.12	RHCE	SNP	c.48G>C;c.462G>T;c.733C>G;c.1006G>T	p.Trp16Cys;p.Arg154Ser;p.Leu245Val;p.Gly336Cys	1,3,5,7	-	ISBT		
+RH	RH:5 (e+) RH:9 (CX+) RH:20 (VS+)	RHCE*01.20.13 RHCE*ce.20.13 RHCE*ceVS.13	RHCE	SNP	c.48G>C;c.106G>A;c.733C>G	p.Trp16Cys;p.Ala36Thr;p.Leu245Val	1,5	-	ISBT		
+RH	RH:5 (e+ weak) RH:48 (JAL+)	RHCE*01.21.01 RHCE*ce.21.01	RHCE	SNP	c.341G>A	p.Arg114Gln	3	-	ISBT		
+RH	RH:5 (e+ weak) RH:48 (JAL+)	RHCE*01.21.02 RHCE*ce.21.02	RHCE	SNP	c.48G>C;c.187G>C;c.341G>A	p.Trp16Cys;p.Gly63Arg;p.Arg114Gln	1,2,3	-	ISBT		
+RH	RH:5 (e+ weak) RH:33 (DHAR+) RH:-34 (HrB-) RH:50 (FPPT+) Some monoclonal anti-D cross-react	RHCE*01.22.01 RHCE*ce.22.01 RHCE*ceHAR.01	RHCE	SNP	c.667G>T;c.697C>G;c.712A>G;c.733C>G;c.744T>C;c.787A>G;c.800T>A	p.Val223Phe;p.Gln233Glu;p.Met238Val;p.Leu245Val;silent;p.Arg263Gly;p.Met267Lys	5	-	ISBT		
+RH	RH:2 (C+ weak to neg) RH:5 (e+ weak) inferred RH:33 (DHAR+) inferred RH:-34 (HrB-) inferred RH:50 (FPPT+) inferred Some monoclonal anti-D cross-react (inferred) RHCE*ce48C  in trans	RHCE*01.22.02 RHCE*ce.22.02 RHCE*ceHAR.02	RHCE	SNP	c.48G>C;c.667G>T;c.697C>G;c.712A>G;c.733C>G;c.744T>C;c.787A>G;c.800T>A	p.Trp16Cys;p.Val223Phe;p.Gln233Glu;p.Met238Val;p.Leu245Val;silent;p.Arg263Gly;p.Met267Lys	1,5	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.23 RHCE*ce.23	RHCE	SNP	c.649T>C	p.Trp217Arg	5	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.24 RHCE*ce.24	RHCE	SNP	c.512A>G	p.His171Arg	4	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.25 RHCE*ce.25	RHCE	SNP	c.730G>A	p.Ala244Thr	5	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.26 RHCE*ce.26	RHCE	SNP	c.872C>T	p.Pro291Leu	6	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.27 RHCE*ce.27	RHCE	SNP	c.1154G>C	p.Gly385Ala	9	-	ISBT		
+RH	RH:4 (c+ weak)	RHCE*01.28 RHCE*ce.28	RHCE	SNP	c.1254A>C	p.Ter418Tyr	10	-	ISBT		
+RH	RH:4,-5 (c+e-)	RHCE*01.29 RHCE*ce.29 RHCE*ceBOL	RHCE,RHD	CNV	RHD exons4-9[RHCE:c.487_1227>RHD:c.487_1227]	RHCE-D(4-9)-CE	4-9	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.30 RHCE*ce.30	RHCE	SNP	c.526G>A	p.Ala176Thr	4	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.31 RHCE*ce.31	RHCE	SNP	c.695T>C	p.Ile232Thr	5	-	ISBT		
+RH	-	RHCE*01.32 RHCE*ce.32	RHCE	SNP	c.827C>A	p.Ala276Glu	6	-	ISBT		
+RH	RH:5 (e+ partial, weak to neg) RH:-31 (hrB-)	RHCE*01.33 RHCE*ce.33	RHCE	SNP	c.506T>C	p.Leu169Pro	4	-	ISBT		
+RH	RH:4 (c+ partial) RH:-5 (e-)	RHCE*01.34 RHCE*ce.34	RHCE,RHD	CNV	RHDexons4-7[RHCE:c.487_1073>RHD:c.487_1073]	RHCE-D(4-7)-CE	4-7	-	ISBT		
+RH	-	RHCE*01.35 RHCE*ce.35	RHCE	SNP	c.202A>G	p.Asn68Asp	2	-	ISBT		
+RH	RH:2 (robust C+ expression) RH:-4 (c-)	RHCE*01.36 RHCE*ce.36	RHCE	SNP	c.307C>T	p.Pro103Ser	2	-	ISBT		
+RH	-	RHCE*01.37 RHCE*ce.37	RHCE	SNP	c.697C>G;c.712A>G;c.733C>G;c.744T>C	p.Gln233Glu;p.Met238Val;p.Leu245Val;silent	5	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*01.38 RHCE*ce.38	RHCE	SNP	c.1-10C>T	promoter region	5’UTR	-	ISBT		
+RH	RH:2 (C+ weak) RH:-4 (c-)	RHCE*01.39 RHCE*ce.39	RHCE	SNP	c.308C>T	p.Pro103Leu	2	-	ISBT		
+RH	RH:4 (c+ weak)	RHCE*01.40 RHCE*ce.40	RHCE	SNP	c.340C>T	p.Arg114Trp	3	-	ISBT		
+RH	RH:-8 (CW-) RH:9 (CX+ weak) Rh:-51 (MAR-) RH:-62 (PARG-)	RHCE*01.41 RHCE*ce.41 RHCE*ceWA	RHCE	SNP	c.114A>C	p.Leu38Phe	2	-	ISBT		
+RH	Some monoclonal anti-D crossreact	RHCE*01.42 RHCE*ce.42 RHCE*ceRG	RHCE	SNP	c.508A>G	p.Arg170Gly	4	-	ISBT		
+RH	RH:3 (E+ weak to neg)	RHCE*01.43 RHCE*ce.43	RHCE	SNP	c.499A>G	p.Met167Val	4	-	ISBT		
+RH	RH:4 (c+ partial, weak) RH:5 (e+ partial, weak)	RHCE*01.44 RHCE*ce.44	RHCE,RHD	CNV	RHD_exons5-6[RHCE:c.635_939>RHD:c.635_939]	RHCE-D(5-6)-CE	5,6	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-)	RHCE*01N.01 RHCE*ceN.01	RHCE	CNV	c.80_84delTCTTC[RHCE:c.80_84del]	p.Tyr29Phefs*5	1	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-)	RHCE*01N.02 RHCE*ceN.02	RHCE	CNV	c.963delG[RHCE:c.963del]	p.Iso322Phefs*37	7	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-)	RHCE*01N.03 RHCE*ceN.03	RHCE	SNP	c.634+1G>T	Splice site	Intron 4	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-), inferred (ce in trans)	RHCE*01N.04 RHCE*ceN.04	RHCE	CNV	c.676delG[RHCE:c.676del]	p.Ala226Leufs*3	5	-	ISBT		
+RH	RH:-5 (e-) (cE in trans)	RHCE*01N.05 RHCE*ceN.05	RHCE	SNP	c.335+3A>T	Splice site	Intron 2	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-)	RHCE*01N.06 RHCE*ceN.06	RHCE	CNV	c.679_683delCTGCT[RHCE:c.679_683del]	p.Leu227Glufs*89	5	-	ISBT		
+RH	RH:-4 (c-) (ce or Ce in trans)	RHCE*01N.07 RHCE*ceN.07	RHCE	SNP	c.1074-2A>G	Splice site	Intron 7	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-)	RHCE*01N.08 RHCE*ceN.08	RHCE	SNP	c.801+1G>A	Splice site	Intron 5	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-)	RHCE*01N.09 RHCE*ceN.09	RHCE	CNV	c.1044_1050dupGCTTCAT[RHCE:c.1044_1050dupGCTTCAT]	p.Thr351Alafs*52	7	-	ISBT		
+RH	RH:-4,-5 (c-e-)	RHCE*01N.10 RHCE*ceN.10	RHCE	SNP	c.807T>A	p.Tyr269Ter	6	-	ISBT		
+RH	RH:-4 (c-)	RHCE*01N.11 RHCE*ceN.11	RHCE	SNP	c.1154-1G>A	-	Intron 8	-	ISBT		
+RH	RH:-4 (c-)	RHCE*01N.12	RHCE	SNP,CNV	c.48G>C;c.366delG[RHCE:c.366del]	p.Trp16Cys;p.Val123Cysfs*1	1,3	-	ISBT		
+RH	RH:-4,-5,-17 (c-e-), inferred (Ce in trans)	RHCE*01N.13 RHCE*ceN.13	RHCE	SNP	c.486+1G>A	Splice site	Intron 3	-	ISBT		
+RH	RH:2 or C RH:5 or e RH:7 or Ce	RHCE*02 or RHCE*Ce	RHCE	SNP	c.48G>C;;c.150C>T;c.178C>A;c.201A>G;c.203A>G;c.307C>T;c.676G	p.Trp16Cys;silent;p.Leu60Ile;silent;p.Asn68Ser;p.Pro103Ser;p.Ala226	1,2,5	-	ISBT		
+RH	RH:2 (C+ weak to neg) RH:5 (e+ weak) RH:48 (JAL+)	RHCE*02.01 RHCE*Ce.01 RHCE*CeMA RHCE*CeJAL	RHCE	SNP	c.340C>T	p.Arg114Trp	3	-	ISBT		
+RH	RH:2 (C+) RH:5 (e+)	RHCE*02.02 RHCE*Ce.02 RHCE*CeFV	RHCE	SNP	c.667G>T;c.697C>G;c.712A>G	p.Val223Phe;p.Gln233Glu;p.Met238Val	5	-	ISBT		
+RH	RH:2 (C+ weak to neg) RH:5 (e+ weak) RH:53 (JAHK+)	RHCE*02.03 RHCE*Ce.03 RHCE*CeJAHK	RHCE	SNP	c.365C>T	p.Ser122Leu	3	-	ISBT		
+RH	RH:2 (C+ partial, weak to neg)	RHCE*02.04 RHCE*Ce.04 RHCE*CeVA	RHCE	SNP	c.667G>T;c.697C>G;c.712A>G;c.733C>G;c.744T>C;c.787A>G;c.800T>A	p.Val223Phe;p.Gln233Glu;p.Mer238Val;p.Leu245Val;silent;p.Arg263Gly;p.Met267Lys	5	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.04.01 RHCE*Ce.04.01	RHCE	SNP	c.667G>T;c.697C>G;c.712A>G;c.733C>G;c.744T>C;c.787A>G	p.Val223Phe;p.Gln233Glu;p.Mer238Val;p.Leu245Val;silent;p.Arg263Gly	5	-	ISBT		
+RH	RH:60 (PARG+)	RHCE*02.05 RHCE*Ce.05 RHCE*CePARG	RHCE	SNP	c.501G>A	p.Met167Ile	4	-	ISBT		
+RH	RH:2 (C+ partial) RH:5 (e+ partial) RH:8 (CW+) RH:-51 (MAR-)	RHCE*02.08.01 RHCE*Ce.08.01 RHCE*CeCW	RHCE	SNP	c.122A>G	p.Gln41Arg	1	-	ISBT		
+RH	RH:8 (CW+) RH:-56 (CENR-)	RHCE*02.08.02 RHCE*Ce.08.02 RHCE*CeNR	RHCE,RHD	SNP,CNV	c.122A>G;RHD_exon6-10[RHCE:c.802_1254>RHD:c.802_1254]	p.Gln41Arg;RHCE(1-5)-D(6-10)	1,6-10	-	ISBT		
+RH	RH:2 (C+ partial) RH:9 (CX+) RH:-51 (MAR-)	RHCE*02.09 RHCE*Ce.09 RHCE*CeCX	RHCE	SNP	c.106G>A	p.Ala36Thr	1	-	ISBT		
+RH	RH:1 (D+) in the absence of conventional D RH:2 (C+ partial, weak to neg) RH:5 (e+ partial, weak) RH:32 RH:54 (DAK+) RH:-46 (Sec-)	RHCE*02.10.01 RHCE*Ce.10.01 RHCE*CeRN	RHCE	SNP	c.505C>A;c.509G>T;c.514T>A;c.544A>T;c.577A>G;c.594T>A;c.602G>C	p.Leu169Met;p.Arg170Met;p.Phe172Ile;p.Thr182Ser;p.Lys193Glu;p.Asn198Lys;p.Arg201Thr	4	-	ISBT		
+RH	RH:2 (C+ partial, weak to neg) RH:5 (e+ partial, weak) RH:32 RH:54 (DAK+) RH:-46 (Sec-)	RHCE*02.10.02 RHCE*Ce.10.02 (allele existent?)	RHCE	SNP	c.455C>A;c.505C>A;c.509G>T;c.514T>A;c.544A>T;c.577A>G;c.594T>A;c.602G>C	p.Thr152Asn;p.Leu169Met;p.Arg170Met;p.Phe172Ile;p.Thr182Ser;p.Lys193Glu;p.Asn198Lys;p.Arg201Thr	3,4	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.11 RHCE*Ce.11	RHCE	SNP	c.286G>A	p.Gly96Ser	2	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.12 RHCE*Ce.12	RHCE	SNP	c.344T>G	p.Leu115Arg	3	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*02.13 RHCE*Ce.13	RHCE	SNP	c.364T>C	p.Ser122Pro	3	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.14 RHCE*Ce.14	RHCE	SNP	c.497A>T	p.His166Leu	4	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*02.15 RHCE*Ce.15	RHCE	SNP	c.689G>C	p.Ser230Thr	5	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.16 RHCE*Ce.16	RHCE	SNP	c.728A>G	p.Tyr243Cys	5	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*02.17 RHCE*Ce.17	RHCE	SNP	c.800T>A	p.Met267Lys	5	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.18 RHCE*Ce.18	RHCE	SNP	c.890T>C	p.Leu297Pro	6	-	ISBT		
+RH	RH:5 (e+ weak)	RHCE*02.19 RHCE*Ce.19	RHCE	SNP	c.464T>G;c.1118C>T	p.Met155Arg;p.Ala373Val	3,8	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.20 RHCE*Ce.20	RHCE	CNV	c.79_81delCTC[RHCE:c.79_81del]	p.Leu27del	1	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.21 RHCE*Ce.21	RHCE	SNP	c.527C>T	p.Ala176Val	4	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ partial, weak) RH:-31 (hrB-)	RHCE*02.22 RHCE*Ce.22	RHCE	SNP	c.667G>T	p.Val223Phe	5	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.23 RHCE*Ce.23	RHCE	SNP	c.941T>C	p.Val314Ala	7	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.24 RHCE*Ce.24	RHCE	SNP	c.1007G>A	p.Gly336Asp	7	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.25 RHCE*Ce.25	RHCE	SNP	c.1007G>T	p.Gly336Val	7	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.26 RHCE*Ce.26	RHCE	SNP	c.460A>G	p.Arg154Gly	3	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.27 RHCE*Ce.27	RHCE	SNP	c.375C>G	p.Ile125Met	3	-	ISBT		
+RH	RH:2,5 (C+e+) RH:9 (CX+)	RHCE*02.28 RHCE*Ce.28	RHCE	SNP	c.919G>A	p.Gly307Arg	6	-	ISBT		
+RH	RH:2 (C+) RH:3 (E+ pos to neg) RH:5 (e+)	RHCE*02.29 RHCE*Ce.29	RHCE	SNP	c.674C>G	p.Ser225Cys	5	-	ISBT		
+RH	RH:2,5 (C+ e+) RH:10,20 (V+VS+)	RHCE*02.30 RHCE*Ce.30	RHCE	SNP	c.733C>G	p.Leu245Val	5	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.31 RHCE*Ce.31	RHCE	SNP	c.487-5T>G	Splice site	Intron 3	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.32 RHCE*Ce.32	RHCE	SNP	c.1228-2A>G	Splice site	Intron 9	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.33 RHCE*Ce.33	RHCE	SNP	c.98A>C	p.His33Pro	1	-	ISBT		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.34 RHCE*Ce.34	RHCE	SNP	c.473G>A	p.Ser158Asn	3	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.35 RHCE*Ce.35	RHCE	SNP	c.491A>G	p.Asp164Gly	4	-	ISBT		
+RH	RH:2 (C+ weak)	RHCE*02.36 RHCE*Ce.36	RHCE	SNP	c.494A>C	p.Tyr165Ser	4	-	ISBT		
+RH	RH:2 (C+)	RHCE*02.37 RHCE*Ce.37	RHCE	CNV	Lacking the 109bp insert[RHCE:c.335+3038_335+3146del]	lacking RHCE exon2 109bp insert	Intron 2	-	ISBT,Ekman G C, Billingsly R, Hessner M J. Rh genotyping: Avoiding false‐negative and false‐positive results among individuals of African ancestry[J]. American journal of hematology, 2002, 69(1): 34-40.		
+RH	RH:2 (C+ weak) RH:5 (e+ weak)	RHCE*02.38 RHCE*Ce.38	RHCE	SNP	c.939G>A	silent	6	-	ISBT		
+RH	RH:2 (C+ very weak)	RHCE*02.39 RHCE*Ce.39	RHCE	SNP	c.1154G>T	p.Gly385Val	9	-	ISBT		
+RH	RH:2 (C+ weak, mixed field) RH:-10 (V-)	RHCE*02.40 RHCE*Ce.40 RHCE*CeAR	RHCE	SNP	c.48G>C;c.712A>G;c.733C>G;c.787A>G;c.800T>A;c.916A>G	p.Trp16Cys;p.Met238Val;p.Leu245Val;p.Arg263Gly;p.Met267Lys;p.Ile306Val	1 5 6	-	ISBT		
+RH	RH:-2,-5,-17 (C-e-)	RHCE*02N.01 RHCE*CeN.01	RHCE	CNV	c.966_968delinsC[RHCE:c.966_968delinsC]	p.His323Profs*77	7	-	ISBT		
+RH	RH:-2 (C-) RH:-5 (e-), inferred RH:-17, inferred	RHCE*02N.02 RHCE*CeN.02	RHCE	SNP	c.659G>A	p.Trp220Ter	5	-	ISBT		
+RH	RH:-2 (C-) (ce in trans)	RHCE*02N.03 RHCE*CeN.03	RHCE	SNP	c.486+1G>A	Splice site	Intron 3	-	ISBT		
+RH	RH:-2,-5 (C-e-) RH:-17, inferred	RHCE*02N.04 RHCE*CeN.04	RHCE	CNV	c.93insT[RHCE:c.93_94insT]	p.Thr32Tyrfs*3	1	-	ISBT		
+RH	RH:-2,-5 (C-e-) RH:-17, inferred	RHCE*02N.05 RHCE*CeN.05	RHCE	SNP	c.377C>G	p.Ser126Ter	3	-	ISBT		
+RH	RH:-2,-5,-17 (C-e-)	RHCE*02N.06 RHCE*CeN.06	RHCE	SNP	c.148+5G>A	Splice site	Intron 1	-	ISBT		
+RH	RH:-2,-5,-17 (C-e-)	RHCE*02N.07 RHCE*CeN.07	RHCE,RHD	CNV	RHD exons3-8[RHCE:c.336_1153>RHD:c.336_1153]	RHCE-D(3-8)-CE	3-8	-	ISBT		
+RH	RH:-2,-5,-17 (C-e-)	RHCE*02N.08 RHCE*CeN.08	RHCE,RHD	CNV	RHD exons3-9[RHCE:c.336_1227>RHD:c.336_1227]	RHCE-D(3-9)-CE	3-9	-	ISBT		
+RH	RH:-2,-5,-17 (C-e-)	RHCE*02N.09 RHCE*CeN.09	RHCE	CNV	c.938delC[RHCE:c.938del]	p.Pro313Argfs*46	6	-	ISBT		
+RH	RH:-2 (C-) RH:-5 (e-), inferred	RHCE*02N.10 RHCE*CeN.10	RHCE	CNV	c.482insT[RHCE:c.482_483insT]	p.Asn162Glnfs37Ter	3	-	ISBT		
+RH	RH:-2,-5 (C-e-) RH:-17, inferred	RHCE*02N.11 RHCE*CeN.11	RHCE	SNP	c.148G>A	p.Val50Ile	1	-	ISBT		
+RH	RH:-2 (C-) RH:-5 (e-), inferred	RHCE*02N.12 RHCE*CeN.12	RHCE	CNV	c.1059delG[RHCE:c.1059del]	p.Trp353Ter	7	-	ISBT		
+RH	RH:-2 (C-) RH:-5 (e-), inferred	RHCE*02N.13 RHCE*CeN.13	RHCE	SNP	c.635-9G>A	Splice site	Intron 4	-	ISBT		
+RH	RH:-2,-5,-17 (C-e-)	RHCE*02N.14 RHCE*CeN.14	RHCE	CNV	c.569_572dupCTCT[RHCE:c.569_572dupCTCT]	p.Pro192Serfs*8	4	-	ISBT		
+RH	RH:4 or c RH:3 or E RH:27 or cE	RHCE*03  or RHCE*cE	RHCE	SNP	c.307C c.676G>C	p.Pro103;p.Ala226Pro	2,5	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg) RH:11 (Ew+)	RHCE*03.01 RHCE*cE.01 RHCE*cEEW	RHCE	SNP	c.500T>A	p.Met167Lys	4	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg) RH:4 (c+ weak to neg)	RHCE*03.02 RHCE*cE.02 RHCE*cEKK	RHCE,RHD	CNV	RHD exons 1-3[RHCE:c.1_486>RHD:c.1_486]	RHD(1-3)-CE	1-3	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg)	RHCE*03.03 RHCE*cE.03 RHCE*cEFM	RHCE	SNP	c.697C>G;c.712A>G	p.Gln233Glu;p.Met238Val	5	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg)	RHCE*03.03.02 RHCE*cE.03.02	RHCE	SNP	c.697C>G;c.712A>G;c.733C>G;c.744T>C	p.Gln233Glu;p.Met238Val;p.Leu245Val;silent	5	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg)	RHCE*03.03.03 RHCE*cE.03.03	RHCE	SNP	c.697C>G	p.Gln233Glu	5	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg) RH:4 (c+ weak)	RHCE*03.04 RHCE*cE.04 RHCE*cEIV	RHCE	SNP	c.602G>C	p.Arg201Thr	4	-	ISBT		
+RH	RH:3 (E+ partial, weak to neg) RH:4 (c+ weak to neg)	RHCE*03.05 RHCE*cE.05 RHCE*cEKH	RHCE	SNP	c.461G>C	p.Arg154Thr	3	-	ISBT		
+RH	RH:3 (E+ weak) RH:4 (c+ weak)	RHCE*03.06 RHCE*cE.06	RHCE	SNP	c.28C>T	p.Arg10Trp	1	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.07 RHCE*cE.07	RHCE	SNP	c.344T>C	p.Leu115Pro	3	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.08 RHCE*cE.08	RHCE	SNP	c.356G>A	p.Ser119Asn	3	-	ISBT		
+RH	RH:3 (E+ weak) RH:4 (c+ weak)	RHCE*03.09 RHCE*cE.09	RHCE	SNP	c.374T>A	p.Ile125Asn	3	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.10 RHCE*cE.10	RHCE	SNP	c.506T>A	p.Leu169Gln	4	-	ISBT		
+RH	RH:3 (E+ weak) RH:4 (c+ weak)	RHCE*03.11 RHCE*cE.11	RHCE	SNP	c.908T>A	p.Leu303Gln	6	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.12 RHCE*cE.12	RHCE	SNP	c.464T>G;c.477T>G	p.Met155Arg;p.Asn159Lys	3	-	ISBT		
+RH	RH:3 (E+ weak) RH:4 (c+ weak)	RHCE*03.13 RHCE*cE.13	RHCE	SNP	c.728A>G	p.Tyr243Cys	5	-	ISBT		
+RH	RH:3 (E+ very weak to neg) RH:4 (c+ weak)	RHCE*03.14 RHCE*cE.14	RHCE	SNP	c.734T>C	p.Leu245Pro	5	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.15.01 RHCE*cE.15.01 RHCE*cE BA	RHCE	SNP	c.380C>T;c.383G>A	p.Ala127Val;p.Gly128Asp	3	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.15.02 RHCE*cE.15.02 RHCE*cE JU	RHCE	SNP	c.361A>T;c.380C>T;c.383G>A	p.Met121Leu;p.Ala127Val;p.Gly128Asp	3	-	ISBT		
+RH	RH:4 (c+ weak)	RHCE*03.16 RHCE*cE.16 RHCE*cE TA	RHCE	SNP	c.94A>G	p.Thr32Ala	1	-	ISBT		
+RH	RH:3 (E+ partial)	RHCE*03.17 RHCE*cE.17	RHCE	SNP	c.520G>A	p.Val174Met	4	-	ISBT		
+RH	RH:3 (E+) RH:4 (c+)	RHCE*03.18 RHCE*cE.18	RHCE	SNP	c.48G>C	p.Trp16Cys	1	-	ISBT		
+RH	RH:3 (E+ weak to neg) RH:4 (c+ weak to neg)	RHCE*03.19 RHCE*cE.19	RHCE	SNP	c.84C>A	p.Phe28Leu	1	-	ISBT		
+RH	RH:3 (E+ weak to neg) RH:4 (c+ weak)	RHCE*03.20 RHCE*cE.20	RHCE	SNP	c.149-1G>A	Splice site	Intron 1	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.21 RHCE*cE.21	RHCE	SNP	c.527C>T	p.Ala176Val	4	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.22 RHCE*cE.22	RHCE	SNP	c.208C>T	p.Arg70Trp	2	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.23 RHCE*cE.23	RHCE	SNP	c.774T>A;c.916A>G	silent;p.Ile306Val	5	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.24 RHCE*cE.24	RHCE	SNP	c.1130A>T	p.Ala377Val	8	-	ISBT		
+RH	RH:2 (C+ weak to neg) RH:3 (E+)	RHCE*03.26 RHCE*cE.26	RHCE	SNP	c.48G>C;c.307C>T	p.Trp16Cys;p.Pro103Ser	1,2	-	ISBT		
+RH	Some monoclonal anti- C cross-react	RHCE*03.27 RHCE*cE.27	RHCE	SNP	c.307C>T	p.Pro103Ser	2	-	ISBT		
+RH	RH:3 (E+ weak to neg)	RHCE*03.28 RHCE*cE.28	RHCE	SNP	c.382G>C	p.Gly128Arg	3	-	ISBT		
+RH	RH:3 (E+ very weak) RH:4 (c+ weak to neg)	RHCE*03.29 RHCE*cE.29	RHCE	SNP	c.818C>A	p.Ala273Glu	6	-	ISBT		
+RH	RH:3 (E+ very weak)	RHCE*03.30 RHCE*cE.30	RHCE	SNP	c.336-2A>G	Splice site	Intron 2	-	ISBT		
+RH	RH:3 (E+ very weak to neg) RH:4 (c+ weak to neg) RH:17	RHCE*03.31 RHCE*cE.31 RHCE*cEMI (formerly RHCE*03N.01)	RHCE	CNV	c.350_358delCCATGAGTG[RHCE:c.350_358del]	p.Arg120_Ser122del	3	-	ISBT		
+RH	RH:3 (E+ weak)	RHCE*03.32 RHCE*cE.32	RHCE	SNP	c.361A>T;c.380C>T;c.383G>A;c.455C>A	p.Met121Leu;p.Ala127Val;p.Gly128Asp;p.Thr152Asn	3	-	ISBT		
+RH	RH:-3,-4,-17 (E-c-)	RHCE*03N.02 RHCE*cEN.02	RHCE	CNV	c.907delC[RHCE:c.907del]	p.Leu303Ter	6	-	ISBT		
+RH	RH:-3,-4 (E-c-) RH:-17, inferred	RHCE*03N.03 RHCE*cEN.03	RHCE	SNP	c.554G>A	p.Trp185Ter	4	-	ISBT		
+RH	RH:-3,-4,-17 (E-c-)	RHCE*03N.04 RHCE*cEN.04	RHCE	SNP	c.486+5G>A	Splice site	Intron 3	-	ISBT		
+RH	RH:-3,-4,-17 (E-c-)	RHCE*03N.05 RHCE*cEN.05	RHCE	SNP	c.221G>A	p.Trp74Ter	2	-	ISBT		
+RH	RH:-3,-4 (E-c-) RH:-17, inferred	RHCE*03N.06 RHCE*cEN.06	RHCE	SNP	c.200C>A	p.Ser67Ter	2	-	ISBT		
+RH	RH:-3,-4,-17 (E-c-)	RHCE*03N.07 RHCE*cEN.07 (formerly RHCE*03.25)	RHCE	SNP	c.659G>A	p.Trp220Ter	5	-	ISBT		
+RH	RH:2 or C RH:3 or E RH:22 or CE	RHCE*CE or RHCE*04	RHCE	SNP	c.48G>C c.150C>T;c.178C>A;c.201A>G;c.203A>G;c.307C>T;c.676G>C	p.Trp16Cys;silent;p.Leu60Ile;silent;p.Asn68Ser;p.Pro103Ser;p.Ala226Pro	1,2,5	-	ISBT		
+RH	RH:2 (C+ weak) RH:3 (E+ weak to neg)	RHCE*04.01 RHCE*CE.01	RHCE	SNP	c.722C>T	p.Thr241Ile	5	-	ISBT		
+RH	RH:2 (C+ weak to neg) RH:3 (E+ weak to neg)	RHCE*04.02 RHCE*CE.02	RHCE	SNP	c.380C>A	p.Ala127Glu	3	-	ISBT		

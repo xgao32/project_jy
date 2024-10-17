@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+I	I	GCNT2*01	GCNT2	SNP	c.816G>G	p.Glu272Glu	1C	-	ISBT			-
+I	I	GCNT2*02	GCNT2	SNP	c.816G>C	p.Glu272Asp	1C	-	ISBT			-
+I	I+W	GCNT2*01W.01	GCNT2	SNP	c.243T>A	p.Asn81Lys	1C	-	ISBT			-
+I	I+W	GCNT2*01W.02	GCNT2	SNP	c.505G>A	p.Ala169Thr	1C	-	ISBT			-
+I	I+W	GCNT2*01W.03	GCNT2	SNP	c.683G>A	p.Arg228Gln	1C	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.01	GCNT2	SNP	c.1049G>A	p.Gly350Glu	3	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.02	GCNT2	SNP	c.1154G>A	p.Arg385His	3	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.05	GCNT2	SNP	c.984G>A	p.Trp328Ter	2	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.06	GCNT2	CNV	del exon 1B, 1C, 2, 3[GCNT2:c.1_1209del]	p.0	1B, 1C, 2, 3	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.07	GCNT2	CNV	c.651delA[GCNT2:c.651del]	p.Val219Cysfs*26 [1]	1C	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.08	GCNT2	SNP	c.935G>A	p.Gly312Asp	2	-	ISBT			-
+I	I– (i adult)	GCNT2*01N.09	GCNT2	CNV	c.1163_1166delATCA[GCNT2:c.1163_1166del]	p.Asn390Argfs*20 [2]	3	-	ISBT			-
+I	I– (i adult)	GCNT2*02N.01	GCNT2	SNP	c.816G>C; c.1006G>A	p.Glu272Asp; p.Gly336Arg	1C,2	-	ISBT			-
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

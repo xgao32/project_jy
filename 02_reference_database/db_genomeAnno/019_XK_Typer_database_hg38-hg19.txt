@@ -1,0 +1,68 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+XK	XK:1 or Kx+	XK*01	XK	SNP	c.121T>T	p.Leu41Leu	1	common	ISBT	-	-
+XK	XK:1 or Kx+	XK*01.02	XK	SNP	c.121T>G	p.Leu41Val	1	common	ISBT	g.37686082T>G	g.37545335T>G
+XK	XK:-1 kx-	XK*N.01	XK	CNV	Deletion of XK gene[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.02	XK	CNV	del Exon 1[XK:c.1_245del]	p.(Met1_Arg82del)	1	rare	ISBT	g.37685962_37686206del	g.37545215_37545459del
+XK	XK:-1 kx-	XK*N.03	XK	CNV	del Promoter + Exon 1 392 bp[XK:c.1-191_201del]	p.(Met1_Arg82del)	1	rare	ISBT	g.37685771_37686162del	g.37545024_37545415del
+XK	XK:-1 kx-	XK*N.04	XK	CNV	del Exon 2[XK:c.246_508del]	p.(Arg82_Ser170del)	2	rare	ISBT	g.37694286_37694548del	g.37553539_37553801del
+XK	XK:-1 kx-	XK*N.05	XK	CNV	del Intron 2 + Exon 3[XK:c.508+1_1335del]	p.(Ser170_Ala444del)	3	rare	ISBT	g.37694549_37728462del	g.37553802_37587715del
+XK	XK:-1 kx-	XK*N.06	XK	CNV	del -272 to 119[XK:c.1-272_119del]	p.(Met1fs*45)	1+2	rare	ISBT	g.37685690_37686080del	g.37544943_37545333del
+XK	XK:-1 kx-	XK*N.07	XK	CNV	c.172delG[XK:c.172del]	p.(Val58Tyrfs*72)	1+2	rare	ISBT	g.37686133delG	g.37545386delG
+XK	XK:-1 kx-	XK*N.08	XK	CNV	c.269delA[XK:c.269del]	p.(Tyr90Serfs*40)	2	rare	ISBT	g.37694309delA	g.37553562delA
+XK	XK:-1 kx-	XK*N.09	XK	CNV	c.268delT[XK:c.268del]	p.(Tyr90Thrfs*40)	2	rare	ISBT	g.37694308delT	g.37553561delT
+XK	XK:-1 kx-	XK*N.10	XK	CNV	c.450_451insC[XK:c.450_451insC]	p.(Gln151Profs*48)	2 + 3	rare	ISBT	g.37694491insC	g.37553744insC
+XK	XK:-1 kx-	XK*N.11	XK	CNV	c.686_687delTT[XK:c.686_687del]	p.(Phe229Tyrfs*36)	3	rare	ISBT	g.37727813_37727814delTT	g.37587066_37587067delTT
+XK	XK:-1 kx-	XK*N.12	XK	CNV	c.771delG[XK:c.771del]	p.(Trp257Cysfs*11)	3	rare	ISBT	g.37727898delG	g.37587151delG
+XK	XK:-1 kx-	XK*N.13	XK	CNV	c.856_860delCTCTA[XK:c.856_860del]	p.(Leu286Tyrfs*16)	3	rare	ISBT	g.37727983_37727987delCTCTA	g.37587236_37587240delCTCTA
+XK	XK:-1 kx-	XK*N.14	XK	CNV	c.938_951del[XK:c.938_951del]	p.(Asn313Thrfs*24)	3	rare	ISBT	g.37728065_37728078delATTGGTACCAGCTA	g.37587318_37587331delATTGGTACCAGCTA
+XK	XK:-1 kx-	XK*N.15	XK	CNV	c.1013delT[XK:c.1013del]	p.(Phe338Serfs*70)	3	rare	ISBT	g.37728140delT	g.37587393delT
+XK	XK:-1 kx-	XK*N.16	XK	SNP	c.107G>A	p.(Trp36*)	1	rare	ISBT	g.37686068G>A	g.37545321G>A
+XK	XK:-1 kx-	XK*N.17	XK	SNP	c.397C>T	p.(Arg133*)	2	rare	ISBT	g.37694437C>T	g.37553690C>T
+XK	XK:-1 kx-	XK*N.18	XK	SNP	c.463C>T	p.(Gln155*)	2	rare	ISBT	g.37694503C>T	g.37553756C>T
+XK	XK:-1 kx-	XK*N.19	XK	SNP	c.707G>A	p.(Trp236*)	3	rare	ISBT	g.37727834G>A	g.37587087G>A
+XK	XK:-1 kx-	XK*N.20	XK	SNP	c.895C>T	p.(Gln299*)	3	rare	ISBT	g.37728022C>T	g.37587275C>T
+XK	XK:-1 kx-	XK*N.21	XK	SNP	c.941G>A	p.(Trp314*)	3	rare	ISBT	g.37728068G>A	g.37587321G>A
+XK	XK:-1 kx-	XK*N.22	XK	SNP	c.245+1G>C	Aberrant splicing	Intron 1	rare	ISBT	g.37686207G>C	g.37545460G>C
+XK	XK:-1 kx-	XK*N.23	XK	SNP	c.246-1G>A	Aberrant splicing	Intron 1	rare	ISBT	g.37694285G>A	g.37553538G>A
+XK	XK:-1 kx-	XK*N.24	XK	SNP	c.508+1G>A	Aberrant splicing	Intron 2	rare	ISBT	g.37694549G>A	g.37553802G>A
+XK	XK:-1 kx-	XK*N.25	XK	SNP	c.508+5G>A	Aberrant splicing	Intron 2	rare	ISBT	g.37694553G>A	g.37553806G>A
+XK	XK:-1 kx-	XK*N.26	XK	SNP	c.509-1G>A	Aberrant splicing	Intron 2	rare	ISBT	g.37727635G>A	g.37586888G>A
+XK	XK:-1 kx-	XK*N.27	XK	SNP	c.664C>G	p.Arg222Gly	3	rare	ISBT	g.37727791C>G	g.37587044C>G
+XK	XK:-1 kx-	XK*N.28	XK	SNP	c.880T>C	p.(Cys294Arg)	3	rare	ISBT	g.37728007T>C	g.37587260T>C
+XK	XK:-1 kx-	XK*N.29	XK	SNP	c.979G>A	p.Glu327Lys	3	rare	ISBT	g.37728106G>A	g.37587359G>A
+XK	XK:-1 kx-	XK*N.30	XK	SNP	c.1124C>G	p.(Arg375Pro)	3	rare	ISBT	g.37728251C>G	g.37587504C>G
+XK	XK:-1 kx-	XK*N.31	XK	SNP	c.1134G>C	p.(Asn378Lys)	3	rare	ISBT	g.37728261G>C	g.37587514G>C
+XK	XK:-1 kx-	XK*N.32	XK	SNP	c.962A>G	p.(Tyr321Cys)	3	rare	ISBT	g.37728089A>G	g.37587342A>G
+XK	XK:-1 kx-	XK*N.33	XK	SNP	c.509-13C>G	Aberrant splicing	Intron 2	rare	ISBT	g.37727623C>G	g.37586876C>G
+XK	XK:-1 kx-	XK*N.34	XK	CNV	c.523insA[XK:c.523_524insA]	p.(Ile175Asnfs*24)	3	rare	ISBT	g.37727651insA	g.37586904insA
+XK	XK:-1 kx-	XK*N.35	XK	SNP	c.509-2A>G	Aberrant splicing	Intron 2	rare	ISBT	g.37727634A>G	g.37586887A>G
+XK	XK:-1 kx-	XK*N.36	XK	CNV	c.229delC[XK:c.229del]	p.(Leu80Phefs*50)	1 + 2	rare	ISBT	g.37686190delC	g.37545443delC
+XK	XK:-1 kx-	XK*N.37	XK	SNP	c.154C>T	p.(Gln52*)	1	rare	ISBT	g.37686115C>T	g.37545368C>T
+XK	XK:-1 kx-	XK*N.38	XK	CNV	669-673del5ins13(delTGTAGinsGGTCCTCTTTACC)[XK:c.669_673delTGTAGinsGGTCCTCTTTACC]	p.(Val225Leufs*12)	3	rare	ISBT	g.37727796_37727800delTGTAG	g.37587049_37587053delTGTAG
+XK	XK:-1 kx-	XK*N.39	XK	CNV	c.195-198delCCGC[XK:c.195_198del]	p.(Pro67Serfs*62)	1	rare	ISBT	g.37686156_37686159delCCGC	g.37545409_37545412delCCGC
+XK	XK:-1 kx-	XK*N.40	XK	CNV	c.640_645delTGGAGG[XK:c.640_645del]	p.(Trp213_Arg214del)	3	rare	ISBT	g.37727767_37727772delTGGAGG	g.37587020_37587025delTGGAGG
+XK	XK:-1 kx-	XK*N.41	XK	CNV	c.475delA[XK:c.475del]	p.(Ser159Valfs*15)	2 + 3	rare	ISBT	g.37694515delA	g.37553768delA
+XK	XK:-1 kx-	XK*N.42	XK	SNP	c.1015A>T	p.(Lys339*)	3	rare	ISBT	g.37728142A>T	g.37587395A>T
+XK	XK:-1 kx-	XK*N.43	XK	SNP	c.452A>C	p.(Gln151Pro)	2	rare	ISBT	g.37694492A>C	g.37553745A>C
+XK	XK:-1 kx-	XK*N.44	XK	CNV	c.82insC[XK:c.82_83insC]	p.(Tyr28Leufs*58)	1	rare	ISBT	g.37686044insC	g.37545297insC
+XK	XK:-1 kx-	XK*N.45	XK	CNV	c.435delC[XK:c.435del]	p.(Leu146Trpfs*7)	2	rare	ISBT	g.37694475delC	g.37553728delC
+XK	XK:-1 kx-	XK*N.46	XK	SNP	c.642G>A	p.(Trp214*)	3	rare	ISBT	g.37727769G>A	g.37587022G>A
+XK	XK:-1 kx-	XK*N.47	XK	SNP	c.942G>A	p.(Trp314*)	3	rare	ISBT	g.37728069G>A	g.37587322G>A
+XK	XK:-1 kx-	XK*N.48	XK	SNP	c.577A>T	p.(Lys193*)	3	rare	ISBT	g.37727704A>T	g.37586957A>T
+XK	XK:-1 kx-	XK*N.01.001	XK	CNV	del Xp22.3-21.1 g.1_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.002	XK	CNV	del Xp21.3-21.1 5-10mbp g.24900001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.003	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.004	XK	CNV	del Xp21.2 g.29300001_31500000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.005	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.006	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.007	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.008	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.009	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.010	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.011	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.100	XK	CNV	del 1.12mbp (telomeric LOC441488  to centromeric XK Intron 2)[XK:c.1_508del]	No protein present	1,2	rare	ISBT	g.37685962_37694548del	g.37545215_37553801del
+XK	XK:-1 kx-	XK*N.01.101	XK	CNV	del 5.65mbp (telomeric TCTE1L  to centromeric DMD )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.102	XK	CNV	del 0.59mpb (telomeric LANCL3  to centromeric DYNLT3 )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.103	XK	CNV	del 1.94mbp (telomeric CXorf22 to centromeric DYNLT3 )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.104	XK	CNV	del 5.71mbp (telomeric DMD  to centromeric DYNLT3 )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del
+XK	XK:-1 kx-	XK*N.01.105	XK	CNV	del 0.151mpb (telomeric LANCL3  to centromeric CYBB )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT	g.37685962_37728462del	g.37545215_37587715del

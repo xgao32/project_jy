@@ -1,0 +1,7 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+IN	In(a+b–)	IN*01 or IN*A	CD44	SNP	c.137G>C	p.Arg46Pro	2	rare	ISBT	g.35176644G>C	g.35198191G>C
+IN	In(a–b+)	IN*02 or IN*B	CD44	SNP	c.137G>G	p.Arg46Arg	2	universal	ISBT	-	-
+IN	IN:–3 or INFI–	IN*02.–03	CD44	SNP	c.255C>G	p.His85Gln	3	rare	ISBT	g.35180295C>G	g.35201842C>G
+IN	IN:–4 or INJA–	IN*02.–04	CD44	SNP	c.488C>A	p.Thr163Lys	5	rare	ISBT	g.35189886C>A	g.35211433C>A
+IN	IN: –5 or INRA–	IN*02.–05	CD44	SNP	c.449G>A	p.Arg150His	5	rare	ISBT	g.35189847G>A	g.35211394G>A
+IN	IN: –6 or INSL–	IN*02.–06	CD44	SNP	c.276C>A	p.His92Gln	3	rare	ISBT	g.35180316C>A	g.35201863C>A

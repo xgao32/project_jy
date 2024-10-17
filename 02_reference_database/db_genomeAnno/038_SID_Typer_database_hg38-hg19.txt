@@ -1,0 +1,6 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+SID	SID1 or Sd(a+)	SID*01	B4GALNT2	SNP	c.1396T>T	p.Cys466Cys	10	-	ISBT	-	-
+SID	Sd(a-)	SID*01N.01	B4GALNT2	SNP	c.1396T>C	p.Cys466Arg	10	-	ISBT	g.49168801T>C	g.47246163T>C
+SID	Sd(a-)	SID*01N.02	B4GALNT2	SNP	c.1134+5G>A	Splice-site defect predicted	Intron 8	-	ISBT	g.49164280G>A	g.47241642G>A
+SID	Sd(a-)	SID*01N.03	B4GALNT2	SNP	c.1307A>G	p.Glu436Arg	10	-	ISBT	g.49168712A>G	g.47246074A>G
+SID	Sd(a-)	SID*01N.04	B4GALNT2	SNP	c.1567C>T	p.Arg523Trp	11	-	ISBT	g.49169594C>T	g.47246956C>T

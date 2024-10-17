@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+FY	FY:1 or Fy(a+)	FY*01 or FY*A	ACKR1	SNP	c.125G>G	p.Gly42Gly	2	-	ISBT			(1), PMID: 8248172 (2), PMID: 7705836 (3), PMID: 7833467 NG_011626.2 NM_002036 
+FY	FY:2 or Fy(b+)	FY*02 or FY*B	ACKR1	SNP	c.125G>A	p.Gly42Asp	2	-	ISBT			(1), PMID: 8248172 (2), PMID: 7705836 (3), PMID: 7833467 U01839 X85785 S76830 rs12075
+FY	FY:-2,3	FY*02.01	ACKR1	SNP	c.126T>G	p.Gly42Glu	2	-	ISBT			(27), PMID: 30848497 MH733493 n.a.
+FY	Fy(a+w)	FY*01W.01	ACKR1	SNP	c.265C>T	p.Arg89Cys	2	-	ISBT			(17), PMID: 26829175 n.a. rs34599082
+FY	Fy(a+w)	FY*01W.02	ACKR1	SNP	c.265C>T;c.298G>A	p.Arg89Cys;p.Ala100Thr	2	-	ISBT			(19), PMID: 25092430 KF784871 rs34599082 rs13962
+FY	Fy(a+w)	FY*01W.03	ACKR1	SNP	c.680G>A	p.Gly227Glu	2	-	ISBT			(23), Abstract n.a. rs758564844
+FY	Fy(b+w), Fyx	FY*02W.01	ACKR1	SNP	c.265C>T;c.298G>A	p.Arg89Cys;p.Ala100Thr	2	-	ISBT			(6), PMID: 9731074 (7), PMID: 9746760 (8), PMID: 9886340 AF055992 rs34599082 rs13962
+FY	Fy(b+w), Fyx	FY*02W.02	ACKR1	SNP	c.145G>T;c.265C>T;c.298G>A	p.Ala49Ser;p.Arg89Cys;p.Ala100Thr	2	-	ISBT			(12), PMID: 15569072 n.a. rs1307925062 rs34599082 rs13962
+FY	Fy(b+w)	FY*02W.03	ACKR1	SNP	c.266G>A	p.Arg89His	2	-	ISBT			(14), Abstract KY354073 rs371909350
+FY	Fy(b+w)	FY*02W.04	ACKR1	SNP	c.901C>T	p.Pro301Ser	2	-	ISBT			(14), Abstract KY354074 rs753831902
+FY	Fy(b+w)	FY*02W.05	ACKR1	SNP	c.976C>T	p.Ser326Phe	2	-	ISBT			GenBank Accession number only HE572751 n.a.
+FY	Fy(a-b- erythroid cells only	FY*01N.01	ACKR1	SNP	c.1-67T>C	p.0	Promoter	-	ISBT			(9), PMID: 10570183 AF100634 rs2814778
+FY	Fy(a-b-)	FY*01N.02	ACKR1	CNV	c.286_299del[ACKR1:c.286_299del]	p.Trp96_Thrfs*22	2	-	ISBT			(5), PMID: 7669660 KC924824 rs587776507
+FY	Fy(a-b-)	FY*01N.03	ACKR1	SNP	c.408G>A	p.Trp136Ter	2	-	ISBT			(10), PMID: 10691880 n.a. n.a.
+FY	Fy(a-b-)	FY*01N.04	ACKR1	SNP	c.287G>A	p.Trp96Ter	2	-	ISBT			(10), PMID: 10691880 (20), PMID: 25900316 KC924825 rs750052723
+FY	Fy(a-b-)	FY*01N.05	ACKR1	CNV	c.327delC[ACKR1:c.327del]	p.Phe109Leufs*12	2	-	ISBT			(11), Abstract n.a. n.a.
+FY	Fy(a-b-)	FY*01N.06	ACKR1	SNP	c.395G>A	p.Gly132Asp	2	-	ISBT			(13), Abstract KY799577 rs530992295
+FY	Fy(a-b-)	FY*01N.07	ACKR1	CNV	c.719delG[ACKR1:c.719del]	p.Gly240Alafs*4	2	-	ISBT			(20), PMID: 25900316 KC924823 rs769160977
+FY	Fy(a-b-) erythroid cells only	FY*01N.08	ACKR1	SNP	c.1-69T>C	p.0	Promoter	-	ISBT			(18), PMID: 26173389 KP967558 LN715170 n.a.
+FY	Fy(a-b-)	FY*01N.09	ACKR1	CNV	c.296_496delinsAGGCCACTG[ACKR1:c.296_496delinsAGGCCACTG]	p.Leu99_Leu165delinsGlnAlaThrAla	2	-	ISBT			(22), Abstract n.a. n.a.
+FY	Fy(a-b-)	FY*01N.10	ACKR1	SNP	c.762G>A	p.Trp254Ter	2	-	ISBT			(24), Abstract n.a. rs766558424
+FY	Fy(a-b-)	FY*01N.11	ACKR1	CNV	c.854delT[ACKR1:c.854del]	p.Leu285Argfs*2	2	-	ISBT			GenBank Accession number only KY799578 rs763701958
+FY	Fy(a-b-) erythroid cells only	FY*02N.01	ACKR1	SNP	c.1-67T>C	p.0	Promoter	-	ISBT			(4), PMID: 7663520 X85785 MK813902 rs2814778
+FY	Fy(a-b-)	FY*02N.02	ACKR1	SNP	c.407G>A	p.Trp136Ter	2	-	ISBT			(10), PMID: 10691880 n.a. rs76819093
+FY	Fy(a-b-)	FY*02N.03	ACKR1	SNP	c.781G>A	p.Gly261Arg	2	-	ISBT			(15), PMID: 24845979 HG512885 n.a.
+FY	Fy(a-b-)	FY*02N.04	ACKR1	SNP	c.179_180delCT[ACKR1:c.179_180del]	p.Ser60Cysfs*16	2	-	ISBT			(16), Abstract KY799579 n.a.
+FY	Fy(a-b-)	FY*02N.05	ACKR1	SNP	c.895G>A	p.Ala299Thr	2	-	ISBT			(16), Abstract KY799581 rs752428245
+FY	Fy(a-b-)	FY*02N.06	ACKR1	SNP	c.151delT[ACKR1:c.151del]	p.Cys51Alafs*24	2	-	ISBT			(21), Abstract LN875782 n.a.
+FY	Fy(a-b-)	FY*02N.07	ACKR1	SNP	c.124delG[ACKR1:c.124del]	p.Asp42Metfs*33	2	-	ISBT			GenBank Accession number only KX018789 n.a.
+FY	Fy(a-b-)	FY*02N.08	ACKR1	SNP	c.400delT[ACKR1:c.400del]	p.Cys134Valfs*14	2	-	ISBT			(25), Abstract (26), Abstract MH211118 n.a.
+FY	Fy(a-b-)	FY*02N.09	ACKR1	SNP	c.214G>C	p.Gly72Arg	2	-	ISBT			
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+CD59	CD59:+1 or CD59.1+	CD59*01	CD59	SNP	c.238A>A	p.Arg80Arg	6	universal	ISBT			 NG_008057 
+CD59	CD59:+1 or CD59.1+	CD59*01.02 	CD59	SNP	c.238A>G	p.Arg80Gly	6	rare	ISBT			(1), PMID: 30325039 MH165189 n.a.
+CD59	CD59:-1 or CD59.1-	CD59*01N.01	CD59	SNP	c.146delA	p.Asp49Valfs*31	5	rare	ISBT			(2), PMID: 24382084 n.a. rs587777149
+CD59	CD59:-1 or CD59.1-	CD59*01N.02	CD59	SNP	c.123delC c.361delG	p.Val42Serfs*38 not applicable	5,6	rare	ISBT			(3), PMID: 1382994 n.a. rs577673753 rs1435725939
+CD59	CD59:-1 or CD59.1-	CD59*01N.03	CD59	SNP	c.266G>A	p.Cys89Tyr	6	rare	ISBT			(4), PMID: 23149847 n.a. rs397514767
+CD59	CD59:-1 or CD59.1-	CD59*01N.04	CD59	SNP	c.146A>T	p.Asp49Val	5	rare	ISBT			(5), PMID: 25716358 n.a. rs587777149
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

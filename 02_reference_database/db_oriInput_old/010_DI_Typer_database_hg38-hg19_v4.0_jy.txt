@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+DI	DI:1,-2 or Di(a+b-)	DI*01 or DI*A	SLC4A1	SNP	c.2561C>T	p.Pro854Leu	19	rare	ISBT,Bloodtyper			PMID: 8206915  rs2285644
+DI	DI:-1,2 or Di(a-b+)	DI*02 or DI*B	SLC4A1	SNP	c.2561C>C	p.Pro854Pro	19	universal	ISBT,Bloodtyper			PMID: 8206915  
+DI	DI:3,-4 or Wr(a+b-)	DI*02.03	SLC4A1	SNP	c.1972G>A	p.Glu658Lys	16	rare	ISBT,Bloodtyper			PMID: 7812009  rs75731670
+DI	DI:-3,4 or Wr(a-b+)	DI*02.04	SLC4A1	SNP	c.1972G>G	p.Glu658Glu	16	universal	ISBT,Bloodtyper			PMID: 7812009  
+DI	DI:5 or Wd(a+)	DI*02.05	SLC4A1	SNP	c.1669G>A	p.Val557Met	14	rare	ISBT,Bloodtyper			PMID: 6941697 PMID: 8873423 PMID: 9191821  rs121912743
+DI	DI:6 or Rb(a+)	DI*02.06	SLC4A1	SNP	c.1643C>T	p.Pro548Leu	14	rare	ISBT,Bloodtyper			PMID: 9191821  rs879202054
+DI	DI:7 or WARR+	DI*02.07	SLC4A1	SNP	c.1655C>T	p.Thr552Ile	14	rare	ISBT,Bloodtyper			PMID: 7625077  
+DI	DI:8 or ELO+	DI*02.08	SLC4A1	SNP	c.1294C>T	p.Arg432Trp	12	rare	ISBT,Bloodtyper			PMID: 9460189  rs373768879
+DI	DI:9,-22 or Wu+, DISK-	DI*02.09	SLC4A1	SNP	c.1694G>C	p.Gly565Ala	14	rare	ISBT,Bloodtyper			PMID: 1471249  rs551784583
+DI	DI:10 or Bp(a+)	DI*02.10	SLC4A1	SNP	c.1707C>A	p.Asn569Lys	14	rare	ISBT,Bloodtyper			PMID: 9460189 PMID: 9845551  
+DI	DI:11 or Mo(a+)	DI*02.11	SLC4A1	SNP	c.1967G>A	p.Arg656His	16	rare	ISBT,Bloodtyper			PMID: 9460189  rs758868427
+DI	DI:12 or Hg(a+)	DI*02.12	SLC4A1	SNP	c.1966C>T	p.Arg656Cys	16	rare	ISBT,Bloodtyper			PMID: 9460189 PMID: 9845551  rs372514760
+DI	DI:13 or Vg(a+)	DI*02.13	SLC4A1	SNP	c.1663T>C	p.Tyr555His	14	rare	ISBT,Bloodtyper			PMID: 9460189 PMID: 9845551  
+DI	DI:14 or Sw(a+)	DI*02.14.01	SLC4A1	SNP	c.1937G>A	p.Arg646Gln	16	rare	ISBT,Bloodtyper			-
+DI	DI:14 or Sw(a+)	DI*02.14.02	SLC4A1	SNP	c.1936C>T	p.Arg646Trp	16	rare	ISBT,Bloodtyper			-
+DI	DI:15 or BOW+	DI*02.15	SLC4A1	SNP	c.1681C>T	p.Pro561Ser	14	rare	ISBT,Bloodtyper			PMID: 1471249 PMID: 10738034  
+DI	DI:16 or NFLD+	DI*02.16	SLC4A1	SNP	c.1287A>T;c.1681C>G	p.Glu429Asp;p.Pro561Ala	12,14	rare	ISBT,Bloodtyper			PMID: 1471249 PMID: 10738034  
+DI	DI:17 or Jn(a+)	DI*02.17	SLC4A1	SNP	c.1696C>T	p.Pro566Ser	14	rare	ISBT,Bloodtyper			PMID: 15373634  rs1393742050
+DI	DI:18 or KREP+	DI*02.18	SLC4A1	SNP	c.1696C>G	p.Pro566Ala	14	rare	ISBT,Bloodtyper			PMID: 15373634  
+DI	DI:19 or Tr(a+)	DI*02.19	SLC4A1	SNP	c.1653G>C	p.Lys551Asn	14	rare	ISBT,Bloodtyper			PMID: 9191821  
+DI	DI:20 or Fr(a+)	DI*02.20	SLC4A1	SNP	c.1438G>A	p.Glu480Lys	13	rare	ISBT,Bloodtyper			PMID: 3604156 PMID: 10738034  rs121912756
+DI	SW1 or DI:21	DI*02.21	SLC4A1	SNP	c.1936C>T	p.Arg646Trp	16	rare	ISBT,Bloodtyper			PMID: 11155072 PMID: 24094240  rs121912758
+DI	DISK or DI:22	DI*02.22	SLC4A1	SNP	c.1694G>C	p.Gly565Ala	14	rare	ISBT,Bloodtyper			(1), Abstract  
+DI	DIST or DI:23	DI*02.23	SLC4A1	SNP	c.1447G>A	p.Gly483Ser	13	rare	ISBT,Bloodtyper			(2), Abstract  rs544557335
+DI	Di(a-b-)	DI*02N.01	SLC4A1	SNP	c.1462G>A	p.Val488Met	13	rare	ISBT,Bloodtyper			PMID: 10942416  
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

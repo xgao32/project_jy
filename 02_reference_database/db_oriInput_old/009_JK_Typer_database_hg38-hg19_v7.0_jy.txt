@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+JK	JK:1 or Jk(a+) 	JK*01 or JK*A 	SLC14A1	SNP	c.838G>G 	p.Asp280Asp	8	common	ISBT	g.45739554G>G		(1), PMID: 8647271 NG_011775.4 
+JK	JK:2 or Jk(b+)	JK*02  or JK*B	SLC14A1	SNP	c.838G>A	p.Asp280Asn	8	common	ISBT	g.45739554G>A		(1), PMID:8647271 n.a. rs1058396
+JK	Jk(a+W)	JK*01W.01	SLC14A1	SNP	c.130G>A	p.Glu44Lys	3	-	ISBT			(2), PMID: 21309779 MG601100 rs2298720
+JK	Jk(a+W)	JK*01W.02	SLC14A1	SNP	c.511T>C	p.Trp171Arg	6	-	ISBT			(3), Abstract n.a. rs9948825
+JK	Jk(a+W)	JK*01W.03	SLC14A1	SNP	c.28G>A	p.Val10Met	3	-	ISBT			(4), Abstract n.a. rs113578396
+JK	Jk(a+W)	JK*01W.04	SLC14A1	SNP	c.226G>A	p.Val76Ile	4	-	ISBT			(4), Abstract n.a. rs113029149
+JK	Jk(a+W)	JK*01W.05	SLC14A1	SNP	c.742G>A	p.Ala248Thr	7	-	ISBT			(5), Abstract (6), Abstract JN410949 rs763095261
+JK	Jk(a+W)	JK*01W.06	SLC14A1	SNP	c.588A>G	p.Pro196Pro	6	-	ISBT			(2), PMID: 21309779 n.a. rs2298718
+JK	Jk(a+W)	JK*01W.07	SLC14A1	SNP	c.486T>A	p.Ser162Arg	6	-	ISBT			(8), Abstract n.a. rs753809770
+JK	Jk(a+W)	JK*01W.08	SLC14A1	SNP	c.814C>T	p.Leu272Phe	8	-	ISBT			(9), Abstract n.a. rs757895930
+JK	Jk(a+W)	JK*01W.09	SLC14A1	SNP	c.134T>C	p.Leu45Pro	3	-	ISBT			(10), Abstract n.a. rs537028614
+JK	Jk(a+W)	JK*01W.10	SLC14A1	SNP	c.350T>C	p.Ile117Thr	5	-	ISBT			(10), Abstract n.a. rs374022751
+JK	Jk(a+W)	JK*01W.11	SLC14A1	SNP	c.28G>A;c.226G>A	p.Val10Met;p.Val76Ile	3,4	-	ISBT			(11), PMID: 27834480 n.a. rs113578396 rs113029149
+JK	Jk(b+W)	JK*02W.01	SLC14A1	SNP	c.548C>T	p.Ala183Val	6	-	ISBT			(3), Abstract n.a. rs367901541
+JK	Jk(b+W)	JK*02W.02	SLC14A1	SNP	c.718T>A	p.Trp240Arg	7	-	ISBT			(12), Abstract n.a. rs760579000
+JK	Jk(b+W)	JK*02W.03	SLC14A1	SNP	c.588A>G	p.Pro196Pro	6	-	ISBT			(13), PMID: 23225053 n.a. rs2298718
+JK	Jk(b+W)	JK*02W.04	SLC14A1	SNP	c.130G>A	p.Glu44Lys	3	-	ISBT			(14), Abstract n.a. rs2298720
+JK	Jk(b+W)	JK*02W.05	SLC14A1	SNP	c.277G>A	p.Ala93Thr	4	-	ISBT			(15), Abstract MF588960 n.a.
+JK	Jk(b+W)	JK*02W.06	SLC14A1	SNP	c.998T>A;c.1095T>C	p.VAl333Asp;p.Ser365Ser	10	-	ISBT			(16), Abstract LK391765 rs774982134 rs28898897
+JK	JK:-3 or Jk(a-b-)	JK*01N.01	SLC14A1	CNV	c.1_341del[SLC14A1:c.1_341del]	p.0	3,4	-	ISBT			(17), PMID:11807016 AF328892 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.02	SLC14A1	SNP	c.202C>T	p.Gln68Ter	4	-	ISBT			(18), PMID:18028269 EF571316 rs142529927
+JK	JK:-3 or Jk(a-b-)	JK*01N.03	SLC14A1	SNP	c.582C>G	p.Tyr194Ter	6	-	ISBT			(19), PMID:11841450 AF328890 rs34756616
+JK	JK:-3 or Jk(a-b-)	JK*01N.04	SLC14A1	SNP	c.956C>T	p.Thr319Met	9	-	ISBT			(18), PMID:18028269 EF571318 rs565898944
+JK	JK:-3 or Jk(a-b-)	JK*01N.05	SLC14A1	SNP	c.561C>A	p.Tyr187Ter	6	-	ISBT			(20), PMID:22023394 JN104323 rs778172038
+JK	JK:-3 or Jk(a-b-)	JK*01N.06	SLC14A1	SNP	c.342-1G>A	p.Arg114Ter	Intron 4	-	ISBT			(21), PMID:10924622 n.a. rs78937798
+JK	JK:-3 or Jk(a-b-)	JK*01N.07	SLC14A1	CNV	c.723delA[SLC14A1:c.723del]	p.Gly243Alafs*20	7	-	ISBT			(22), Abstract n.a. rs759505281
+JK	JK:-3 or Jk(a-b-)	JK*01N.08	SLC14A1	SNP	c.866A>G	p.Asn289Ser	8	-	ISBT			(23), Abstract n.a. n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.09	SLC14A1	SNP	c.27_50del[SLC14A1:c.27_50del]	p.Val10_Arg17del	3	-	ISBT			(24), Abstract n.a. n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.10	SLC14A1	SNP	c.811+5G>A	p.Leu272Glufs*29	Intron 7	-	ISBT			(25), PMID:22738189 HQ709264 rs1414947682
+JK	JK:-3 or Jk(a-b-)	JK*01N.11	SLC14A1	SNP,CNV	c.130G>A;c.1068insA[SLC14A1:c.1068_1069insA]	p.Glu44Lys;p.Asp356Lysfs*11	3,10	-	ISBT			(24), Abstract n.a. rs2298720 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.12	SLC14A1	CNV	c.516_530del[SLC14A1:c.516_530del]	pVal175_Pro179	6	-	ISBT			(16), Abstract n.a. rs772726215
+JK	JK:-3 or Jk(a-b-)	JK*01N.13	SLC14A1	CNV	c.327delG[SLC14A1:c.327del]	p.Leu109Phefs*8	4	-	ISBT			(26), PMID:24877238 AB845711 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.14	SLC14A1	SNP	c.432G>A	p.Gly298Glu	5	-	ISBT			(26), PMID:24877238 AB845712 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.15	SLC14A1	CNV	c.757_759delTCC[SLC14A1:c.757_759del]	p.Ser253del	7	-	ISBT			(26), PMID:24877238 AB845716 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.16	SLC14A1	SNP	c.893G>A	p.Gly298Glu	8	-	ISBT			(26), PMID:24877238 AB845717 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*01N.17	SLC14A1	SNP	c.118G>A;c.499A>G	p.Gly40Ser;p.Met167Val	3,6	-	ISBT			(27), Abstract n.a. rs145283450 rs2298719
+JK	JK:-3 or Jk(a-b-)	JK*01N.18	SLC14A1	SNP	c.190C>T	p.Arg64Trp	4	-	ISBT			(22), Abstract n.a. rs552191196
+JK	JK:-3 or Jk(a-b-)	JK*01N.19	SLC14A1	SNP	c.810G>A	p.Ala270Ala	7	-	ISBT			(28), Abstract n.a. rs17675299
+JK	JK:-3 or Jk(a-b-)	JK*01N.20	SLC14A1	SNP	c.28G>A;c.226G>A;c.303G>A;c.588A>G	p.Val10Met;p.Val76Ile;pVal101Val;p.Pro196Pro	3,4,6	-	ISBT			(29), Abstract n.a. rs113578396 rs113029149 rs28994287 rs2298718
+JK	JK:-3 or Jk(a-b-)	JK*01N.21	SLC14A1	SNP	c.130G>A;c.220A>G	p.Glu44Lys;p.Asn74Asp	3,4	-	ISBT			(30), Abstract n.a. rs2298720 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*02N.01	SLC14A1	SNP	c.342-1G>A	p.Arg114Ter	Intron 4	-	ISBT			(31), PMID: 9582331 (32), PMID: 10644814 n.a. rs78937798
+JK	JK:-3 or Jk(a-b-)	JK*02N.02	SLC14A1	SNP	c.342-1G>C	p.Arg114Ter	Intron 4	-	ISBT			(33), PMID: 16483143 n.a. rs78937798
+JK	JK:-3 or Jk(a-b-)	JK*02N.03	SLC14A1	SNP	c.222C>A	p.Asn74Lys	4	-	ISBT			(7), PMID: 18980618 (13), PMID: 23225053 HQ834248 rs749037771
+JK	JK:-3 or Jk(a-b-)	JK*02N.04	SLC14A1	SNP	c.663+1G>T	p.Leu222Valfs*46	Intron 6	-	ISBT			unknown n.a. rs77744921
+JK	JK:-3 or Jk(a-b-)	JK*02N.05	SLC14A1	CNV	c.723delA[SLC14A1:c.723del]	p.Gly243Alafs*20	7	-	ISBT			(18), PMID: 18028269 EF571317 rs759505281
+JK	JK:-3 or Jk(a-b-)	JK*02N.06	SLC14A1	SNP	c.871T>C	p.Ser291Pro	8	-	ISBT			(34), PMID: 10942407 n.a. rs78242949
+JK	JK:-3 or Jk(a-b-)	JK*02N.07	SLC14A1	SNP	c.896G>A	p.Gly299Glu	8	-	ISBT			(7), PMID: 18980618 (13), PMID: 23225053 HQ729920 rs538368217
+JK	JK:-3 or Jk(a-b-)	JK*02N.08	SLC14A1	SNP	c.956C>T	p.Thr319Met	9	-	ISBT			(18), PMID: 18028269 EF571318 rs565898944
+JK	JK:-3 or Jk(a-b-)	JK*02N.09	SLC14A1	SNP	c.191G>A	p.Arg64Gln	4	-	ISBT			(35), PMID: 24689685 JN104324 rs114362217
+JK	JK:-3 or Jk(a-b-)	JK*02N.10	SLC14A1	SNP	c.194G>A	p.Gly65Asp	4	-	ISBT			(36), PMID: 23710545  rs778150490
+JK	JK:-3 or Jk(a-b-)	JK*02N.11	SLC14A1	SNP	c.499A>G;c.512G>A	p.Met167Val;p.Trp171Ter	6	-	ISBT			(25), PMID: 22738189 HQ729921 rs2298719 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*02N.12	SLC14A1	SNP	c.437T>C;c.499A>G	p.Leu146Pro;p.Met167Val	5,6	-	ISBT			(25), PMID: 22738189 HQ834246 n.a. rs2298719
+JK	JK:-3 or Jk(a-b-)	JK*02N.13	SLC14A1	SNP	c.499A>G;c.536C>G	p.Met167Val;p.Pro179Arg	6	-	ISBT			(25), PMID: 22738189 HQ834247 rs2298719 rs201612170
+JK	JK:-3 or Jk(a-b-)	JK*02N.14	SLC14A1	CNV	c.1038delG[SLC14A1:c.1038del]	p.Leu347Tyrfs*6	10	-	ISBT			(37), PMID: 27834480 n.a. rs746265611
+JK	JK:-3 or Jk(a-b-)	JK*02N.15	SLC14A1	CNV	c.160insC[SLC14A1:c.160_161insC]	p.Val54Argfs*7	4	-	ISBT			(24), Abstract n.a. rs377124382
+JK	JK:-3 or Jk(a-b-)	JK*02N.16	SLC14A1	CNV	c.856delT[SLC14A1:c.856del]	p.Trp286Glyfs*67	8	-	ISBT			(15), Abstract n.a. rs1444093504
+JK	JK:-3 or Jk(a-b-)	JK*02N.17	SLC14A1	SNP	c.810G>A	p.Ala270Ala	7	-	ISBT			(16), Abstract n.a. rs17675299
+JK	JK:-3 or Jk(a-b-)	JK*02N.18	SLC14A1	SNP	c.561C>A	p.Tyr187Ter	6	-	ISBT			(26), PMID: 24877238 AB845713 rs778172038
+JK	JK:-3 or Jk(a-b-)	JK*02N.19	SLC14A1	SNP	c.719G>A	p.Trp240Ter	7	-	ISBT			(26), PMID: 24877238 AB845715 n.a.
+JK	JK:-3 or Jk(a-b-)	JK*02N.20	SLC14A1	CNV	c.647_648delAC[SLC14A1:c.647_648del]	p.Asp216Alafs*21	6	-	ISBT			(26), PMID: 24877238 AB845714 rs1223735153
+JK	JK:-3 or Jk(a-b-)	JK*02N.21	SLC14A1	SNP	c.118G>A	p.Gly40Ser	3	-	ISBT			(11), PMID: 27834480 n.a. n.a.
+JK	JK:-3 or Jk(a-b-)	JK*02N.22	SLC14A1	CNV	c.157_166del[SLC14A1:c.157_166del]	p.Pro53Serfs77	4	-	ISBT			(38), PMID: 33539287 n.a. n.a.
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

@@ -1,0 +1,83 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+CROM	CROM:1 or Cr(a+)	CROM*01 or CR*A	CD55	SNP	c.679G>G	p.Ala227Ala	6	universal	ISBT			-
+CROM	CROM:–1 or Cr(a–)	CROM*–01	CD55	SNP	c.679G>C	p.Ala227Pro	6	rare	ISBT			-
+CROM	CROM:Tc(a+)	CROM*01.02?	CD55	SNP	c.155G>G	p.Arg52Arg	2	rare	Bloodtyper			-
+CROM	CROM:3 or Tc(b+)	CROM*01.03	CD55	SNP	c.155G>T	p.Arg52Leu	2	rare	ISBT			-
+CROM	CROM:4 or Tc(c+)	CROM*01.04	CD55	SNP	c.155G>C	p.Arg52Pro	2	rare	ISBT			-
+CROM	CROM:–5 or Dr(a–)	CROM*01.–05	CD55	SNP	c.596C>T	p.Ser199Leu	5	rare	ISBT			-
+CROM	CROM:–6 or Es(a–)	CROM*01.–06	CD55	SNP	c.239T>A	p.Ile80Asn	2	rare	ISBT			-
+CROM	CROM:8 or WES(a+)	CROM*01.08	CD55	SNP	c.245T>G	p.Leu82Arg	2	rare	ISBT			-
+CROM	CROM:–10 or UMC–	CROM*01.–10	CD55	SNP	c.749C>T	p.Thr250Met	6	rare	ISBT			-
+CROM	CROM:–11 or GUTI–	CROM*01.–11	CD55	SNP	c.719G>A	p.Arg240His	6	rare	ISBT			-
+CROM	CROM:–12 or SERF–	CROM*01.–12	CD55	SNP	c.647C>T	p.Pro216Leu	5	rare	ISBT			-
+CROM	CROM:–13 or ZENA–	CROM*01.–13	CD55	SNP	c.726T>G	p.His242Gln	6	rare	ISBT			-
+CROM	CROM:–14 or CROV–	CROM*01.–14	CD55	SNP	c.466G>A	p.Glu156Lys	3	rare	ISBT			-
+CROM	CROM:–15 or CRAM–	CROM*01.–15	CD55	SNP	c.740A>G	p.Gln247Arg	6	rare	ISBT			-
+CROM	CROM:–16 or CROZ–	CROM*01.–16	CD55	SNP	c.389G>A	p.Arg130His [1]	3	rare	ISBT			-
+CROM	CROM:–7 or Inab	CROM*01N.01	CD55	SNP	c.261G>A	p.Trp87Ter	2	rare	ISBT			-
+CROM	CROM:–7 or Inab	CROM*01N.02	CD55	SNP	c.263C>A	p.Ser88Ter	2	rare	ISBT			-
+CROM	CROM:–7 or Inab	CROM*01N.03	CD55	SNP	c.508C>T	p.Arg170Ter	4	rare	ISBT			-
+CROM	CROM:–7 or Inab	CROM*01N.04	CD55	CNV	c.366_367insA[CD55:c.366_367insA]	p.Thr123Asnfs*6 [1]	3	rare	ISBT			-
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

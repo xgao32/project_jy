@@ -1,0 +1,208 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments								
+ABO	A1	ABO*A1.01	ABO	CNV	c.261insG[ABO:c.261_262insG]	-	6	uncommon	ISBT			-								
+ABO	A1	ABO*A1.02	ABO	SNP,CNV	c.467C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu	7	rare	ISBT			-								
+ABO	A2	ABO*A2.01	ABO	SNP,CNV	c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Pro354Argfs*23	7	uncommon	ISBT			-								
+ABO	A2	ABO*A2.02	ABO	SNP,CNV	c.1054C>T;c.261insG[ABO:c.261_262insG]	p.Arg352Trp	7	rare	ISBT			-								
+ABO	A2	ABO*A2.03	ABO	SNP,CNV	c.1054C>G;c.261insG[ABO:c.261_262insG]	p.Arg352Gly	7	rare	ISBT			-								
+ABO	A2	ABO*A2.04	ABO	SNP,CNV	c.297A>G; c.526C>G; c.657C>T; c.703G>A; c.771C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Gly235Ser; p.Val277Met	6,7	rare	ISBT			-								
+ABO	A2	ABO*A2.05	ABO	SNP,CNV	c.467C>T; c.1009A>G;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg337Gly	7	rare	ISBT			-								
+ABO	A2	ABO*A2.06	ABO	CNV	c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	A2	ABO*A2.07	ABO	SNP,CNV	c.539G>C;c.261insG[ABO:c.261_262insG]	p.Arg180Pro	7	rare	ISBT			-								
+ABO	A2	ABO*A2.08	ABO	SNP,CNV	c.467C>T; c.539G>C;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg180Pro	7	rare	ISBT			-								
+ABO	A2	ABO*A2.09	ABO	SNP,CNV	c.467C>T; c.527G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg176His; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	A2	ABO*A2.10	ABO	SNP,CNV	c.268T>C; c.467C>T;c.261insG[ABO:c.261_262insG]	p.Trp90Arg; p.Pro156Leu	6,7	rare	ISBT			-								
+ABO	A2	ABO*A2.11	ABO	SNP,CNV	c.266C>T; c.467C>T;c.261insG[ABO:c.261_262insG]	p.Pro89Leu; p.Pro156Leu	6,7	rare	ISBT			-								
+ABO	A2	ABO*A2.12	ABO	SNP,CNV	c.190G>A;c.527G>A; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Val64Ile; p.Arg176His; p.Pro354Argfs*23	4,7	rare	ISBT			-								
+ABO	A2	ABO*A2.13	ABO	SNP,CNV	c.467C>T; c.742C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg248Cys	7	rare	ISBT			-								
+ABO	A2	ABO*A2.16	ABO	SNP,CNV	c.106G>T; c.188G>A; c.189C>T;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Val36Phe; p.Arg63His; p.Pro156Leu; p.Pro354Argfs*23	3,4,7	rare	ISBT			-								
+ABO	A2	ABO*A2.17	ABO	SNP,CNV	c.407C>T; c.467C>T;c.261insG[ABO:c.261_262insG]	p.Thr136Met; p.Pro156Leu	7	rare	ISBT			-								
+ABO	A2	ABO*A2.18	ABO	SNP,CNV	c.467C>T; c.722G>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg241Gln	7	rare	ISBT			-								
+ABO	A2	ABO*A2.19	ABO	SNP,CNV	c.467C>T; c.778G>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Glu260Lys	7	rare	ISBT			-								
+ABO	A2	ABO*A2.20	ABO	SNP,CNV	c.467C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Val277Met	7	rare	ISBT			-								
+ABO	A3	ABO*A3.01	ABO	SNP,CNV	c.871G>A;c.261insG[ABO:c.261_262insG]	p.Asp291Asn	7	rare	ISBT			-								
+ABO	A3	ABO*A3.02	ABO	SNP,CNV	c.829G>A; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Val277Met; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	A3	ABO*A3.03	ABO	SNP,CNV	c.838C>T;c.261insG[ABO:c.261_262insG]	p.Leu280Phe	7	rare	ISBT			-								
+ABO	A3	ABO*A3.04	ABO	SNP,CNV	c.467C>T; c.539G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Arg180His; p.Pro156Leu; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	A3	ABO*A3.05	ABO	SNP,CNV	c.820G>A;c.261insG[ABO:c.261_262insG]	p.Val274Met	7	rare	ISBT			-								
+ABO	A3	ABO*A3.06	ABO	SNP,CNV	c.467C>T; c.820G>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Val274Met	7	rare	ISBT			-								
+ABO	A3	ABO*A3.07	ABO	SNP,CNV	c.467C>T; c.745C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg249Trp	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.01	ABO	SNP,CNV	c.407C>T; c.467C>T;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Thr136Met; p.Pro156Leu; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.02	ABO	SNP,CNV	c.350G>C;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Gly117Ala; p.Pro156Leu; p.Pro354Argfs*23	6,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.03	ABO	SNP,CNV	c.203G>C;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Arg68Thr; p.Pro156Leu; p.Pro354Argfs*23	4,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.04	ABO	SNP,CNV	c.721C>T;c.261insG[ABO:c.261_262insG]	p.Arg241Trp	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.05	ABO	SNP,CNV	c.965A>G;c.261insG[ABO:c.261_262insG]	p.Glu322Gly	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.06	ABO	SNP,CNV	c.502C>G;c.261insG[ABO:c.261_262insG]	p.Arg168Gly	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.07	ABO	SNP,CNV	c.467C>T; c.592C>T;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg198Trp; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.08	ABO	SNP,CNV	c.220C>T; c.297A>G;c.488C>T; c.526C>G; c.802G>A;c.261insG[ABO:c.261_262insG]	p.Pro74Ser;p.Thr163Met; p.Arg176Gly; p.Gly268Arg	5,6,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.09	ABO	SNP,CNV	c.46G>A; c.106G>T; c.188G>A; c.220C>T;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Ala16Thr; p.Val36Phe; p.Arg63His; p.Pro74Ser; p.Pro156Leu; p.Pro354Argfs*23	2,3,4,5,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.10	ABO	SNP,CNV	c.784G>A;c.261insG[ABO:c.261_262insG]	p.Asp262Asn	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.11	ABO	SNP,CNV	c.523G>A; c.721C>T;c.261insG[ABO:c.261_262insG]	p.Val175Met; p.Arg241Trp	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.12	ABO	SNP,CNV	c.467C>T; c.556A>G;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Met186Val	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.13	ABO	SNP,CNV	c.2T>C;c.261insG[ABO:c.261_262insG]	p.Ala2_Met20del	1	rare	ISBT			-								
+ABO	Aweak	ABO*AW.14	ABO	SNP,CNV	c.467C>T; c.699C>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.His233Gln	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.15	ABO	SNP,CNV	c.374+4A>T;c.261insG[ABO:c.261_262insG]	Altered splicing	Intron 6	rare	ISBT			-								
+ABO	Aweak	ABO*AW.16	ABO	SNP,CNV	c.1A>G;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Ala2_Met20del; p.Pro156Leu; p.Pro354Argfs*23	1,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.17	ABO	SNP,CNV	c.236C>T;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro79Leu; p.Pro156Leu; p.Pro354Argfs*23	5,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.18	ABO	SNP,CNV	c.347T>C;c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Ile116Thr; p.Pro156Leu; p.Pro354Argfs*23	6,7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.19	ABO	SNP,CNV	c.434A>G; c.467C>T;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.His145Arg; p.Pro156Leu; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.20	ABO	SNP,CNV	c.467C>T; c.607G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Glu203Lys; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.21	ABO	SNP,CNV	c.467C>T; c.607G>C;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Glu203Gln; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.22	ABO	SNP,CNV	c.467C>T; c.634G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu;Val212Met; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.23	ABO	SNP,CNV	c.467C>T; c.722G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg241Gln; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.24	ABO	SNP,CNV	c.467C>T; c.742C>T;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg248Cys; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.25	ABO	SNP,CNV	c.467C>T; c.829G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Val277Met; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.26	ABO	SNP,CNV	c.467C>T; c.527G>A;c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg176His; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.27	ABO	SNP,CNV	c.527G>A; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Arg176His; p.Pro354Argfs*23	7	rare	ISBT			-								
+ABO	Aweak	ABO*AW.28	ABO	SNP,CNV	c.98+2T>C;c.261insG[ABO:c.261_262insG]	Altered splicing	Intron 1	rare	ISBT			-								
+ABO	Aweak	ABO*AW.29	ABO	SNP,CNV	c.311T>A;c.261insG[ABO:c.261_262insG]	p.Ile104Asn	6	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.30.01	ABO	SNP,CNV	c.646T>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.30.02	ABO	SNP,CNV	c.646T>A; c.681G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.31.01	ABO	SNP,CNV	c.297A>G;  c.646T>A; c.681G>A; c.771C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile; p.Val277Met	67	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW31.02- 05	ABO	SNP,CNV	c.646T>A; c.681G>A; c.771C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile; p.Val277Met	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.32	ABO	SNP,CNV	c.996G>A;c.261insG[ABO:c.261_262insG]	p.Trp332Ter	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.33	ABO	SNP,CNV	c.467C>T; c.543G>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Trp181Cys	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.34	ABO	SNP,CNV	c.467C>T; c.829G>A; c.1009A>G;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Val277Met; p.Arg337Gly	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.35	ABO	SNP,CNV	c.467C>T; c.860C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Ala287Val	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.36	ABO	SNP,CNV	c.607G>A;c.261insG[ABO:c.261_262insG]	p.Glu203Lys	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.37	ABO	SNP,CNV	c.940A>G;c.261insG[ABO:c.261_262insG]	p.Lys314Glu	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.38	ABO	SNP,CNV	c.426G>C;c.261insG[ABO:c.261_262insG]	p.Met142Ile	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.39	ABO	SNP,CNV	c.385T>C;c.261insG[ABO:c.261_262insG]	p.Phe129Leu	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.40	ABO	SNP,CNV	c.499G>T;c.261insG[ABO:c.261_262insG]	p.Gly167Cys	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.41	ABO	SNP,CNV	c.370A>G;c.261insG[ABO:c.261_262insG]	p.Lys124Glu	6	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.42	ABO	SNP,CNV	c.467C>T; c.905A>G;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Asp302Gly	7	rare	ISBT			-								
+ABO	Ax/Aweak	ABO*AW.43	ABO	SNP,CNV	c.467C>T; c.721C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Arg241Trp	7	rare	ISBT			-								
+ABO	Afinn/Aweak	ABO*AW.44	ABO	SNP,CNV	c.374+4A>G;c.261insG[ABO:c.261_262insG]	Altered splicing	Intron 6	rare	ISBT			-								
+ABO	Abantu/Aweak	ABO*AW.45	ABO	SNP,CNV	c.203+1delG[ABO:c.203+1del]; c.467C>T; c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	Altered splicing	7,Intron 4	rare	ISBT			-								
+ABO	Am	ABO*AM.01	ABO	SNP,CNV	c.467C>T; c.761C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Ala254Val	7	rare	ISBT			-								
+ABO	Am	ABO*AM.02	ABO	SNP,CNV	c.664G>A;c.261insG[ABO:c.261_262insG]	p.Val222Met	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.01	ABO	CNV	c.804dupG[ABO:c.804dup];c.261insG[ABO:c.261_262insG]	p.Phe269Valfs*124	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.02	ABO	SNP,CNV	c.467C>T; c.646T>A; c.681G>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Phe216Ile	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.03	ABO	CNV	c.804delG[ABO:c.804del];c.261insG[ABO:c.261_262insG]	p.Phe269Serfs*20	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.04	ABO	SNP,CNV	c.374+5G>A;c.261insG[ABO:c.261_262insG]	Altered splicing	Intron 6	rare	ISBT			-								
+ABO	Ael	ABO*AEL.05	ABO	SNP,CNV	c.467C>T; c.767T>C;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Ile256Thr	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.06	ABO	SNP,CNV	c.425T>C; c.467C>T;c.261insG[ABO:c.261_262insG]	p.Met142Thr; p.Pro156Leu	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.07	ABO	SNP,CNV	c.467C>T; 681G>A; 771C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Val277Met	7	rare	ISBT			-								
+ABO	Ael	ABO*AEL.08	ABO	SNP,CNV	c.467C>T; c.804dupG[ABO:c.804dupG];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Phe269Valfs*124	7	rare	ISBT			-								
+ABO	B	ABO*B.01	ABO	SNP,CNV	c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	6,7	uncommon	ISBT			-								
+ABO	B	ABO*B.02	ABO	SNP,CNV	c.892G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Ala298Ser;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B	ABO*B.03	ABO	SNP,CNV	c.559C>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg187Cys;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B3	ABO*B3.01	ABO	SNP,CNV	c.1054C>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg352Trp;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B3	ABO*B3.02	ABO	SNP,CNV	c.646T>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B3	ABO*B3.03	ABO	SNP,CNV	c.155+5G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	Altered splicing;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	Intron 3	rare	ISBT			-								
+ABO	B3	ABO*B3.04	ABO	SNP,CNV	c.247G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp83Tyr;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	6	rare	ISBT			-								
+ABO	B3	ABO*B3.05	ABO	SNP,CNV	c.425T>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Met142Thr;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B3	ABO*B3.06	ABO	SNP,CNV	c.547G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp183Asn;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B3	ABO*B3.07	ABO	SNP,CNV	c.410C>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Ala137Val;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	B3	ABO*B3.08	ABO	SNP,CNV	c.938A>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.His313Pro;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bx/Bweak	ABO*BW.01	ABO	SNP,CNV	c.871G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp291Asn;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.02	ABO	SNP,CNV	c.873C>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp291Glu;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.03	ABO	SNP,CNV	c.721C>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg241Trp;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.04	ABO	SNP,CNV	c.548A>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp183Gly;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.05	ABO	SNP,CNV	c.539G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg180His;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.06	ABO	SNP,CNV	c.1036A>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Lys346Glu;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.07	ABO	SNP,CNV	c.1055G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg352Gln;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.08	ABO	SNP,CNV	c.863T>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Met288Arg;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.09	ABO	SNP,CNV	c.1037A>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Lys346Met;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.10	ABO	SNP,CNV	c.556A>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Met186Val;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.11	ABO	SNP,CNV	c.695T>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Leu232Pro;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.12	ABO	SNP,CNV	c.278C>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Pro93Leu;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	6	rare	ISBT			-								
+ABO	Bweak	ABO*BW.14	ABO	SNP,CNV	c.523G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Val175Met;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.15	ABO	SNP,CNV	c.565A>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Met189Val;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.16	ABO	SNP,CNV	c.575T>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Ile192Thr;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.17	ABO	SNP,CNV	c.784G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp262Asn;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.18	ABO	SNP,CNV	c.802G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Gly268Thr;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.19	ABO	SNP,CNV	c.646T>A; c.681G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.20	ABO	CNV	c.815_816insG[ABO:c.815_816insG];c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Ser273Valfs*;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.21	ABO	SNP,CNV	c.688G>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Gly230Arg;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.22	ABO	SNP,CNV	c.503G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg168Leu;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.23	ABO	SNP,CNV	c.743G>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg248Pro;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.24	ABO	SNP,CNV	c.558G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Met186Ile;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.25	ABO	SNP,CNV	c.103G>A; c.619C>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Gly35Arg; p.Leu207Val;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	37	rare	ISBT			-								
+ABO	Bweak	ABO*BW.26	ABO	SNP,CNV	c.53G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg18Leu;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	2	rare	ISBT			-								
+ABO	Bweak	ABO*BW.27	ABO	SNP,CNV	c.905A>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp302Gly;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.28	ABO	SNP,CNV	c.541T>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Trp181Arg;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.29	ABO	SNP,CNV	c.588C>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Cys196Trp;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.30	ABO	SNP,CNV	c.976G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Asp326Tyr;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.31	ABO	SNP,CNV	c.900G>C;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Trp300Cys;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.32	ABO	SNP,CNV	c.808T>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Phe270Ile;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.33	ABO	SNP,CNV	c.550G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Val184Met;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bweak	ABO*BW.34	ABO	SNP,CNV	c.889G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Glu297Lys;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bel	ABO*BEL.01	ABO	SNP,CNV	c.641T>G;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Met214Arg;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bel	ABO*BEL.02	ABO	SNP,CNV	c.669G>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Glu223Asp;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bel	ABO*BEL.03	ABO	SNP,CNV	c.502C>T;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg168Trp;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bel	ABO*BEL.05	ABO	SNP,CNV	c.952G>A;c.297A>G;c.526C>G; c.657C>T;c.703G>A; c.796C>A; c.803G>C;c.930G>A;c.261insG[ABO:c.261_262insG]	p.Val318Met;p.Arg176Gly;p.Gly235Ser;p.Leu266Met;p.Gly268Ala	7	rare	ISBT			-								
+ABO	Bel	ABO*BEL.04	ABO	SNP,CNV	c.467C>T; c.646T>A; c.681G>A;c.771C>T;c.796C>A; c.803G>C; c.829G>A	p.Pro156Leu; p.Phe216Ile; p.Leu266Met; p.Gly268Ala; p.Val277Met	7	rare	ISBT			-								
+ABO	cisAB	ABO*cisAB.01	ABO	SNP,CNV	c.467C>T; c.803G>C;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Gly268Ala	7	rare	ISBT			-								
+ABO	cisAB	ABO*cisAB.02	ABO	SNP,CNV	c.526C>G; c.657C>T; c.703G>A; c.803G>C;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Gly235Ser; p.Gly268Ala	7	rare	ISBT			-								
+ABO	cisAB	ABO*cisAB.03	ABO	SNP,CNV	c.297A>G; c.526C>G; c.657C>T; c.700C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Pro234Ser; p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	cisAB	ABO*cisAB.04	ABO	SNP,CNV	c.467C>T; c.796C>A;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Leu266Met	7	rare	ISBT			-								
+ABO	cisAB	ABO*cisAB.05	ABO	SNP,CNV	c.297A>G; c.526C>G; c.657C>T; c.703G>A; c.796C>A; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Gly235Ser; p.Leu266Met	6,7	rare	ISBT			-								
+ABO	cisAB	ABO*cisAB.06	ABO	SNP,CNV	c.297A>G;  c.657C>T; c.703G>A;c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	B(A)	ABO*BA.01	ABO	SNP,CNV	c.297A>G; c.526C>G; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	B(A)	ABO*BA.02	ABO	SNP,CNV	c.297A>G;  c.526C>G; c.657C>T; c.700C>G; c.703G>A; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Pro234Ala; p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	B(A)	ABO*BA.03	ABO	SNP,CNV	c.297A>G; c.526C>G; c.657C>T; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	B(A)	ABO*BA.04	ABO	SNP,CNV	c.297A>G;  c.526C>G; c.640A>G; c.657C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Met214Val; p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	B(A)	ABO*BA.05	ABO	SNP,CNV	c.297A>G; c.526C>G; c.641T>C; c.657C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Met214Thr; p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			-								
+ABO	B(A)	ABO*BA.06	ABO	SNP,CNV	c.297A>G; c.526C>G; c.657C>T; c.703G>A; c.796C>A; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; p.Gly235Ser; p.Leu266Met	6,7	rare	ISBT			-								
+ABO	O 	ABO*O.01.01	ABO	SNP	c.526C>C;c.703G>G;c.796C>C;c.803G>G	p.Thr88Profs*31	7	uncommon	ISBT,bloodtyper											
+ABO	O	ABO*O.01.02	ABO	SNP	c.106G>T; c.188G>A; c.189C>T; c.220C>T; c.297A>G; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Val36Phe; p.Arg63His; p.Pro74Ser; p.Thr88Profs*31	3,4,5,6,7	rare	ISBT			O02 (O1v)								
+ABO	O	ABO*O.01.04	ABO	SNP	c.579T>C	p.Thr88Profs*31	6	rare	ISBT			O04								
+ABO	O	ABO*O.01.05	ABO	SNP	c.297A>G	p.Thr88Profs*31	6	rare	ISBT			O05								
+ABO	O	ABO*O.01.06	ABO	SNP	c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O06, O30								
+ABO	O	ABO*O.01.07	ABO	SNP	c.297A>G; c.646T>A; c.681G>A; c.721C>T; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O07								
+ABO	O	ABO*O.01.09	ABO	SNP	 c.318C>T; c.467C>T	p.Thr88Profs*31	6,7	rare	ISBT			O09								
+ABO	O	ABO*O.01.10	ABO	SNP	 657C>T	p.Thr88Profs*31	6,7	rare	ISBT			O10								
+ABO	O	ABO*O.01.11	ABO	SNP	c.297A>G; c.542G>A; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O11								
+ABO	O	ABO*O.01.12	ABO	SNP	c.297A>G; c.595C>T; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O12								
+ABO	O	ABO*O.01.13	ABO	SNP	c.297A>G; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O13								
+ABO	O	ABO*O.01.22	ABO	SNP,CNV	c.467C>T; c.1061delC[ABO:c.1061del]	p.Thr88Profs*31	6,7	rare	ISBT			O22								
+ABO	O	ABO*O.01.23	ABO	SNP	c.297A>G; c.646T>A; c.771C>T; c.829G>A; 1054C>T	p.Thr88Profs*31	6,7	rare	ISBT			O23								
+ABO	O	ABO*O.01.24	ABO	SNP	c.106G>T; c.188G>A; c.189C>T;c.297A>G; c.526C>G; c.657C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A	p.Val36Phe; p.Arg63His; p.Thr88Profs*31	3,4,6,7	rare	ISBT			O24								
+ABO	O	ABO*O.01.25	ABO	SNP	c.454T>C	p.Thr88Profs*31	6,7	rare	ISBT			O25								
+ABO	O	ABO*O.01.26	ABO	SNP	c.768C>A	p.Thr88Profs*31	6,7	rare	ISBT			O26								
+ABO	O	ABO*O.01.27	ABO	SNP	c.318C>T; c.467C>T; c.729C>T	p.Thr88Profs*31	6,7	rare	ISBT			O27								
+ABO	O	ABO*O.01.28	ABO	SNP	c.926A>G	p.Thr88Profs*31	6,7	rare	ISBT			O28								
+ABO	O	ABO*O.01.29	ABO	SNP	c.318C>T	p.Thr88Profs*31	6	rare	ISBT			O29								
+ABO	O	ABO*O.01.31	ABO	SNP	c.297A>G; c.529G>A; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O31								
+ABO	O	ABO*O.01.32	ABO	SNP	c.297A>G; c.538C>T; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O32								
+ABO	O	ABO*O.01.33	ABO	SNP	c.297A>G; c.498C>T; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O33								
+ABO	O	ABO*O.01.34	ABO	SNP	c.297A>G; c.351G>A;c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O34								
+ABO	O	ABO*O.01.35	ABO	SNP	c.106G>T; c.188G>A; c.189C>T; c.220C>T; c.297A>G; c.681G>A; c.771C>T; c.829G>A	p.Val36Phe; p.Arg63His; p.Pro74Ser; p.Thr88Profs*31	3,4,5,6,7	rare	ISBT			O35								
+ABO	O	ABO*O.01.36	ABO	SNP	c.106G>T; c.188G>A; c.189C>T; c.220C>T; c.297A>G; c.646T>A; c.681G>A; c.829G>A	p.Val36Phe; p.Arg63His; p.Pro74Ser; p.Thr88Profs*31	3,4,5,6,7	rare	ISBT			O36								
+ABO	O	ABO*O.01.39	ABO	SNP	c.220C>T;c.297A>G; c.681G>A; c.771C>T; c.829G>A	p.Pro74Ser; p.Thr88Profs*31	5,6,7	rare	ISBT			O39								
+ABO	O	ABO*O.01.40	ABO	SNP	c.106G>T; c.188G>A; c.189C>T; c.297A>G; c.646T>A; c.681G>A; c.829G>A	p.Val36Phe; p.Arg63His; p.Thr88Profs*31	3,4,6,7	rare	ISBT			O40								
+ABO	O	ABO*O.01.41	ABO	SNP	c.297A>G; c.526C>G; c.657C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A	p.Thr88Profs*31	6,7	rare	ISBT			O41								
+ABO	O	ABO*O.01.44	ABO	SNP	c.297A>G; c.646T>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O44								
+ABO	O	ABO*O.01.45	ABO	SNP	c.646T>A; c.771C>T	p.Thr88Profs*31	6,7	rare	ISBT			O45								
+ABO	O	ABO*O.01.46	ABO	SNP	c.646T>A; c.771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O46								
+ABO	O	ABO*O.01.56	ABO	CNV	c.496delA[ABO:c.496del]	p.Thr88Profs*31	6,7	rare	ISBT			O56; O70								
+ABO	O	ABO*O.01.57	ABO	SNP	c.802G>A	p.Thr88Profs*31	6,7	rare	ISBT			O57								
+ABO	O	ABO*O.01.58	ABO	SNP	c.297A>G; c.646T>A; c.681G>A; c.687C>T; 771C>T; c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O58								
+ABO	O	ABO*O.01.61	ABO	SNP	c.743G>C	p.Thr88Profs*31	6,7	rare	ISBT			O61								
+ABO	O	ABO*O.01.67	ABO	SNP	c.103G>A; c.106G>T; c.188G>A; c.189C>T; c.220C>T;c.297A>G; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Gly35Arg; p.Val36Phe; p.Arg63His;p.Pro74Ser; p.Thr88Profs*31	3,4,5,6,7	rare	ISBT			O67								
+ABO	O	ABO*O.01.68	ABO	SNP	c.106G>T; c.188G>A; c.189C>T;c.297A>G; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Val36Phe; p.Arg63His; p.Thr88Profs*31	3,4,6,7	rare	ISBT			O68								
+ABO	O	ABO*O.01.71	ABO	SNP	c.829G>A	p.Thr88Profs*31	6,7	rare	ISBT			O71								
+ABO	O	ABO*O.01.75	ABO	SNP	c.106G>T; c.188G>A; c.189C>T; c.220C>T; c.297A>G; c.542G>A; c.646T>A; c.681G>A; c.771C>T; c.829G>A	p.Val36Phe; p.Arg63His; p.Pro74Ser; p.Thr88Profs*31	3,4,5,6,7	rare	ISBT			O75								
+ABO	O	ABO*O.01.76	ABO	SNP,CNV	c.579T>C; c.1046_1048delAGG[ABO:c.1046_1048del]	p.Thr88Profs*31	6,7	rare	ISBT			O76								
+ABO	O	ABO*O.01.82	ABO	SNP	c.190G>A	p.Val64Ile; p.Thr88Profs*31	4,6	rare	ISBT											
+ABO	O	ABO*O.01.83	ABO	SNP	c.106G>T; c.188G>A; c.297A>G	p.Val36Phe; p.Arg63His; p.Thr88Profs*31	3,4,6	rare	ISBT											
+ABO	O	ABO*O.02.01	ABO	SNP,CNV	c.53G>T; c.220C>T; c.297A>G;c.526C>G; c.802G>A;c.261insG[ABO:c.261_262insG]	p.Arg18Leu; p.Pro74Ser;p.Arg176Gly; p.Gly268Arg	2,5,6,7	rare	ISBT			O03 (O2)								
+ABO	O	ABO*O.02.02	ABO	SNP,CNV	c.53G>T; c.220C>T; c.297A>G;c.526C>G; c.649C>T; c.689G>A; c.802G>A;c.261insG[ABO:c.261_262insG]	p.Arg18Leu; p.Pro74Ser;p.Arg176Gly; p.Arg217Cys; p.Gly230Asp; p.Gly268Arg	2,5,6,7	rare	ISBT			O48 (O2-2)								
+ABO	O	ABO*O.02.03	ABO	SNP,CNV	c.53G>T; c.220C>T; c.297A>G;c.526C>G; c.689G>A; c.802G>A;c.261insG[ABO:c.261_262insG]	p.Arg18Leu; p.Pro74Ser;p.Arg176Gly; p.Gly230Asp; p.Gly268Arg	2,5,6,7	rare	ISBT			O49 (O2-2)								
+ABO	O	ABO*O.02.04	ABO	SNP,CNV	c.53G>T; c.220C>T; c.297A>G;c.488C>T; c.526C>G; c.802G>A;c.261insG[ABO:c.261_262insG]	p.Arg18Leu; p.Pro74Ser;p.Thr163Met; p.Arg176Gly; p.Gly268Arg	2,5,6,7	rare	ISBT			O50 (O2-4)								
+ABO	O	ABO*O.03	ABO	SNP	c.467C>T; c.804dupG[ABO:c.804dup];c.1061delC[ABO:c.1061del];c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Phe269Valfs*87	7	rare	ISBT			O08 (O3)								
+ABO	O	ABO*O.04.01	ABO	CNV	c.87_88insG[ABO:c.87_88insG];c.261insG[ABO:c.261_262insG]	p.Val30Glyfs*27	2	rare	ISBT			O41 (O4)								
+ABO	O	ABO*O.04.02	ABO	SNP,CNV	c.87_88insG[ABO:c.87_88insG];c.467C>T	p.Val30Glyfs*27	2,6,7	rare	ISBT			O21 (O4)								
+ABO	O	ABO*O.05	ABO	SNP,CNV	c.322C>T;c.261insG[ABO:c.261_262insG]	p.Gln108Ter	6	rare	ISBT			O52 (O5)								
+ABO	O	ABO*O.06	ABO	SNP,CNV	c.542G>A;c.261insG[ABO:c.261_262insG]	p.Trp181Ter	7	rare	ISBT			O53 (O6)								
+ABO	O	ABO*O.07	ABO	SNP,CNV	c.467C>T; c.893C>T;c.261insG[ABO:c.261_262insG]	p.Pro156Leu; p.Ala298Val	7	rare	ISBT			O14 (O301)								
+ABO	O	ABO*O.08	ABO	SNP,CNV	c.927C>A;c.261insG[ABO:c.261_262insG]	p.Tyr309Ter	7	rare	ISBT			O15 (O302)								
+ABO	O	ABO*O.09.01	ABO	SNP,CNV	c.646T>A; c.681G>A; c.771C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile; p.Val277Met	7	rare	ISBT			O19 (R102)								
+ABO	O	ABO*O.09.02	ABO	SNP,CNV	c.297A>G;  c.646T>A; c.681G>A; c.771C>T; c.829G>A;c.261insG[ABO:c.261_262insG]	p.Phe216Ile; p.Val277Met	6,7	rare	ISBT			O20 (R103)								
+ABO	O	ABO*O.10	ABO	SNP,CNV	c.66_67insG[ABO:c.66_67insG];c.261insG[ABO:c.261_262insG]	p.Phe23Valfs*34	2	rare	ISBT			O72								
+ABO	O	ABO*O.11	ABO	SNP,CNV	c.297A>G;c.505_507delCAG[ABO:c.505_507del]; c.526C>G; c.657C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Gln169del;p.Arg176Gly; p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			O74								
+ABO	O	ABO*O.12	ABO	SNP,CNV	c.297A>G; c.526C>G; c.563G>A; c.657C>T; c.703G>A; c.796C>A; c.803G>C; c.930G>A;c.261insG[ABO:c.261_262insG]	p.Arg176Gly; Arg188His; p.Gly235Ser; p.Leu266Met; p.Gly268Ala	6,7	rare	ISBT			O77								
+ABO	O	ABO*O.13	ABO	SNP,CNV	c.452T>G;c.261insG[ABO:c.261_262insG]	p.Val151Gly	7	rare	ISBT			O78								
+ABO	O	ABO*O.14	ABO	SNP,CNV	c.635T>A;c.261insG[ABO:c.261_262insG]	p.Val212Glu	7	rare	ISBT			O79								
+ABO	O	ABO*O.15	ABO	SNP,CNV	c.793T>C;c.261insG[ABO:c.261_262insG]	p.Tyr265His	7	rare	ISBT			O81								
+ABO	O	ABO*O.16	ABO	SNP,CNV	c.106G>T; c.188G>A;Deletion of exons 5-7[ABO:c.204_1065del]	p.	3,4,5,6,7	rare	ISBT			-								

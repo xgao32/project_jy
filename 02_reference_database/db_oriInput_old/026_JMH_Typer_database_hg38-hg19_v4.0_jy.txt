@@ -1,0 +1,79 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+JMH	JMH:1 or JMH+	JMH*01	SEMA7A	SNP	c.619C>C	p.Arg207Arg	6	universal	ISBT			(1), PMID: 11449960 NG_011733.1 n.a.
+JMH	JMH:–2 or JMHK–	JMH*01.–02	SEMA7A	SNP	c.619C>T;c.1545A>G	p.Arg207Trp;p.Gln515Gln	6,12	rare	ISBT			(2), PMID: 17207242 AM180447 rs56367230 rs741761
+JMH	JMH:–3 or JMHL–	JMH*01.–03	SEMA7A	SNP	c.620G>A	p.Arg207Gln	6	rare	ISBT			(2), PMID: 17207242 AM180445 rs55637216
+JMH	JMH:–4 or JMHG–	JMH*01.–04	SEMA7A	SNP	c.1379G>A	p.Arg460His	11	rare	ISBT			(2), PMID: 17207242 AM180448 rs56204206
+JMH	JMH:–5 or JMHM–	JMH*01.–05	SEMA7A	SNP	c.1381C>T	p.Arg461Cys	11	rare	ISBT			(2), PMID: 17207242 AM180446 rs56001514
+JMH	JMH: –6 or JMHQ–	JMH*01.–06	SEMA7A	SNP	c.1040G>T	p.Arg347Leu	9	rare	ISBT			(3), PMID: 20854351 n.a. rs387907241
+JMH	JMH: –7 or JMHN–	JMH*01.–07	SEMA7A	SNP	c.709G>A;c.1545A>G;c.1865G>A  	p.Asp237Asn;p.Gln515Gln;p.Arg622His	7,12,14	rare	ISBT			(4), Abstract n.a. rs140707085 rs741761 rs140128092
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

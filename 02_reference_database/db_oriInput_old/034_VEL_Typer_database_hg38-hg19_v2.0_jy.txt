@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+VEL	VEL:1 (Vel+)	VEL*01	SMIM1	SNP	c.64A>A;c.65G>G;c.66C>C;c.67C>C;c.68T>T;c.69A>A;c.70G>G;c.71G>G;c.72G>G;c.73G>G;c.74C>C;c.75T>T;c.76G>G;c.77T>T;c.78G>G;c.79T>T;c.80C>C	-	-	universal	ISBT,bloodtyper			-
+VEL	Vel–	VEL*01N.01	SMIM1	CNV	c.64_80delAGCCTAGGGGCTGTGTC[SMIM1:c.64_80del]	p.Ser22Glnfs*?	3	rare	ISBT			(1) PMID: 23505126;(2) PMID: 23563606;(3) PMID: 23563608
+VEL	Velweak	VEL*01W.01	SMIM1	SNP	c.152T>A	p.Met51Lys	4	rare	ISBT			(3) PMID: 23563608;(4) PMID: 25647324
+VEL	Velweak/ Vel–	VEL*01W.02	SMIM1	SNP	c.152T>G	p.Met51Arg	4	rare	ISBT			(3) PMID: 23563608;(4) PMID: 25647324
+VEL	Velweak	VEL*01W.03	SMIM1	SNP	c.161T>C	p.Leu54Pro	4	rare	ISBT			(6) PMID: 31218697
+VEL	Velweak	VEL*01W.04	SMIM1	SNP	c.1-410A>G	none	intron 2	rare	ISBT			(3) PMID: 23563608;(4) PMID: 25647324;(5) PMID: 28084402
+VEL	Velweak	VEL*01W.05	SMIM1	SNP	c.122G>A	p.Arg41Lys	4	rare	ISBT			(7) Abstract
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

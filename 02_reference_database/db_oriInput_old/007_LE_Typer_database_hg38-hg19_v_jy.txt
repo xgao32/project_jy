@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+LE	active	FUT3*TEMP.00	FUT3	SNP	c.13G>G;c.202C>T;c.484G>G;c.808G>G	p.Gly5;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.01	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.808G>G	p.Gly5;p.Arg60;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	unknown	FUT3*TEMP.02	FUT3	SNP	c.13G>G;c.41G>A;c.179G>G;c.484G>G;c.808G>G	p.Gly5;p.His14;p.Arg60;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.03	FUT3	SNP	c.13G>G;c.104G>A;c.179G>G;c.484G>G;c.808G>G	p.Gly5;p.His35;p.Arg60;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.04	FUT3	SNP	c.13G>G;c.179G>G;c.304C>A;c.484G>G;c.808G>G	p.Gly5;p.Arg60;p.Lys102;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.05	FUT3	SNP	c.13G>G;c.179G>G;c.370T>G;c.484G>G;c.808G>G	p.Gly5;p.Arg60;p.Ala124;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.06	FUT3	SNP	c.13G>G;c.179G>G;c.478C>T;c.484G>G;c.808G>G	p.Gly5;p.Arg60;p.Cys160;p.Asp162;p.Val270	3	common	bloodtyper			-
+LE	unknown	FUT3*TEMP.07	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.612A>G;c.808G>G	p.Gly5;p.Arg60;p.Asp162;p.Ser204;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.08	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.732C>T;c.808G>G	p.Gly5;p.Arg60;p.Asp162;p.Tyr244;p.Val270	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.09	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.732C>T;c.808G>G;c.858A>G	p.Gly5;p.Arg60;p.Asp162;p.Tyr244;p.Val270;p.Pro286	3	common	bloodtyper			-
+LE	unknown	FUT3*TEMP.10	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.735G>C;c.808G>G	p.Gly5;p.Arg60;p.Asp162;p.Leu245;p.Val270	3	common	bloodtyper			-
+LE	unknown	FUT3*TEMP.11	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.808G>G;c.882C>T	p.Gly5;p.Arg60;p.Asp162;p.Val270;p.Asp294	3	common	bloodtyper			-
+LE	active	FUT3*TEMP.12	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.808G>G;c.975G>A	p.Gly5;p.Arg60;p.Asp162;p.Val270;p.Thr325	3	common	bloodtyper			-
+LE	unknown	FUT3*TEMP.13	FUT3	SNP	c.13G>G;c.179G>G;c.484G>G;c.808G>G;c.1060A>G	p.Gly5;p.Arg60;p.Asp162;p.Val270;p.Gly354	3	common	bloodtyper			-
+LE	inactive	FUT*N_TEMP.00	FUT3	SNP	c.13G>A;c.484G>A;c.808G>A	p.Ser5;p.Asn162;p.Met270	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.01	FUT3	SNP	c.13G>A;c.179G>A;c.484G>A;c.808G>A	p.Ser5;p.His60;p.Asn162;p.Met270	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.02	FUT3	SNP	c.13G>A;c.484G>A;c.522G>A;c.667G>A	p.Ser5;p.Asn162;p.Pro174;p.Arg223	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.03	FUT3	SNP	c.13G>A;c.484G>A;c.667G>A	p.Ser5;p.Asn162;p.Arg223	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.04	FUT3	SNP	c.13G>A;c.484G>A;c.667G>A;c.808G>A	p.Ser5;p.Asn162;p.Arg223;p.Met270	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.05	FUT3	SNP	c.13G>A;c.484G>A;c.667G>A;c.962G>A	p.Ser5;p.Asn162;p.Arg223;p.His321	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.06	FUT3	SNP	c.13G>A;c.484G>A;c.667G>A;c.974C>T	p.Ser5;p.Asn162;p.Arg223	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.07	FUT3	SNP	c.13G>A;c.484G>A;c.808G>A;c.968G>C	p.Ser5;p.Asn162;p.Met270;p.Pro323	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.08	FUT3	SNP	c.13G>A;c.484G>A;c.968G>C	p.Ser5;p.Asn162;p.Pro323	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.09	FUT3	SNP	c.47G>C;c.202T>C;c.314C>T	p.Ser16;p.Arg68;p.Met105	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.10	FUT3	SNP	c.47G>C;c.508G>A	p.Ser16;p.Ser170	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.11	FUT3	SNP	c.47G>C;c.202T>C;c.314C>T;c.655G>A;c.1029A>G	p.Ser16;p.Arg68;p.Met105;p.Met219;p.Lys343	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.12	FUT3	SNP	c.55G>A;c.59T>G	p.Thr19;p.Arg20	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.13	FUT3	SNP	c.59T>G	p.Arg20	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.14	FUT3	SNP	c.59T>G;c.1067T>A	p.Arg20;p.Lys356	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.15	FUT3	SNP	c.59T>G;c.508G>A	p.Arg20;p.Ser170	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.16	FUT3	SNP	c.59T>G;c.202T>C;c.1067T>A	p.Arg20;p.Arg68;p.Lys356	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.17	FUT3	SNP	c.59T>G;c.258C>T;c.1067T>A	p.Arg20;p.Pro86;p.Lys356	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.19	FUT3	SNP	c.59T>G;c.508G>A;c.548C>T	p.Arg20;p.Ser170;p.Leu183	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.20	FUT3	SNP	c.59T>G;c.508G>A;c.612A>G	p.Arg20;p.Ser170;p.Ser204	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.21	FUT3	SNP	c.59T>G;c.508G>A;c.732C>T	p.Arg20;p.Ser170;p.Tyr244	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.22	FUT3	SNP	c.59T>G;c.508G>A;c.858A>G	p.Arg20;p.Ser170;p.Pro286	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.23	FUT3	SNP	c.59T>G;c.548C>T;c.612A>G;c.1067T>A	p.Arg20;p.Leu183;p.Ser204;p.Lys356	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.24	FUT3	SNP	c.59T>G;c.571G>A;c.1067T>A	p.Arg20;p.Lys191;p.Lys356	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.25	FUT3	SNP	c.59T>G;c.61C>T;c.508G>A	p.Arg20;p.Leu21;p.Ser170	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.26	FUT3	SNP	c.59T>G;c.61C>T;c.508G>A;c.980G>A	p.Arg20;p.Leu21;p.Ser170;p.Gln327	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.27	FUT3	SNP	c.202T>C	p.Arg68	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.28	FUT3	SNP	c.202T>C;c.314C>T	p.Arg68;p.Met105	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.29	FUT3	SNP	c.202T>C;c.314C>T;c.484G>A	p.Arg68;p.Met105;p.Asn162	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.30	FUT3	SNP	c.202T>C;c.314C>T;c.858A>G	p.Arg68;p.Met105;p.Pro286	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.31	FUT3	SNP	c.202T>C;c.314C>T;c.451A>G	p.Arg68;p.Met105;p.Gly151	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.32	FUT3	SNP	c.202T>C;c.314C>T;c.560C>G	p.Arg68;p.Met105;?	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.33	FUT3	SNP	c.202T>C;c.314C>T;c.612A>G	p.Arg68;p.Met105;p.Ser204	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.35	FUT3	SNP	c.484G>A;c.667G>A	p.Asn162;p.Arg223	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.36	FUT3	SNP	c.484G>A;c.667G>A;c.808G>A	p.Asn162;p.Arg223;p.Met270	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.37	FUT3	SNP	c.760G>A	p.Asn254	3	uncommon	bloodtyper			-
+LE	inactive	FUT3*N_TEMP.38	FUT3	SNP	c.1067T>A	p.Lys356	3	uncommon	bloodtyper			-
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

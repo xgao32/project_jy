@@ -1,0 +1,207 @@
+#!/usr/bin/env python
+# coding=utf-8
+# @Content : pre-process pipeline: bam file to variant calling file(blood genes)
+# @Date    : 2021-09-30
+# @Author  : JIANG YUAN
+# @Version : v1
+# @Require : samtools(sort,index), gatk(MarkDuplicates,BaseRecalibrator,ApplyBQSR,HaplotypeCaller,GenotypeGVCFs,SelectVariants,VariantFiltration,MergeVcfs)
+
+# read config info into this namespace
+configfile: "config.yaml"
+
+inputBam = config["input_file"]
+outputDir = config["outputDir"]
+genome = config["genome"]
+sample = config["samples"]
+CHROMOSOME = ["1","2","3","4","6","7","9","11","12","13","15","17","18","19","20","22","X"]
+
+rule all:
+    input:
+        expand("{outputDir}/Outputs/VariantFiltration/{sample}_pass.filter.vcf.gz", outputDir = outputDir, sample = sample)
+
+rule Samtools_sort:
+    input:
+        inputBam
+    output:
+        "{outputDir}/Outputs/SortedReads/{sample}.sort.bam"
+    shell:
+        "samtools sort \
+        -o {output} \
+        -O BAM {input} "
+
+rule Samtools_index:
+    input:
+        "{outputDir}/Outputs/SortedReads/{sample}.sort.bam"
+    output:
+        "{outputDir}/Outputs/SortedReads/{sample}.sort.bam.bai"
+    shell:
+        "samtools index {input} {output}"
+
+rule MarkDup:
+    input:
+        "{outputDir}/Outputs/SortedReads/{sample}.sort.bam"
+    output:
+        "{outputDir}/Outputs/MarkDuplicates/{sample}_markedDuplicates.bam"
+    shell:
+        "gatk --java-options -Djava.io.tempdir=`pwd`/tmp \
+        MarkDuplicates \
+        --INPUT {input} \
+        -O {output} \
+        --VALIDATION_STRINGENCY LENIENT \
+        --METRICS_FILE {outputDir}/Outputs/MarkDuplicates/markedDuplicates.metrics \
+        --MAX_FILE_HANDLES_FOR_READ_ENDS_MAP 200000 \
+        --CREATE_INDEX true \
+        --TMP_DIR {outputDir}/Outputs/MarkDuplicates/"
+
+rule BaseRecalibrator:
+    input:
+        bam = "{outputDir}/Outputs/MarkDuplicates/{sample}_markedDuplicates.bam",
+        fasta = genome,
+        dbsnp = "preprocess_files/dbsnp_146.hg38.vcf.gz",
+        v1000g = "preprocess_files/1000G_phase1.snps.high_confidence.hg38.vcf.gz",
+        mills = "preprocess_files/Mills_and_1000G_gold_standard.indels.hg38.vcf.gz",
+        contigs = "preprocess_files/GATK_interval_2000_hg38.bed"
+    output:
+        grp = "{outputDir}/Outputs/BaseRecalibrator/{sample}_BQSR.grp"
+    #threads: 2
+    shell:
+        "gatk --java-options -Djava.io.tempdir=`pwd`/tmp \
+        BaseRecalibrator \
+        --reference {input.fasta} \
+        --input {input.bam} \
+        --output {output.grp} \
+        --known-sites {input.dbsnp} \
+        --known-sites {input.v1000g} \
+        --known-sites {input.mills} \
+        --intervals {input.contigs} \
+        --tmp-dir {outputDir}/Outputs/BaseRecalibrator/"
+
+rule ApplyBQSR:
+    input:
+        bam = "{outputDir}/Outputs/MarkDuplicates/{sample}_markedDuplicates.bam",
+        grp = "{outputDir}/Outputs/BaseRecalibrator/{sample}_BQSR.grp",
+        fasta = genome,
+        contigs = "preprocess_files/GATK_interval_2000_hg38.bed",
+    output:
+        bam = "{outputDir}/Outputs/ApplyBQSR/{sample}_recalibrated.bam"
+    #threads: 2
+    shell:
+        "gatk --java-options -Djava.io.tempdir=`pwd`/tmp \
+        ApplyBQSR \
+        --reference {input.fasta} \
+        --input {input.bam} \
+        --output {output.bam} \
+        --create-output-bam-index true \
+        -bqsr {input.grp} \
+        --intervals {input.contigs} \
+        --tmp-dir {outputDir}/Outputs/ApplyBQSR/"
+
+rule HaplotypeCaller:
+    input:
+        bam = "{outputDir}/Outputs/ApplyBQSR/{sample}_recalibrated.bam",
+        fasta = genome,
+        dbsnp = "preprocess_files/dbsnp_146.hg38.vcf.gz",
+        contigs = "preprocess_files/GATK_interval_2000_hg38.bed",
+    output:
+        vcf = "{outputDir}/Outputs/HaplotypeCaller/{sample}_rawVariants.g.vcf.gz"
+    #threads: 1
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        HaplotypeCaller \
+        -R {input.fasta} \
+        -O {output.vcf} \
+        -I {input.bam} \
+        -L {input.contigs} \
+        --dbsnp {input.dbsnp} \
+        --use-new-qual-calculator \
+        --native-pair-hmm-threads 1 \
+        -DF NotDuplicateReadFilter \
+        -ERC GVCF \
+        --tmp-dir {outputDir}/Outputs/HaplotypeCaller/"
+
+rule GenotypeGVCFs:
+    input:
+        vcf = "{outputDir}/Outputs/HaplotypeCaller/{sample}_rawVariants.g.vcf.gz",
+        fasta = genome,
+        contigs = "preprocess_files/GATK_interval_2000_hg38.bed",
+    output:
+        vcf = "{outputDir}/Outputs/GenotypeGVCFs/{sample}_genotypes.g.vcf.gz"
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        GenotypeGVCFs \
+        -R {input.fasta} \
+        -O {output.vcf} \
+        -V {input.vcf} \
+        -L {input.contigs} \
+        --tmp-dir {outputDir}/Outputs/GenotypeGVCFs/"
+
+rule SelectVariantsSNP:
+    input:
+        vcf = "{outputDir}/Outputs/GenotypeGVCFs/{sample}_genotypes.g.vcf.gz",
+        fasta = genome
+    output:
+        vcf = "{outputDir}/Outputs/SelectVariantsSNP/{sample}_snp.vcf.gz"
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        SelectVariants \
+        -R {input.fasta} \
+        -V {input.vcf} \
+        --select-type-to-include SNP \
+        -O {output.vcf} \
+        --tmp-dir {outputDir}/Outputs/SelectVariantsSNP/"
+
+rule SelectVariantsINDEL:
+    input:
+        vcf = "{outputDir}/Outputs/GenotypeGVCFs/{sample}_genotypes.g.vcf.gz",
+        fasta = genome
+    output:
+        vcf = "{outputDir}/Outputs/SelectVariantsINDEL/{sample}_indel.vcf.gz"
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        SelectVariants \
+        -R {input.fasta} \
+        -V {input.vcf} \
+        --select-type-to-include INDEL \
+        -O {output.vcf} \
+        --tmp-dir {outputDir}/Outputs/SelectVariantsINDEL/"
+
+rule VariantFiltrationSNP:
+    input:
+        vcf = "{outputDir}/Outputs/SelectVariantsSNP/{sample}_snp.vcf.gz"
+    output:
+        vcf = "{outputDir}/Outputs/VariantFiltration/{sample}_snp.filter.vcf.gz"
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        VariantFiltration \
+        -V {input.vcf} \
+        --filter-expression 'QD < 2.0 || MQ < 40.0 || FS > 60.0 || SOR > 3.0 || MQRankSum < -12.5 || ReadPosRankSum < -8.0' \
+        --filter-name 'PASS' \
+        -O {output.vcf} \
+        --tmp-dir {outputDir}/Outputs/VariantFiltration/"
+
+rule VariantFiltrationINDEL:
+    input:
+        vcf = "{outputDir}/Outputs/SelectVariantsINDEL/{sample}_indel.vcf.gz"
+    output:
+        vcf = "{outputDir}/Outputs/VariantFiltration/{sample}_indel.filter.vcf.gz"
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        VariantFiltration \
+        -V {input.vcf} \
+        --filter-expression 'QD < 2.0 || FS > 200.0 || SOR > 10.0 || MQRankSum < -12.5 || ReadPosRankSum < -8.0' \
+        --filter-name 'PASS' \
+        -O {output.vcf} \
+        --tmp-dir {outputDir}/Outputs/VariantFiltration/"
+
+rule MergeVcfs:
+    input:
+        snp =  "{outputDir}/Outputs/VariantFiltration/{sample}_snp.filter.vcf.gz",
+        indel = "{outputDir}/Outputs/VariantFiltration/{sample}_indel.filter.vcf.gz"
+    output:
+        vcf = "{outputDir}/Outputs/VariantFiltration/{sample}_pass.filter.vcf.gz"
+    shell:
+        "gatk --java-options '-Xmx3500M -Djava.io.tempdir=`pwd`/tmp' \
+        MergeVcfs \
+        -I {input.snp} \
+        -I {input.indel} \
+        -O {output.vcf} "

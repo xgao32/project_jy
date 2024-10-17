@@ -1,0 +1,4 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+CTL2	CTL2:1 or VER+	CTL2*01	SLC44A2	SNP	c.1192C>C	14	p.Pro398Pro	universal	ISBT,bloodtyper	-	-
+CTL2	CTL2:-2 or RIF-	CTL2*01.-02	SLC44A2	SNP	c.1192C>A	14	p.Pro398Thr	rare	ISBT	g.10635480C>A	g.10746156C>A
+CTL2	CTL2:-1 or VER-	CTL2*01N.01	SLC44A2	CNV	Deletion of exons 1 to 14(37 kbp). Break-points with coordinates from chromosome 19:10598733-10636021[SLC44A2:c.1-26901_1234-302del]	1-14	-	rare	ISBT	g.10598733_10636021del	g.10709409_10746697del

@@ -1,0 +1,78 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+KN	KN:1 or Kn(a+); KN:3 or McC(a+); KN:4 or S11+;KN:8 or S13+;KN:9 or KCAM+	KN*01 or KN*A	CR1	SNP	4681G>G;4768A>A;4801A>A;4828T>T;4843A>A	p.Val1561Val;p.Lys1590Lys;p.Arg1601Arg;p.Ser1610Ser;p.Ile1615Ile	29	universal	ISBT			-
+KN	KN:2 or Kn(b+)	KN*02 or KN*B	CR1	SNP	c.4681G>A	p.Val1561Met	29	universal	ISBT			rs41274768[1]
+KN	KN:5 or Yk(a–)	KN*01.–05	CR1	SNP	c.4223C>T	p.Thr1408Met	26	uncommon	ISBT			rs3737002[2]
+KN	KN:6 or McC(b+)	KN*01.06	CR1	SNP	c.4768A>G	p.Lys1590Glu	29	rare	ISBT			rs17047660[3]
+KN	KN:7 or Vil+  	KN*01.07	CR1	SNP	c.4801A>G	p.Arg1601Gly	29	rare	ISBT			rs17047661[4,5]
+KN	KN:–8 or Sl3–	KN*01.–08	CR1	SNP	c.4828T>A	p.Ser1610Thr  	29	rare	ISBT			rs4844609[6]
+KN	KN:–9 or KCAM–	KN*01.–09	CR1	SNP	c.4843A>G	p.Ile1615Val	29	rare	ISBT			rs6691117[7]
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

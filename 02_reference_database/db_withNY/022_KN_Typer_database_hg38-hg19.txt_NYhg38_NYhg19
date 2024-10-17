@@ -1,0 +1,8 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments	hg38_NY_information	hg19_NY_information
+KN	KN:1 or Kn(a+); KN:3 or McC(a+); KN:4 or S11+;KN:8 or S13+;KN:9 or KCAM+	KN*01 or KN*A	CR1	SNP	4828A>T	p.Thr1610Ser	29	universal	ISBT	g.207609571A>T	g.207782916A>T	YNNNNN	YNNNNN
+KN	KN:2 or Kn(b+)	KN*02 or KN*B	CR1	SNP	c.4681G>A	p.Val1561Met	29	universal	ISBT	g.207609424G>A	g.207782769G>A	NYNNNN	NYNNNN
+KN	KN:5 or Yk(a–)	KN*01.–05	CR1	SNP	c.4223C>T	p.Thr1408Met	26	uncommon	ISBT	g.207587428C>T	g.207760773C>T	NNYNNN	NNYNNN
+KN	KN:6 or McC(b+)	KN*01.06	CR1	SNP	c.4768A>G	p.Lys1590Glu	29	rare	ISBT	g.207609511A>G	g.207782856A>G	NNNYNN	NNNYNN
+KN	KN:7 or Vil+  	KN*01.07	CR1	SNP	c.4801A>G	p.Arg1601Gly	29	rare	ISBT	g.207609544A>G	g.207782889A>G	NNNNYN	NNNNYN
+KN	KN:–8 or Sl3–	KN*01.–08	CR1	SNP	c.4828A>A	p.Thr1610Thr  	29	rare	ISBT	-	-	NNNNNN	NNNNNN
+KN	KN:–9 or KCAM–	KN*01.–09	CR1	SNP	c.4843A>G	p.Ile1615Val	29	rare	ISBT	g.207609586A>G	g.207782931A>G	NNNNNY	NNNNNY

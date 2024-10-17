@@ -1,0 +1,6 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments	hg38_NY_information	hg19_NY_information
+RAPH	RAPH:1 or MER2+	RAPH*01	CD151	SNP	c.511C>C	p.Arg171Arg	7	universal	ISBT	-	-	NNNNN	NNNNN
+RAPH	RAPH:- 1 or MER2	RAPH*01.01.01	CD151	SNP	c.511C>T;c.579G>A	p.Arg171Cys;p.Gly193Gly	7	rare	ISBT	g.837514C>T;g.837582G>A	g.837514C>T;g.837582G>A	YYNNN	YYNNN
+RAPH	RAPH:- 1 or MER2	RAPH*01.01.02	CD151	SNP	c.533G>A	p.Arg178His	7	rare	ISBT	g.837536G>A	g.837536G>A	NNYNN	NNYNN
+RAPH	RAPH:-1  or MER2-	RAPH*01.01.03	CD151	SNP	c.494G>A	p.Arg165Gln	7	rare	ISBT	g.837497G>A	g.837497G>A	NNNYN	NNNYN
+RAPH	RAPHnull	RAPH*01N.01	CD151	CNV	c.383_384insG[CD151:c.383_384insG]	p.Asp128Glufs*13	6	rare	ISBT	g.837282insG	g.837282insG	NNNNY	NNNNY

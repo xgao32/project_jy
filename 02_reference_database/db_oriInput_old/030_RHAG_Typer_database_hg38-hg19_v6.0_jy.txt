@@ -1,0 +1,81 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+RHAG	RHAG:1 or Duclos+	RHAG*01	RHAG	SNP	c.316C>C	p.Gln106Gln	2	universal	ISBT			(2) PMID: 19744193 n.a. rs1180686517
+RHAG	RHAG:1 or Duclos	RHAG*01.01	RHAG	SNP	c.316C>G	p.Gln106Glu	2	rare	ISBT			(2) PMID: 19744193(3) Abstract n.a. rs902283342
+RHAG	RHAG:2 or Ol(a+) Variant also weakens RhAG expression (3)	RHAG*01.02	RHAG	SNP	c.680C>T	p.Ser227Leu	5	rare	ISBT			(2) PMID: 19744193 n.a. rs144305805
+RHAG	RHAG:3 or DSLK	RHAG*01.03	RHAG	SNP	c.490A>C	p.Lys164Gln	3	rare	ISBT			obsolete as of 2018,  PMID:30421425
+RHAG	RHAG:4	RHAG*04 	RHAG	SNP	c.808G>A 	p.Val270Ile	6	-	ISBT,Bloodtyper			
+RHAG	Rhmod	RHAG*01M.01	RHAG	CNV	c.1183delA[RHAG:c.1183del]	p.Asn395Thrfs*68	9	rare	ISBT			(5) PMID: 9915949 n.a. rs121918588
+RHAG	Rhmod	RHAG*01M.02	RHAG	SNP	c.3G>T	p.Arg2_Met8del	1	rare	ISBT			(7) PMID: 8563755 n.a. rs121918586
+RHAG	Rhmod	RHAG*01M.03	RHAG	SNP	c.236G>A	p.Ser79Asn	2	rare	ISBT			(8) Abstract n.a. n.a.
+RHAG	Rhmod	RHAG*01M.04	RHAG	SNP	c.269G>T	p.Gly90Val	2	rare	ISBT			(3) Abstract n.a. n.a.
+RHAG	Rhmod	RHAG*01M.05	RHAG	SNP	c.398T>C	p.Leu133Pro	3	rare	ISBT			(8) Abstract n.a. n.a.
+RHAG	Rhmod	RHAG*01M.06	RHAG	SNP	c.560G>A	p.Gly187Asp	4	rare	ISBT			(9) PMID: 10895258 n.a. n.a.
+RHAG	Rhmod	RHAG*01M.07	RHAG	SNP	c.1195G>T	p.Asp399Tyr	9	rare	ISBT			(10) PMID: 18931342 n.a. rs863225469
+RHAG	Rhmod	RHAG*01M.08	RHAG	SNP	c.182T>G	p.Ile61Arg	2	rare	ISBT			(10) PMID: 18931342 n.a. rs863225468
+RHAG	Rhmod	RHAG*01M.09	RHAG	SNP	c.194T>C	p.Phe65Ser	2	rare	ISBT			(11) Abstract n.a. rs550840907
+RHAG	Rhmod	RHAG*01M.10	RHAG	SNP	c.572G>A	p.Arg191Gln	4	rare	ISBT			(12) PMID: 27079312 HF934040 n.a.
+RHAG	Rhmod	RHAG*01M.11	RHAG	SNP	c.241G>C	p.Gly81Arg	2	rare	ISBT			(13) PMID: 32378229 n.a. n.a.
+RHAG	Rhmod	RHAG*01M.12	RHAG	SNP	c.920C>T	p.Ser307 Phe	6	rare	ISBT			(31) Abstract n.a. rs759281201
+RHAG	Rhmod	RHAG*01M.13	RHAG	SNP	c.514A>G	p.Met172Val	4	rare	ISBT			(37) PMID: 31032541 MH397221 rs550840907 rs777825752
+RHAG	Rhmod	RHAG*01M.14	RHAG	SNP	c.572G>A;c.707A>C	p.Arg191Gln;p.Gln236 Arg	4,5	rare	ISBT			(7) PMID: 8563755 n.a. rs387906519
+RHAG	Rhnull	RHAG*01N.01	RHAG	CNV	c.154_157delinsGA[RHAG:c.154_157delinsGA]	p.Pro52Aspfs*57	2	rare	ISBT			(7) PMID: 8563755 n.a. rs1562011389
+RHAG	Rhnull	RHAG*01N.02	RHAG	CNV	c.1086delA[RHAG:c.1086del]	p.Ala363Leufs*15	8	rare	ISBT			(14) PMID: 9746795; (15) PMID: 10394146 n.a. rs1166675172
+RHAG	Rhnull	RHAG*01N.03	RHAG	SNP	c.157+1G>A	Aberrant splicing	Intron 1	rare	ISBT			(16) Abstract; (17) PMID: 30990901 n.a. n.a.
+RHAG	Rhnull	RHAG*01N.04	RHAG	SNP	c.945+1G>A	Aberrant splicing	Intron 6	rare	ISBT			(14) PMID: 9746795 n.a. rs1562012697
+RHAG	Rhnull	RHAG*01N.05	RHAG	SNP	c.946-1G>A	Aberrant splicing	Intron 6	rare	ISBT			(18) PMID: 9759472 n.a. n.a.
+RHAG	Rhnull	RHAG*01N.06	RHAG	SNP	c.946-1G>T	Aberrant splicing	Intron 6	rare	ISBT			(19) PMID: 9442063 n.a. rs1562012617
+RHAG	Rhnull	RHAG*01N.07	RHAG	SNP	c.1067+1G>A	Aberrant splicing	Intron 7	rare	ISBT			(6) PMID: 10467273 n.a. rs16879498; rs104893987
+RHAG	Rhnull	RHAG*01N.08	RHAG	SNP	c.808G>A; c.838G>A	p.Val270Ile; p.Gly280Arg	6	rare	ISBT			(20) PMID: 9454778; (21) PMID: 9716608 n.a. rs121918587
+RHAG	Rhnull	RHAG*01N.09	RHAG	SNP	c.836G>A	p.Gly279Glu	6	rare	ISBT			(16) Abstract n.a. n.a.
+RHAG	Rhnull	RHAG*01N.10	RHAG	SNP	c.1094T>G	p.Leu365Arg	8	rare	ISBT			(6) PMID: 10467273 n.a. rs121918589
+RHAG	Rhnull	RHAG*01N.11	RHAG	SNP	c.1139G>T	p.Gly380Val; Aberrant splicing	9	rare	ISBT			(22) Abstract n.a. n.a.
+RHAG	Rhnull	RHAG*01N.12	RHAG	SNP	c.353C>T	p.Ala118Glu	3	rare	ISBT			(23) PMID: 25296744 n.a. rs976240588
+RHAG	Rhnull	RHAG*01N.13	RHAG	SNP	c.1003G>A	p.Gly335Ser	7	rare	ISBT			(24) Abstract n.a. rs754264275
+RHAG	Rhnull	RHAG*01N.14	RHAG	SNP	c.946-2A>G	Aberrant splicing	Intron 6	rare	ISBT			(27) PMID: 26175207 n.a. rs1240511011
+RHAG	Rhnull	RHAG*01N.16	RHAG	SNP	c.310C>T	p.Gln104Ter	2	rare	ISBT			(12) PMID: 27079312 HG971762 n.a.
+RHAG	Rhnull	RHAG*01N.17	RHAG	CNV	c.640+3del14[RHAG:c.640+3_640+16del]	Aberrant splicing	Intron 4	rare	ISBT			(28) ISBT Science Series, 2016;11:51-7. AB938314.1 rs1397420527
+RHAG	Rhnull	RHAG*01N.18	RHAG	SNP	c.790C>T	p.Arg264X	5	rare	ISBT			(29) Abstract n.a. n.a.
+RHAG	Rhnull	RHAG*01N.19	RHAG	CNV	c.543delT[RHAG:c.543del]	p.Phe181Leufs*5	4	rare	ISBT			(30) PMID: 21682734 n.a. n.a.
+RHAG	Rhnull	RHAG*01N.20	RHAG	SNP	c.672C>A	p.Ser224Arg	5	rare	ISBT			(32) Abstract n.a. rs758540029
+RHAG	Rhnull	RHAG*01N.21	RHAG	SNP	c.571C>T	p.Arg191Ter	4	rare	ISBT			(34) PMID: 28063760 n.a. n.a.
+RHAG	Rhnull	RHAG*01N.22	RHAG	SNP	c.540C>A	p.Tyr180Ter	4	rare	ISBT			(35) PMID: 29266289 KY094063 n.a.
+RHAG	Rhnull	RHAG*01N.23	RHAG	CNV	c.532delG[RHAG:c.532del]	p.178Glyfs185	4	rare	ISBT			(36) Abstract n.a. n.a.
+RHAG	Rhnull	RHAG*01N.24	RHAG	CNV	c.12delA[RHAG:c.12del]	p.Phe5fs	1	rare	ISBT			(38) PMID: 29508504 GQ477180 rs121918586
+RHAG	Rhnull	RHAG*01N.25	RHAG	SNP	c.236G>A	pSer79Asn	2	rare	ISBT			
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

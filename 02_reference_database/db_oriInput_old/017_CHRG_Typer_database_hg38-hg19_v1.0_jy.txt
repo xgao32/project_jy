@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+CHRG	Ch+Rg– or CH:1,2,3,4,5,6 RG:–1,–2	C4B*03	C4B	SNP	c.3527G>G;c.3218G>G;c.3620C>C;c.3629G>G;c.3630G>G	p.Ser1176Ser;p.Gly1073Gly;p.Ala1207Ala;p.Arg1210Arg	25,28	-	ISBT,bloodtyper			-
+CHRG	Ch+Rg– or CH:1,2,–3,4,5,–6 RG:–1,–2	C4B*01	C4B	SNP	c.3527G>A;c.3218G>G;c.3620C>C;c.3629G>G;c.3630G>G	p.Ser1176Asn;p.Gly1073Gly;p.Ala1207Ala;p.Arg1210Arg	25,28	-	ISBT,bloodtyper			PMID: 2453459 n.a. rs2746414
+CHRG	Ch+Rg– or CH:1,–2,3,4,–5,6 RG:–1,–2	C4B*02	C4B	SNP	c.3218G>A;c.3527G>G;c.3620C>C;c.3629G>G;c.3630G>G	p.Gly1073Asp;p.Ser1176Ser;p.Ala1207Ala;p.Arg1210Arg	25,28	-	ISBT,bloodtyper			PMID: 2453459 n.a. rs2258218
+CHRG	Ch+Rg+WH+ or CH:–1,–2,–3,4,–5,6 RG:1,–2WH+	C4B*05	C4B	SNP	c.3218G>A;c.3620C>T;c.3629G>T;c.3630G>C;c.3527G>G	p.Gly1073Asp;p.Ala1207Val;p.Arg1210Leu;p.Ser1176Ser	25,28	-	ISBT,bloodtyper			PMID: 2444535 n.a. rs2258218 rs2229403 rs2229409 rs1138376
+CHRG	Ch- or CH:–1,–2,–3, –4,–5, –6	C4B*N.01	C4B	CNV	c.1623delC[C4B:c.1623del]	p.Phe541PhefsTer587	13	-	ISBT			PMID: 12133986 n.a. n.a.
+CHRG	Ch- or CH:–1,–2,–3, –4,–5, –6	C4B*N.02	C4B	CNV	c.3695_3696dupTC[C4B:c.3695_3696dupTC]	p.Ser1232SerfsTer1307	29	-	ISBT			PMID: 10092831 AF092085.1 rs367709216
+CHRG	Ch- or CH:–1,–2,–3, –4,–5, –6	C4B*N.03	C4B	SNP	3676+1g>a	Aberrant splicing	Intron 28	-	ISBT			PMID: 15294999 n.a. rs771378213
+CHRG	Ch–Rg+ or CH:–1,–2,–3,–4,–5,–6 RG:1,2	C4A*03	C4A	SNP	c.3218A>A;c.3527A>A;c.3620T>T;c.3629T>T;c.3630C>C	p.Asp1073Asp;p.Asn1176Asn;p.Val1207Val;p.Leu1210Leu	25,28	-	ISBT,bloodtyper			-
+CHRG	Ch+Rg– or CH:1,–2,3,–4,5,6 RG:–1,–2	C4A*01	C4A	SNP	c.3218A>G;c.3527A>G;c.3620T>C;c.3629T>G;c.3630C>G	p.Asp1073Gly;p.Asn1176Ser;p.Val1207Ala;p.Leu1210Arg	25,28	-	ISBT,bloodtyper			PMID: 2453459  n.a.
+CHRG	Ch–Rg+WH+ or CH:–1,–2,–3, –4,–5,6 RG:1,–2 WH+	C4A*03	C4A	SNP	c.3527A>G;c.3218A>A;c.3620T>T;c.3629T>T;c.3630C>C	p.Asn1176Ser;p.Asp1073Asp;p.Val1207Val;p.Leu1210Leu	25,28	-	ISBT,bloodtyper			PMID: 2444535  n.a.
+CHRG	Rg- or RG: –1,–2	C4A*N.01	C4A	CNV	C4A gene deletion[C4A:c.1_5235del]	Deletion of 28-30 kb including C4A and 21-OHA	1-41	-	ISBT			PMID: 15794202 PMID: 2996881  n.a.
+CHRG	Rg- or RG: –1,–2	C4A*N.02	C4A	CNV	c.3695_3696dupTC[C4A:c.3695_3696dupTC]	p.Ser1232SerfsTer1307	29	-	ISBT			PMID: 12133986 PMID: 8473511  n.a.
+CHRG	Rg- or RG: –1,–2	C4A*N.03	C4A	CNV	c.2490delC[C4A:c.2490del]	p.Phe830PhefsTer863	20	-	ISBT			PMID: 9796739  n.a.
+CHRG	Rg- or RG: –1,–2	C4A*N.04	C4A	CNV	c.1546_1547delGT[C4A:c.1546_1547del]	p.Val516ValfsTer625	13	-	ISBT			PMID: 15294999  n.a.
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

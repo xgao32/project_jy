@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+LAN	Lan+	ABCB6*01	ABCB6	-	-	-	-	universal	ISBT			-
+LAN	Lan-	ABCB6*01N.01	ABCB6	CNV	c.197_198insG[ABCB6:c.197_198insG]	p.Ala66Gly fs stop	1	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.02	ABCB6	SNP	c.717G>A	p.Gln239X	3	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.03	ABCB6	CNV	c.953_956delGTGG[ABCB6:c.953_956del]	p.Gly318fsX	4	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.04	ABCB6	CNV	c.1533_1543dupCGGCTCCCTGC[ABCB6:c.1533_1543dup]	p.Leu515fsX	9	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.05	ABCB6	CNV	c.1709_1710delAG[ABCB6:c.1709_1710del]	p.Glu570fsX	11	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.06	ABCB6	CNV	c.1690_1691delAT[ABCB6:c.1690_1691del]	p.Met564fsX	11	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.07	ABCB6	CNV	c.1867delinsAACAGGTGA[ABCB6:c.1867_1867delinsAACAGGTGA]	p.Gly623fsX	14	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.08	ABCB6	SNP	c.1942C>T	p.Arg648X	14	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.09	ABCB6	CNV	c.1985_1986delTC[ABCB6:c.1985_1986del]	p.Leu662fsX	15	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.10	ABCB6	SNP	c.2256+2t>g	p.Splicing defect	Intron 16	rare	ISBT			[1]
+LAN	Lan-	ABCB6*01N.11	ABCB6	SNP	c.1236G>A	p.Trp412X	6	rare	ISBT			[2]
+LAN	Lan-	ABCB6*01N.12	ABCB6	CNV	c.1558_1559insT[ABCB6:c.1558_1559insT]	p.Val520fsX	9	rare	ISBT			[2]
+LAN	Lan-	ABCB6*01N.13	ABCB6	SNP	c.574C>T	p.Arg192Trp	2	rare	ISBT			[3]
+LAN	Lan-	ABCB6*01N.14	ABCB6	CNV	c.85_87delTTC[ABCB6:c.85_87del]	p.Phe29del	1	rare	ISBT			[3]
+LAN	Lan-	ABCB6*01N.15	ABCB6	CNV	c.376delG[ABCB6:c.376del]	p.Val126fsX	1	rare	ISBT			[2]
+LAN	Lan-	ABCB6*01N.16	ABCB6	CNV	c.459delC[ABCB6:c.459del]	p.Leu154SerfsX97	1	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.17	ABCB6	SNP	c.2256+1g>a	Splicing defect	Intron 16	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.18	ABCB6	SNP	c.296_301insG[ABCB6:c.301_302insG]	p.Ala101GlyfsX61	1	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.19	ABCB6	SNP	c.718C>T	p.Arg240X	3	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.20	ABCB6	SNP	c.688-2a>g	Splicing defect	Intron 3	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.21	ABCB6	SNP	c.1199_1210delTTGGCATCATCT[ABCB6:c.1199_1210del]	p.Ile400_Gly401_Ile402_Ile403_T yr404delinsAsn	6	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.22	ABCB6	SNP	c.2383_2385delCTC[ABCB6:c.2383_2385del]	p.Leu795del	18	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.23	ABCB6	SNP,CNV	c.20A>G;c.403C>A;c.459delC[ABCB6:c.459del]	p.Tyr7Cys; p.Arg135Ser; p.Leu154SerfsX97	1	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.24	ABCB6	CNV	c.296_301insG[ABCB6:c.301_302insG];c.459delC[ABCB6:c.459del]	p.Ala101GlyfsX61; p.Leu154SerfsX97	2	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.25	ABCB6	CNV	c.459delC[ABCB6:c.459del];c.881_884delCTGA[ABCB6:c.881_884del]	p.Leu154SerfsX97; p.Thr294ArgfsX31	1,4	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.26	ABCB6	CNV	c.459delC[ABCB6:c.459del];c.1617delG[ABCB6:c.1617del]	p.Leu154SerfsX97; p.Gly539HisfsX15	1,10	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.27	ABCB6	SNP,CNV	c.459delC[ABCB6:c.459del];c.2256+1g>a 	p.Leu154SerfsX97; Splicing defect	1,Intron 16	rare	ISBT			[4]
+LAN	Lan-	ABCB6*01N.28	ABCB6	SNP	c.1A>C	p.0	1	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.29	ABCB6	SNP	c.827G>A	p.Arg276Glu	3	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.30	ABCB6	SNP	c.971-1g>a	Splicing	Intron 4	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.31	ABCB6	SNP	c.1825G>A	p.Val609Met	13	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.32	ABCB6	SNP	c.1912C>T	p.Arg638Cys	14	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.33	ABCB6	SNP	c.2155C>T	p.Glu719Ter	16	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.35	ABCB6	SNP	c.2351+1g>a	Splicing	Intron 17	rare	ISBT			[5]
+LAN	Lan-	ABCB6*01N.36	ABCB6	CNV	c.1118_1124delCGGATCG[ABCB6:c.1118_1124del]	p.Ala373Glyfs*47	6	rare	ISBT			[8]
+LAN	Lan-	ABCB6*01N.37	ABCB6	SNP	c.1656-1G>A	Splicing	Intron 9	rare	ISBT			[8]
+LAN	Lan weak	ABCB6*01W.01	ABCB6	SNP	c.826C>T	p.Arg276Trp	3	rare	ISBT			[2],[3]
+LAN	Lan weak	ABCB6*01W.02	ABCB6	SNP	c.1028G>A	p.Arg343Gln	5	rare	ISBT			[2]
+LAN	Lan weak	ABCB6*01W.03	ABCB6	SNP	c.1762G>A	p.Gly588Ser	12	rare	ISBT			[2],[3]
+LAN	Lan weak	ABCB6*01W.04	ABCB6	SNP	c.2216G>A	p.Arg739His	16	rare	ISBT			[2]
+LAN	Lan weak	ABCB6*01W.05	ABCB6	SNP	c.317A>G	p.Tyr106Cys	1	rare	ISBT			[6]
+LAN	Lan weak	ABCB6*01W.06	ABCB6	SNP	c.2206G>C	p.Ala736Pro	16	rare	ISBT			[6]
+LAN	Lan weak	ABCB6*01W.07	ABCB6	SNP	c.403C>A	p.Arg135Ser	1	rare	ISBT			[6]
+LAN	Lan unclear	unclear	ABCB6	SNP	c.20A>G	p.Tyr7Cys	1	rare	ISBT			[7]
+LAN	Lan unclear	unclear	ABCB6	SNP	c.55A>T	p.Met19Leu	1	rare	ISBT			[5]
+LAN	Lan unclear	unclear	ABCB6	SNP	c.869-2A>G	Splicing	Intron 3	rare	ISBT			[7]
+LAN	Lan unclear	unclear	ABCB6	CNV	c.1199_1210del[ABCB6:c.1199_1210del]	p.Ile400_Tyr404del	6	rare	ISBT			[7]
+LAN	Lan unclear	unclear	ABCB6	SNP	c.2256+1G>A	Splicing	Intron 16	rare	ISBT			[7]
+LAN	Lan unclear	unclear	ABCB6	CNV	c.2383_2385del[ABCB6:c.2383_2385del]	p.Leu795del	18	rare	ISBT			[7]
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

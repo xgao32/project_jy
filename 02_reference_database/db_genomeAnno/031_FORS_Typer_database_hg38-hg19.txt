@@ -1,0 +1,6 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+FORS	FORS:1 (FORS+) 	GBGT1*01.01 	GBGT1	SNP	c.887G>A 	p.Arg296Gln	7	rare	ISBT	g.133153734C>T	g.136029121C>T
+FORS	FORS:1 (FORS+) 	GBGT1*01.02 	GBGT1	SNP	c.58C>T; c.887G>A 	p.Leu20Phe; p.Arg296Gln	"2,7"	rare	ISBT	g.133162355G>A;g.133153734C>T	g.136037742G>A;g.136029121C>T
+FORS	FORS:–1 (FORS–) 	GBGT1*01N.01 	GBGT1	SNP	c.887G>G	p.Arg296Arg	7	universal	ISBT	-	-
+FORS	FORS:–1 (FORS–) 	GBGT1*01N.02 	GBGT1	SNP	c.58C>T	        p.Leu20Phe	2	universal	ISBT	g.133162355G>A	g.136037742G>A
+FORS	FORS:–1 (FORS–) 	GBGT1*02N 	GBGT1	SNP	c.363C>A 	p.Tyr121Ter	7	universal	ISBT	g.133154258G>T	g.136029645G>T

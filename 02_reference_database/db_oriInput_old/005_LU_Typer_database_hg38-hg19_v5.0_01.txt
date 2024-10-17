@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+LU	LU:1 or Lu(a+)	LU*01  or LU*A	BCAM	SNP	c.230G>A	p.Arg77His	3	-	ISBT			(1), PMID: 9166867 (2), PMID: 9192786 n.a. rs28399653
+LU	LU:-16	LU*01.-16	BCAM	SNP	c.230G>A;c.679C>T	p.Arg77His;p.Arg227Cys	3,6	-	ISBT			(3), PMID: 14641871 n.a. rs28399653 rs150474390
+LU	LU:1,19	LU*01.19	BCAM	SNP	c.230G>A;c.1615A>G	p.Arg77His;p.Thr539Ala	3,12	-	ISBT			(5), Abstract n.a. rs28399653 rs1135062
+LU	LU:2 or Lu(b+)	LU*02  or LU*B	BCAM	SNP	c.230G>G	p.Arg77Arg	3	-	ISBT			(1), PMID: 9166867 (2), PMID: 9192786 NG_007480.1 
+LU	LU:-4	LU*02.-04.1	BCAM	SNP	c.524G>A	p.Arg175Gln	5	-	ISBT			(3), PMID: 14641871 n.a. rs141223803
+LU	LU:-4	LU*02.-04.2	BCAM	SNP	c.524G>T	p.Arg175Leu	5	-	ISBT			(4), Abstract n.a. rs141223803
+LU	LU:-5	LU*02.-05	BCAM	SNP	c.326G>A	p.Arg109His	3	-	ISBT			(3), PMID: 14641871 n.a. rs114801603
+LU	LU:-7	LU*02.-07	BCAM	SNP	c.1274A>C	p.Glu425Ala	10	-	ISBT			(6), PMID: 15355502 n.a. rs1229944491
+LU	LU:-6,9	LU*02.09	BCAM	SNP	c.824C>T	p.Ser275Phe	7	-	ISBT			(3), PMID: 14641871 n.a. rs139610351
+LU	LU:-8,14	LU*02.14	BCAM	SNP	c.611T>A	p.Met204Lys	6	-	ISBT			(3), PMID: 14641871 n.a. rs28399656
+LU	LU:-12	LU*02.-12.1	BCAM	CNV	c.100-105delCGCTTG[BCAM:c.100-105del]	p.Arg34_Leu35del	2	-	ISBT			(3), PMID: 14641871 n.a. rs573141230
+LU	LU:-12	LU*02.-12.2	BCAM	SNP	c.419G>A	p.Arg140Gln	3	-	ISBT			(3), PMID: 14641871 n.a. rs760604448
+LU	LU:-13	LU*02.-13	BCAM	SNP	c.1340C>T;c.1671C>T;c.1742A>T	p.Ser447Leu;p.Ser557Ser(silent);p.Gln581Leu	11,13	-	ISBT			(3), PMID: 14641871 n.a. rs117737673 rs28399658 rs28399659
+LU	LU:-17	LU*02.-17	BCAM	SNP	c.340G>A	p.Glu114Lys	3	-	ISBT			(3), PMID: 14641871 n.a. n.a.
+LU	LU:-18,19 or Au(a-b+)	LU*02.19	BCAM	SNP	c.1615A>G	p.Thr539Ala	12	-	ISBT			(1), PMID: 9166867 n.a. rs1135062
+LU	LU:-18,19,-8,14	LU*02.19.14	BCAM	SNP	c.611T>A;c.1615A>G	p.Met204Lys;p.Thr539Ala	6,12	-	ISBT			(5), Abstract n.a. rs28399656 rs1135062
+LU	LU:-20	LU*02.-20	BCAM	SNP	c.905C>T	p.Thr302Met	7	-	ISBT			(3), PMID: 14641871 n.a. rs768582759
+LU	LU:-21	LU*02.-21	BCAM	SNP	c.282C>G	p.Asp94Glu	3	-	ISBT			(7), PMID: 15355502 n.a. n.a.
+LU	LU:-22, LURC-	LU*02.–22	BCAM	SNP	c.223C>T	p.Arg75Cys	3	-	ISBT			(8), Abstract n.a. rs570194003
+LU	LU:-23, LUIT-	LU*02.-23	BCAM	SNP	c.469G>A;c.1289C>T	p.Gly157Arg;p.Thr430Ile	4,10	-	ISBT			(9), Abstract LK391768 n.a. rs763826249
+LU	LU:-24, LUGA-	LU*02.-24	BCAM	SNP	c.212G>A;c.711C>T;c.714C>T	p.Arg71His;p.Cys237Cys(silent);p.Ala238Ala(silent)	3,6	-	ISBT			(10), Abstract KU695257 rs763340461 rs3810141 rs3810140
+LU	LU:-25, LUAC-	LU*02.-25	BCAM	SNP	c.662C>T	p.Thr221Ile	6	-	ISBT			(11), Abstract KX664213 rs992788732
+LU	LU:-26, LUBI-	LU*02.-26	BCAM	SNP	c.1495C>T	p.Arg499Trp	12	-	ISBT			(11), Abstract KX664212 rs148391498
+LU	LU:-27, LUYA-	LU*02.-27	BCAM	SNP	c.324G>A;c.1184G>A	p.Gly108Gly;(silent);p.Arg395His	3,9	-	ISBT			(12), Abstract n.a. rs3745159 rs200421757
+LU	LU:-28, LUNU-	LU*02.-28	BCAM	SNP	c.121G>A	p.Val41Met	2	-	ISBT			(13), Abstract MK965667 rs957795435
+LU	LU:-29, LURA-	LU*02.-29	BCAM	SNP	c.1351A>C	p.Lys451Gln	11	-	ISBT			(14), Abstract MK965666 rs28399630
+LU	Lu(b+w)	LU*02W.01	BCAM	SNP	c.559C>T;c.711C>T;c.714C>T	p.Arg187Cys;p.Cys237Cys(silent);p.Ala238Ala(silent)	5,6	-	ISBT			(15), PMID: 27043150 KT322137 rs780286955 rs3810141 rs3810140
+LU	Lu(b+w)comment:similarity to LU*02.14	LU*02W.02	BCAM	SNP	c.611T>A;c.638C>T	p.Met204Lys;p.Ser213Leu	6	-	ISBT			(15), PMID: 27043150 KT322138 rs28399656 rs773562897
+LU	Lu(b+w)comment:similarity to LU*02.-13	LU*02W.03	BCAM	SNP	c.1306C>T;c.1340C>T;c.1671C>T;c.1742A>T	p.Arg436Cys;p.Ser447Leu;p.Ser557Ser;(silent)	p.Gln581Leu	10,11,13	-	ISBT			(15), PMID: 27043150 KU214879 rs150798131 rs117737673 rs28399658 rs28399659
+LU	Lunull	LU*02N.01	BCAM	SNP	c.691C>T	p.Arg231Ter	6	-	ISBT			(16), PMID: 17319831 n.a. rs121918132
+LU	Lunull	LU*02N.02	BCAM	CNV	c.204+323_504+183del(del ex 3&4, 1063 bp)[BCAM:c.204+323_504+183del]	p.Thr69_Glu168del	3,4	-	ISBT			(16), PMID: 17319831 n.a. n.a.
+LU	Lunull	LU*02N.03	BCAM	SNP	c.711C>A	p.Cys237Ter	6	-	ISBT			(16), PMID: 17319831 n.a. rs3810141
+LU	Lunull	LU*02N.04	BCAM	SNP	c.361C>T	p.Arg121Ter	3	-	ISBT			(16), PMID: 17319831 n.a. rs121918133
+LU	Lunull	LU*02N.05	BCAM	CNV	c.123_124dupGG[BCAM:c.123_124dupGG]	p.Glu42GlyfsTer3	2	-	ISBT			(17), Abstract n.a. rs779533801
+LU	Lunull	LU*02N.06	BCAM	CNV	del ex 3 to 15,26933 bp[BCAM:c.205_1887del]	p.68Leu-X629	3-15	-	ISBT			(18), Abstract n.a. n.a.
+LU	Lunull	LU*02N.07	BCAM	CNV	c.1049del2ins3[BCAM:c.1049_1050delinsAAT]	p.Leu350GlnfsTer425	8	-	ISBT,Garcia‐Sanchez F, Pardi C, Kupatawintu P, et al. Identification of new KLF1 and LU alleles during the resolution of Lutheran typing discrepancies[J]. Transfusion, 2016, 56(6): 1413-1418.			(15), PMID: 27043150 KT322139 n.a.
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

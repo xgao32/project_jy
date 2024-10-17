@@ -1,0 +1,80 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	Exon	prevalence	database	hg38_position	hg19_position	comments
+JR	Jr(a+)	ABCG2*01	ABCG2	-	-	-	-	universal	ISBT			[1, 2]
+JR	Jr(a-)	ABCG2*01N.01	ABCG2	SNP	c.376C>T	p.Gln126X	4	rare	ISBT			[1, 2]
+JR	Jr(a-)	ABCG2*01N.02.01	ABCG2	SNP	c.706C>T	p.Arg236X	7	rare	ISBT			[1]
+JR	Jr(a-)	ABCG2*01N.02.02	ABCG2	SNP	c.34G>A;706C>T	p.Val12Met;p.Arg236X	2,7	rare	ISBT			[1]
+JR	Jr(a-)	ABCG2*01N.03	ABCG2	SNP	c.736C>T	p.Arg246X	7	rare	ISBT			[3]
+JR	Jr(a-)	ABCG2*01N.04	ABCG2	SNP	c.337C>T	p.Arg113X	4	rare	ISBT			[3]
+JR	Jr(a-)	ABCG2*01N.05	ABCG2	SNP	c.784G>T	p.Gly262X	7	rare	ISBT			[3]
+JR	Jr(a-)	ABCG2*01N.06	ABCG2	SNP	c.34G>A;1591C>T	p.Val12Met;p.Gln531X	2 ,13	rare	ISBT			[2]
+JR	Jr(a-)	ABCG2*01N.07	ABCG2	CNV	c.187_197delATATTATCGAA[ABCG2:c.187_197del]	p.Ile63TyrfsX	2	rare	ISBT			[2]
+JR	Jr(a-)	ABCG2*01N.08	ABCG2	CNV	c.542_543insA[ABCG2:c.542_543insA]	p.Phe182ValfsX	6	rare	ISBT			[2]
+JR	Jr(a-)	ABCG2*01N.09	ABCG2	SNP	c.730C>T	p.Gln244X	7	rare	ISBT			[2]
+JR	Jr(a-)	ABCG2*01N.10	ABCG2	CNV	c.791_792delTT[ABCG2:c.791_792del]	p.Leu264HisfsX	7	rare	ISBT			[2]
+JR	Jr(a-)	ABCG2*01N.11	ABCG2	CNV	c.875_878dupACTT[ABCG2:c.875_878dupACTT]	p.Phe293LeufsX	8	rare	ISBT			[2]
+JR	Jr(a-)	ABCG2*01N.12	ABCG2	CNV	c.1111_1112delAC[ABCG2:c.1111_1112del]	p.Thr371LeufsX	9	rare	ISBT			[3]
+JR	Jr(a-)	ABCG2*01N.13	ABCG2	SNP,CNV	c.34G>A;c.244_245insC[ABCG2:c.244_245insC]	p.Val12Met;p.Thr82HisfsX	2,3	rare	ISBT			[4]
+JR	Jr(a-)	ABCG2*01N.14	ABCG2	CNV	c.1017_1019delCTC[ABCG2:c.1017_1019del]	p.Ser340del	9	rare	ISBT			[5]
+JR	Jr(a-)	ABCG2*01N.15	ABCG2	CNV	c.420_421insA[ABCG2:c.420_421insA]	p.Gln141Thrfs*16	5	rare	ISBT			[5]
+JR	Jr(a-)	ABCG2*01N.16	ABCG2	CNV	c.986_987delTA[ABCG2:c.986_987del]	p.Ile329Argfs*19	9	rare	ISBT			[6]
+JR	Jr(a-)	ABCG2*01N.17	ABCG2	SNP	c.263+1G>A 	splicing	Intron 3	rare	ISBT			[6]
+JR	Jr(a-)	ABCG2*01N.18	ABCG2	SNP	c.289A>T 	p.Lys97Ter	4	rare	ISBT			[6]
+JR	Jr(a-)	ABCG2*01N.19	ABCG2	CNV	c.565_566delGG[ABCG2:c.565_566del]	p.Gly189fs	6	rare	ISBT			[6]
+JR	Jr(a-)	ABCG2*01N.20	ABCG2	CNV	c.1515delC[ABCG2:c.1515del]	p.Ala506fs	13	rare	ISBT			[6]
+JR	Jr(a-)	ABCG2*01N.21	ABCG2	SNP	c.1723C>T 	p.Arg575Ter	14	rare	ISBT			[6]
+JR	Jr(a-)	ABCG2*01N.22	ABCG2	CNV	c.1789_1790insT[ABCG2:c.1789_1790insT]	p.Ala597fs	15	rare	ISBT			[8]
+JR	Jr(a-)	ABCG2*01N.24	ABCG2	SNP	c.2T>C 	p.0	2	rare	ISBT			[8]
+JR	Jr(a-)	ABCG2*01N.25	ABCG2	SNP,CNV	c.421C>A;c.1515delC[ABCG2:c.1515del]	p.Gln141Lys;p.Ala506fs	5 ,13	rare	ISBT			[9]
+JR	Jr(a-)	ABCG2*01N.26	ABCG2	SNP	c.439C>T 	p.Arg147Trp	4	rare	ISBT			[11]
+JR	Jr(a-)	ABCG2*01N.27	ABCG2	CNV	Deletion of exons 3 to 5[ABCG2:c.204_531del]	-	3,4,5	rare	ISBT			[10]
+JR	Jr(a+w)	ABCG2*01W.01	ABCG2	SNP	c.421C>A	p.Gln141Lys	5	uncommon	ISBT,bloodtyper			[10]
+JR	Jr(a+w)	ABCG2*01W.02	ABCG2	SNP	c.1858G>A	Asp620Asn	16	rare	ISBT,bloodtyper			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.421C>A;c,440G>A	p.Gln141Lys;p.Arg147Gln	5	rare	ISBT			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.421C>A;c.458C>T	p.Gln141Lys;p.Thr153Met	5	rare	ISBT			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.455T>C;c.1819T>C	p.Met152Thr;p.Cys608Arg	5,16	rare	ISBT			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.1384G>A	p.Gly462Arg	12	rare	ISBT			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.1819T>C	p.Cys608Arg	16	rare	ISBT			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.1820+1g>a	splicing	Intron 15	rare	ISBT			[6]
+JR	Unclear	Unclear	ABCG2	SNP	c.1841T>G	p.Leu614Trp	16	rare	ISBT			[10]
+JR	Unclear	Unclear	ABCG2	SNP	c.1714A>C	p.Ser572Arg	14	rare	ISBT			
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

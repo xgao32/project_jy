@@ -1,0 +1,6 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+YT	YT:1,-2 or Yt(a+b-)	YT*01 or YT*A	ACHE	SNP	c.1057C>C	p.His353His	2	universal	ISBT	-	-
+YT	YT:-1,2 or Yt(a-b+)	YT*02  or YT*B	ACHE	SNP	c.1057C>A	p.His353Asn	2	uncommon	ISBT	g.100893176G>T	g.100490797G>T
+YT	YT:-3 or YTEG-	YT*01.-03	ACHE	SNP	c.266G>A	p.Gly89Glu	2	rare	ISBT	g.100893967C>T	g.100491588C>T
+YT	YT:-4 or  YTLI-	YT*01.-04	ACHE	SNP	c.169G>A	p.Gly57Arg	2	rare	ISBT	g.100894064C>T	g.100491685C>T
+YT	YT:-5 or  YTOT-	YT*01.-05	ACHE	SNP	c.101G>A	p.Arg34Gln	2	rare	ISBT	g.100894132C>T	g.100491753C>T

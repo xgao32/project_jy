@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+XK	XK:1 or Kx+	XK*01	XK	SNP	c.121T>T	p.Leu41Leu	1	common	ISBT			(1), PMID: 8004674 NG_007473.2 
+XK	XK:1 or Kx+	XK*01.02	XK	SNP	c.121T>G	p.Leu41Val	1	common	ISBT			(46), PMID: in submission KY926705 
+XK	XK:-1 kx-	XK*N.01	XK	CNV	Deletion of XK gene[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			See XK*N.01  series below for references  
+XK	XK:-1 kx-	XK*N.02	XK	CNV	del Exon 1[XK:c.1_245del]	p.(Met1_Arg82del)	1	rare	ISBT			(2), PMID: 11761473 In Submission 
+XK	XK:-1 kx-	XK*N.03	XK	CNV	del Promoter + Exon 1 392 bp[XK:c.1-191_201del]	p.(Met1_Arg82del)	1	rare	ISBT			(3), PMID: 15504163 AY655133 AY655134 AY655135 
+XK	XK:-1 kx-	XK*N.04	XK	CNV	del Exon 2[XK:c.246_508del]	p.(Arg82_Ser170del)	2	rare	ISBT			(4), PMID: 12899725  
+XK	XK:-1 kx-	XK*N.05	XK	CNV	del Intron 2 + Exon 3[XK:c.508+1_1335del]	p.(Ser170_Ala444del)	3	rare	ISBT			  
+XK	XK:-1 kx-	XK*N.06	XK	CNV	del -272 to 119[XK:c.1-272_119del]	p.(Met1fs*45)	1+2	rare	ISBT			  
+XK	XK:-1 kx-	XK*N.07	XK	CNV	c.172delG[XK:c.172del]	p.(Val58Tyrfs*72)	1+2	rare	ISBT			(5), PMID: 16314760  
+XK	XK:-1 kx-	XK*N.08	XK	CNV	c.269delA[XK:c.269del]	p.(Tyr90Serfs*40)	2	rare	ISBT			  
+XK	XK:-1 kx-	XK*N.09	XK	CNV	c.268delT[XK:c.268del]	p.(Tyr90Thrfs*40)	2	rare	ISBT			(6), PMID: 8619554  
+XK	XK:-1 kx-	XK*N.10	XK	CNV	c.450_451insC[XK:c.450_451insC]	p.(Gln151Profs*48)	2 + 3	rare	ISBT			(7), PMID: 10930599 (8), PMID: 16344536 KY939773.1 
+XK	XK:-1 kx-	XK*N.11	XK	CNV	c.686_687delTT[XK:c.686_687del]	p.(Phe229Tyrfs*36)	3	rare	ISBT			(9), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.12	XK	CNV	c.771delG[XK:c.771del]	p.(Trp257Cysfs*11)	3	rare	ISBT			(9), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.13	XK	CNV	c.856_860delCTCTA[XK:c.856_860del]	p.(Leu286Tyrfs*16)	3	rare	ISBT			(9), PMID: 11761473 (10), PMID: 23943810  
+XK	XK:-1 kx-	XK*N.14	XK	CNV	c.938_951del[XK:c.938_951del]	p.(Asn313Thrfs*24)	3	rare	ISBT			(9), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.15	XK	CNV	c.1013delT[XK:c.1013del]	p.(Phe338Serfs*70)	3	rare	ISBT			(11), PMID: 10426139  rs1602159120
+XK	XK:-1 kx-	XK*N.16	XK	SNP	c.107G>A	p.(Trp36*)	1	rare	ISBT			(9), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.17	XK	SNP	c.397C>T	p.(Arg133*)	2	rare	ISBT			(9), PMID: 11761473 (12), PMID: 18167163 (13), PMID: 17870653  
+XK	XK:-1 kx-	XK*N.18	XK	SNP	c.463C>T	p.(Gln155*)	2	rare	ISBT			(9), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.19	XK	SNP	c.707G>A	p.(Trp236*)	3	rare	ISBT			(9), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.20	XK	SNP	c.895C>T	p.(Gln299*)	3	rare	ISBT			(14), PMID: 11261514  rs104894954
+XK	XK:-1 kx-	XK*N.21	XK	SNP	c.941G>A	p.(Trp314*)	3	rare	ISBT			(15), PMID: 11703337  rs104894953
+XK	XK:-1 kx-	XK*N.22	XK	SNP	c.245+1G>C	Aberrant splicing	Intron 1	rare	ISBT			(16), PMID: 11961232 (17), PMID: 11099667  
+XK	XK:-1 kx-	XK*N.23	XK	SNP	c.246-1G>A	Aberrant splicing	Intron 1	rare	ISBT			(18), PMID: 19040496  
+XK	XK:-1 kx-	XK*N.24	XK	SNP	c.508+1G>A	Aberrant splicing	Intron 2	rare	ISBT			(1), PMID: 8004674 (16), PMID: 11961232  rs1602145991
+XK	XK:-1 kx-	XK*N.25	XK	SNP	c.508+5G>A	Aberrant splicing	Intron 2	rare	ISBT			(19), PMID: 8916972 (20), PMID: 17302777  
+XK	XK:-1 kx-	XK*N.26	XK	SNP	c.509-1G>A	Aberrant splicing	Intron 2	rare	ISBT			(1), PMID: 8004674  rs1602158863
+XK	XK:-1 kx-	XK*N.27	XK	SNP	c.664C>G	p.Arg222Gly	3	rare	ISBT			(16), PMID: 11961232 (20), PMID: 17302777  
+XK	XK:-1 kx-	XK*N.28	XK	SNP	c.880T>C	p.(Cys294Arg)	3	rare	ISBT			(9), PMID: 11761473  rs28933690
+XK	XK:-1 kx-	XK*N.29	XK	SNP	c.979G>A	p.Glu327Lys	3	rare	ISBT			(21), PMID: 12823753  
+XK	XK:-1 kx-	XK*N.30	XK	SNP	c.1124G>C	p.(Arg375Pro)	3	rare	ISBT			(22), PMID: 9268240  
+XK	XK:-1 kx-	XK*N.31	XK	SNP	c.1134C>G	p.(Asn378Lys)	3	rare	ISBT			(22), PMID: 9268240  
+XK	XK:-1 kx-	XK*N.32	XK	SNP	c.962A>G	p.(Tyr321Cys)	3	rare	ISBT			(23), PMID: 21145924  
+XK	XK:-1 kx-	XK*N.33	XK	SNP	c.509-13C>G	Aberrant splicing	Intron 2	rare	ISBT			(23), PMID: 21145924  
+XK	XK:-1 kx-	XK*N.34	XK	CNV	c.523insA[XK:c.523_524insA]	p.(Ile175Asnfs*24)	3	rare	ISBT			(24), PMID: 21463873  
+XK	XK:-1 kx-	XK*N.35	XK	SNP	c.509-2A>G	Aberrant splicing	Intron 2	rare	ISBT			(24), PMID: 21463873 MH729875 
+XK	XK:-1 kx-	XK*N.36	XK	CNV	c.229delC[XK:c.229del]	p.(Leu80Phefs*50)	1 + 2	rare	ISBT			(25), PMID: 24529944  
+XK	XK:-1 kx-	XK*N.37	XK	SNP	c.154C>T	p.(Gln52*)	1	rare	ISBT			(26), PMID: 24635891  
+XK	XK:-1 kx-	XK*N.38	XK	CNV	669-673del5ins13(delTGTAGinsGGTCCTCTTTACC)[XK:c.669_673delTGTAGinsGGTCCTCTTTACC]	p.(Val225Leufs*12)	3	rare	ISBT			(27), doi: 10.1111/ncn3.12042 (28), doi 10.1111/ncn3.12256  
+XK	XK:-1 kx-	XK*N.39	XK	CNV	c.195-198delCCGC[XK:c.195_198del]	p.(Pro67Serfs*62)	1	rare	ISBT			(29), PMID: 28555782 LT838808.1 
+XK	XK:-1 kx-	XK*N.40	XK	CNV	c.640_645delTGGAGG[XK:c.640_645del]	p.(Trp213_Arg214del)	3	rare	ISBT			(30), doi: 10.1093/ajcp/140.suppl1. 063  
+XK	XK:-1 kx-	XK*N.41	XK	CNV	c.475delA[XK:c.475del]	p.(Ser159Valfs*15)	2 + 3	rare	ISBT			(31), Abstract MH730936 
+XK	XK:-1 kx-	XK*N.42	XK	SNP	c.1015A>T	p.(Lys339*)	3	rare	ISBT			(31), Abstract MH727540 
+XK	XK:-1 kx-	XK*N.43	XK	SNP	c.452A>C	p.(Gln151Pro)	2	rare	ISBT			(31), Abstract MH727541 
+XK	XK:-1 kx-	XK*N.44	XK	CNV	c.82insC[XK:c.82_83insC]	p.(Tyr28Leufs*58)	1	rare	ISBT			(32), PMID: 33190237 LC543982 
+XK	XK:-1 kx-	XK*N.45	XK	CNV	c.435delC[XK:c.435del]	p.(Leu146Trpfs*7)	2	rare	ISBT			(33), Genbank submission number only MK071977.1 
+XK	XK:-1 kx-	XK*N.46	XK	SNP	c.642G>A	p.(Trp214*)	3	rare	ISBT			(34) PMID: 29524658  
+XK	XK:-1 kx-	XK*N.47	XK	SNP	c.942G>A	p.(Trp314*)	3	rare	ISBT			(35) Abstract, (46) PMID: in submission KM821167.1 
+XK	XK:-1 kx-	XK*N.48	XK	SNP	c.577A>T	p.(Lys193*)	3	rare	ISBT			(46) PMID: in submission  
+XK	XK:-1 kx-	XK*N.01.001	XK	CNV	del Xp22.3-21.1 g.1_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(36), PMID: 6510024  
+XK	XK:-1 kx-	XK*N.01.002	XK	CNV	del Xp21.3-21.1 5-10mbp g.24900001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(37), PMID: 4039107  
+XK	XK:-1 kx-	XK*N.01.003	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(38), PMID: 3358422  
+XK	XK:-1 kx-	XK*N.01.004	XK	CNV	del Xp21.2 g.29300001_31500000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(38) PMID: 3358422  
+XK	XK:-1 kx-	XK*N.01.005	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(1), PMID: 8004674 (2), PMID: 11761473  
+XK	XK:-1 kx-	XK*N.01.006	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(39), PMID: 3334897  
+XK	XK:-1 kx-	XK*N.01.007	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(40), PMID: 3417309  
+XK	XK:-1 kx-	XK*N.01.008	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(41), PMID: 10651848  
+XK	XK:-1 kx-	XK*N.01.009	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(41), PMID: 10651848  
+XK	XK:-1 kx-	XK*N.01.010	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(41), PMID: 10651848  
+XK	XK:-1 kx-	XK*N.01.011	XK	CNV	del Xp21.2-21.1 g.29300001_37800000del[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(42), PMID: 24446915  
+XK	XK:-1 kx-	XK*N.01.100	XK	CNV	del 1.12mbp (telomeric LOC441488  to centromeric XK Intron 2)[XK:c.1_508del]	No protein present	1,2	rare	ISBT			(43), PMID: 17300882  
+XK	XK:-1 kx-	XK*N.01.101	XK	CNV	del 5.65mbp (telomeric TCTE1L  to centromeric DMD )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(43), PMID: 17300882  
+XK	XK:-1 kx-	XK*N.01.102	XK	CNV	del 0.59mpb (telomeric LANCL3  to centromeric DYNLT3 )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(44), PMID: 22383943  
+XK	XK:-1 kx-	XK*N.01.103	XK	CNV	del 1.94mbp (telomeric CXorf22 to centromeric DYNLT3 )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(44), PMID: 22383943  
+XK	XK:-1 kx-	XK*N.01.104	XK	CNV	del 5.71mbp (telomeric DMD  to centromeric DYNLT3 )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(44), PMID: 22383943  
+XK	XK:-1 kx-	XK*N.01.105	XK	CNV	del 0.151mpb (telomeric LANCL3  to centromeric CYBB )[XK:c.1_1335del]	No protein present	1,2,3	rare	ISBT			(45), PMID: 28555782 LT838809 
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												

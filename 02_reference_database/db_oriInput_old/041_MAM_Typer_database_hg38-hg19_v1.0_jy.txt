@@ -1,0 +1,82 @@
+Blood_system	phenotype	allen_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments
+MAM	MAM:1 or MAM+	MAM*01	EMP3	-	-	-	-	-	ISBT			-
+MAM	MAM:-1 or MAM-	MAM*01N.01	EMP3	SNP	c.123C>G;c.373A>G	p.Tyr41Ter;p.p.Ile125Val	3,5	-	ISBT			(1) PMID: 32678083 MN121937 rs201392469 rs4893
+MAM	MAM:-1 or MAM-	MAM*01N.02	EMP3	CNV	c.182-186_322+418del(745bp deletion)[EMP3:c.182-186_322+418del]	p.Trp62_Ser108del	4	-	ISBT			(1) PMID: 32678083 MN164486 N/A
+MAM	MAM:-1 or MAM-	MAM*01N.03	EMP3	CNV	c.323-231_492+338del(822bp deletion)[EMP3:c.323-231_492+338del]	p.Val109_Ter164del	5	-	ISBT			(1) PMID: 32678083 MN164487 N/A
+MAM	MAM:-1 or MAM-	MAM*01N.04	EMP3	CNV	c.1-3513_492+1379del(8518bp deletion)[EMP3:c.1-3513_492+1379del]	p.Met1_Ter164del	1-5	-	ISBT			(1) PMID: 32678083 MN175569 N/A
+MAM	MAM:-1 or MAM-	MAM*01N.05	EMP3	CNV	c.1-3532_492+1361del(8519bp deletion)[EMP3:c.1-3532_492+1361del]	p.Met1_Ter164del	1-5	-	ISBT			(1) PMID: 32678083 MN175570 N/A
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
