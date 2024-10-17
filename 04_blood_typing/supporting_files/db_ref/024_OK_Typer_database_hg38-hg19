@@ -1,0 +1,5 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments	hg38_NY_information	hg19_NY_information
+OK	OK:1 or Ok(a+)	OK*01.01	BSG	SNP	c.274G>G	p.Glu92Glu	4	universal	ISBT	-	-	NNN	NNN
+OK	OK:–1 or Ok(a–)	OK*01.–01	BSG	SNP	c.274G>A	p.Glu92Lys	4	rare	ISBT	g.580428G>A	g.580428G>A	YNN	YNN
+OK	OK:–2 or OKGV–	OK*01.–02	BSG	SNP	c.176G>T	p.Gly59Val	2	rare	ISBT	g.579608G>T	g.579608G>T	NYN	NYN
+OK	OK:–3 or OKVM–	OK*01.–03	BSG	SNP	c.178G>A	p.Val60Met 	2	rare	ISBT	g.579610G>A	g.579610G>A	NNY	NNY

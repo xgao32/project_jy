@@ -1,12 +1,22 @@
+# file type
+# tsv with format
+# CHR POS_START POS_END REF ALT HOM/HET float integer
+*.avinput 
+
 # folders
 
-#vcf files
-WGS_blood/00_CNV_SNV_data/1.1_snp/QIHUI/
+# unknown vcf files
+*WGS_blood/00_CNV_SNV_data/1.1_snp/QIHUI
+#/hpctmp/xgao32/alicloud/root/projects/projects_jy/WGS_blood/00_CNV_SNV_data/1.1_snp/QIHUI
 
 # output of something
-WGS_blood/00_CNV_SNV_data/1.1_snp/HaploX/
+*WGS_blood/00_CNV_SNV_data/1.1_snp/HaploX/*.avinput
+
+#WGS_blood/00_CNV_SNV_data/1.1_snp/HaploX/nohup.out
+#WGS_blood/00_CNV_SNV_data/1.1_snp/HaploX/temp.py
 
 
+# blood typing folder
 WGS_blood/04_blood_typing/scripts/preprocess_files/
 
 WGS_blood/04_blood_typing/supporting_files/annotated_vcf/

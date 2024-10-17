@@ -1,0 +1,4 @@
+Blood_system	phenotype	allel_name	GENE	Type	nt_change	AA	exon	prevalence	database	hg38_position	hg19_position	comments	hg38_NY_information	hg19_NY_information
+LW	LW:5 or LW(a+)	LW*05 or LW*A	ICAM4	SNP	c.299A>A		p.Gln100Gln	1	universal	-	-	NN	NN
+LW	LW:7 or LW(b+)	LW*07 or LW*B	ICAM4	SNP	c.299A>G	p.Gln100Arg	1	rare	ISBT	g.10287311A>G	g.10397987A>G	YN	YN
+LW	LW:–6 or LW(a–b–)	LW*05N.01	ICAM4	CNV	c.346_355del[ICAM4:c.346_355del]	p.Thr116Glufs*19	1	rare	ISBT	g.10287358_10287367delACCTGCGCAG	g.10398034_10398043delACCTGCGCAG	NY	NY
